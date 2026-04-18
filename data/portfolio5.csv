@@ -1,0 +1,131 @@
+titolo;categoria;ticker;piattaforma;importo;commissioni;quantità;data;profitto
+Core S&P 500;Etf;CSSPX.MI;trade;9.0;1.0;0.015035;13/11/24;0.0
+MSCI World;Etf;SWDA.MI;trade;9.0;1.0;0.087289;13/12/24;0.0
+Core S&P 500;Etf;CSSPX.MI;trade;25.0;0.0;0.040583;03/02/25;0.0
+MSCI World;Etf;SWDA.MI;trade;25.0;0.0;0.233601;03/02/25;0.0
+Bitcoin;Crypto;BTC-EUR;trade;7.95;1.0;8.5e-05;12/02/25;0.0
+obbligazioni dic 2030;Obbligazioni;OBBL2030;trade;19.99;1.0;1.0;12/02/25;0.0
+tesla;Azioni;TSLA;trade;10.16;0.0;0.0315;12/02/25;0.0
+XRP;Crypto;XRP-EUR;trade;28.26;1.0;10.0;02/03/25;0.0
+Core S&P 500;Etf;CSSPX.MI;trade;25.0;0.0;0.041474;03/03/25;0.0
+MSCI World;Etf;SWDA.MI;trade;25.0;0.0;0.235737;03/03/25;0.0
+tesla;Azioni;TSLA;trade;10.0;0.0;0.0486;11/03/25;0.0
+MSCI Emerging Markt;Etf;HEMA.MI;trade;10.0;0.0;0.902975;17/03/25;0.0
+Intesa San Paolo;Azioni;ISP.MI;trade;79.36;1.0;16.0;19/03/25;0.0
+Solana;Crypto;SOL-EUR;coinbase;10.0;0.0;0.0831;22/03/25;0.0
+Bitcoin;Crypto;BTC-EUR;coinbase;10.0;0.0;0.000124;23/03/25;0.0
+AMD;Azioni;AMD;trade;101.72;1.0;1.0;24/03/25;0.0
+tesla;Azioni;TSLA;trade;9.99;1.0;0.039439;24/03/25;0.0
+tesla;Azioni;TSLA;trade;10.03;0.0;0.0389;26/03/25;0.0
+MSCI World;Etf;SWDA.MI;trade;30.0;0.0;0.306069;02/04/25;0.0
+Core S&P 500;Etf;CSSPX.MI;trade;25.0;0.0;0.04539;02/04/25;0.0
+MSCI Emerging Markt;Etf;HEMA.MI;trade;20.0;0.0;1.819919;02/04/25;0.0
+Intesa San Paolo;Azioni;ISP.MI;trade;63.51;1.0;15.0;04/04/25;0.0
+MSCI World;Etf;SWDA.MI;trade;40.0;1.0;0.454535;07/04/25;0.0
+Bitcoin;Crypto;BTC-EUR;coinbase;10.0;0.0;0.00013916;08/04/2025;0.0
+Nvidia;Azioni;NVDA;trade;40.0;1.0;0.424403;08/04/2025;0.0
+Intesa San Paolo;Azioni;ISP.MI;trade;8.0;0.0;1.840773;16/04/2025;0.0
+Enel;Azioni;ENEL.MI;trade;10.0;0.0;1.377031;16/04/2025;0.0
+Leonardo-Finmeccanica;Azioni;LDO.MI;trade;8.0;0.0;0.176017;16/04/2025;0.0
+Chevron;Azioni;CVX;trade;10.0;0.0;0.083291;16/04/2025;0.0
+CSV heath;Azioni;CVS;trade;8.0;0.0;0.131947;16/04/2025;0.0
+Nvidia;Azioni;NVDA;trade;8.0;0.0;0.086281;16/04/2025;0.0
+AMD;Azioni;AMD;trade;5.0;0.0;0.063791;16/04/2025;0.0
+Core EURO STOXX 50;Etf;CSSX5E.MI;trade;8.0;0.0;0.040862;02/05/2025;0.0
+Core S&P 500;Etf;CSSPX.MI;trade;25.0;0.0;0.047284;02/05/2025;0.0
+MSCI World;Etf;SWDA.MI;trade;35.0;0.0;0.365741;02/05/2025;0.0
+MSCI Emerging Markt;Etf;HEMA.MI;trade;20.0;0.0;1.861677;02/05/2025;0.0
+Enel;Azioni;ENEL.MI;trade;10.0;0.0;1.256913;16/05/2025;0.0
+Intesa San Paolo;Azioni;ISP.MI;trade;8.0;0.0;1.609172;16/05/2025;0.0
+Leonardo-Finmeccanica;Azioni;LDO.MI;trade;8.0;0.0;0.165768;16/05/2025;0.0
+CSV heath;Azioni;CVS;trade;8.0;0.0;0.146012;16/05/2025;0.0
+Chevron;Azioni;CVX;trade;10.0;0.0;0.079138;16/05/2025;0.0
+Nvidia;Azioni;NVDA;trade;8.0;0.0;0.065919;16/05/2025;0.0
+AMD;Azioni;AMD;trade;5.0;0.0;0.047402;16/05/2025;0.0
+Physical Gold ETC;Commodities;PPFB.DE;scalable;10.0;0.0;0.182;16/05/2025;0.0
+MSCI World;Etf;SWDA.MI;trade;35.0;0.0;0.354911;02/06/2025;0.0
+Core S&P 500;Etf;CSSPX.MI;trade;25.0;0.0;0.045565;02/06/2025;0.0
+MSCI Emerging Markt;Etf;HEMA.MI;trade;20.0;0.0;1.858217;02/06/2025;0.0
+Core EURO STOXX 50;Etf;CSSX5E.MI;trade;8.0;0.0;0.039506;02/06/2025;0.0
+Amundi Btp Italy 10y;Obbligazioni;BTP10.MI;scalable;30.0;0.0;0.197706;04/06/2025;0.0
+Intesa San Paolo;Azioni;ISP.MI;trade;8.0;0.0;1.641362;16/06/2025;0.0
+Leonardo-Finmeccanica;Azioni;LDO.MI;trade;8.0;0.0;0.161714;16/06/2025;0.0
+CSV heath;Azioni;CVS;trade;8.0;0.0;0.136962;16/06/2025;0.0
+Chevron;Azioni;CVX;trade;10.0;0.0;0.080128;16/06/2025;0.0
+Nvidia;Azioni;NVDA;trade;8.0;0.0;0.064236;16/06/2025;0.0
+AMD;Azioni;AMD;trade;5.0;0.0;0.046537;16/06/2025;0.0
+Physical Gold ETC;Commodities;PPFB.DE;scalable;10.0;0.0;0.174;16/06/2025;0.0
+Core S&P 500;Etf;CSSPX.MI;trade;25.0;0.0;0.044491;02/07/2025;0.0
+MSCI Emerging Markt;Etf;HEMA.MI;trade;20.0;0.0;1.783564;02/07/2025;0.0
+Core EURO STOXX 50;Etf;CSSX5E.MI;trade;8.0;0.0;0.039702;02/07/2025;0.0
+MSCI World;Etf;SWDA.MI;trade;35.0;0.0;0.439301;02/07/2025;0.0
+Amundi Btp Italy 10y;Obbligazioni;BTP10.MI;scalable;30.0;0.0;0.196;02/07/2025;0.0
+Physical Gold ETC;Commodities;PPFB.DE;scalable;10.02;0.0;0.179;02/07/2025;0.0
+CSV heath;Azioni;CVS;trade;8.0;0.0;0.143446;16/07/2025;0.0
+Chevron;Azioni;CVX;trade;10.0;0.0;0.076663;16/07/2025;0.0
+Nvidia;Azioni;NVDA;trade;8.0;0.0;0.054399;16/07/2025;0.0
+AMD;Azioni;AMD;trade;5.0;0.0;0.037125;16/07/2025;0.0
+Core EURO STOXX 50;Etf;CSSX5E.MI;trade;8.0;0.0;0.040273;04/08/2025;0.0
+Core S&P 500;Etf;CSSPX.MI;trade;25.0;0.0;0.043061;04/08/2025;0.0
+MSCI World;Etf;SWDA.MI;trade;42.0;0.0;0.408302;04/08/2025;0.0
+Euro Govt Bond 3-5y;Obbligazioni;IBGX.MI;scalable;30.0;0.0;0.185;04/08/2025;0.0
+Amundi Btp Italy 10y;Obbligazioni;BTP10.MI;scalable;30.0;0.0;0.2;04/08/2025;0.0
+Physical Gold ETC;Commodities;PPFB.DE;scalable;10.03;0.0;0.18;04/08/2025;0.0
+Core S&P 500;Etf;CSSPX.MI;trade;25.0;0.0;0.042596;02/09/2025;0.0
+MSCI World;Etf;SWDA.MI;trade;35.0;0.0;0.336894;02/09/2025;0.0
+Euro Govt Bond 3-5y;Obbligazioni;IBGX.MI;scalable;30.0;0.0;0.185;02/09/2025;0.0
+Amundi Btp Italy 10y;Obbligazioni;BTP10.MI;scalable;30.0;0.0;0.198;02/09/2025;0.0
+Intesa San Paolo;Azioni;ISP.MI;trade;8.0;0.0;1.436265;15/09/2025;0.0
+Leonardo-Finmeccanica;Azioni;LDO.MI;trade;8.0;0.0;0.15438;15/09/2025;0.0
+Physical Gold ETC;Commodities;PPFB.DE;scalable;10.04;0.0;0.165;16/09/2025;0.0
+CSV heath;Azioni;CVS;trade;8.0;0.0;0.129891;16/09/2025;0.0
+Chevron;Azioni;CVX;trade;10.0;0.0;0.074316;16/09/2025;0.0
+Nvidia;Azioni;NVDA;trade;8.0;0.0;0.053655;16/09/2025;0.0
+AMD;Azioni;AMD;trade;5.0;0.0;0.036667;16/09/2025;0.0
+Core EURO STOXX 50;Etf;CSSX5E.MI;trade;8.0;0.0;0.037166;02/10/2025;0.0
+MSCI Emerging Markt;Etf;HEMA.MI;trade;20.0;0.0;1.584032;02/10/2025;0.0
+Core S&P 500;Etf;CSSPX.MI;trade;25.0;0.0;0.0408;02/10/2025;0.0
+MSCI World;Etf;SWDA.MI;trade;35.0;0.0;0.322788;02/10/2025;0.0
+Euro Govt Bond 3-5y;Etf;IBGX.MI;scalable;30.1;0.0;0.185;02/10/2025;0.0
+Amundi Btp Italy 10y;Etf;BTP10.MI;scalable;30.0;0.0;0.196;02/10/2025;0.0
+Physical Gold ETC;Commodities;PPFB.DE;scalable;10.05;0.0;0.143;16/10/2025;0.0
+MSCI Emerging Markt;Etf;HEMA.MI;trade;20.0;0.0;1.50949;03/11/2025;0.0
+Core S&P 500;Etf;CSSPX.MI;trade;20.0;0.0;0.031474;03/11/2025;0.0
+MSCI World;Etf;SWDA.MI;trade;30.0;0.0;0.268324;03/11/2025;0.0
+Amundi Btp Italy 10y;Obbligazioni;BTP10.MI;scalable;30.0;0.0;0.194;04/11/2025;0.0
+Euro Govt Bond 3-5y;Obbligazioni;IBGX.MI;scalable;30.15;0.0;0.184;04/11/2025;0.0
+Quantum Computing USD;Etf;QNTM.MI;trade;10.0;0.0;0.418672;04/11/2025;0.0
+Physical Gold ETC;Commodities;PPFB.DE;scalable;10.06;0.0;0.148;17/11/2025;0.0
+AMD;Azioni;AMD;trade;-126.72;1.0;-1.231522;21/11/2025;88.07
+MSCI World;Etf;SWDA.MI;trade;30.0;0.0;0.270782;02/12/2025;0.0
+Core EURO STOXX 50;Etf;CSSX5E.MI;trade;8.0;0.0;0.036764;02/12/2025;0.0
+MSCI Emerging Markt;Etf;HEMA.MI;trade;20.0;0.0;1.559819;02/12/2025;0.0
+Core S&P 500;Etf;CSSPX.MI;trade;20.0;0.0;0.031707;02/12/2025;0.0
+Quantum Computing USD;Etf;QNTM.MI;trade;10.0;0.0;0.46307;02/12/2025;0.0
+Amundi Btp Italy 10y;Obbligazioni;BTP10.MI;scalable;30.0;0.0;0.194;04/12/2025;0.0
+Euro Govt Bond 3-5y;Obbligazioni;IBGX.MI;scalable;30.2;0.0;0.187;04/12/2025;0.0
+Physical Gold ETC;Commodities;PPFB.DE;scalable;10.07;0.0;0.143;16/12/2025;0.0
+Intesa San Paolo;Azioni;ISP.MI;trade;8.0;0.0;1.376225;16/12/2025;0.0
+Leonardo-Finmeccanica;Azioni;LDO.MI;trade;8.0;0.0;0.174329;16/12/2025;0.0
+Enel;Azioni;ENEL.MI;trade;10.0;0.0;1.126506;16/12/2025;0.0
+CSV heath;Azioni;CVS;trade;8.0;0.0;0.118659;16/12/2025;0.0
+Chevron;Azioni;CVX;trade;10.0;0.0;0.080179;16/12/2025;0.0
+Nvidia;Azioni;NVDA;trade;8.0;0.0;0.053461;16/12/2025;0.0
+Core EURO STOXX 50;Etf;CSSX5E.MI;trade;8.0;0.0;0.03589;02/01/2026;0.0
+MSCI Emerging Markt;Etf;HEMA.MI;trade;20.0;0.0;1.511658;02/01/2026;0.0
+Core S&P 500;Etf;CSSPX.MI;trade;20.0;0.0;0.031776;02/01/2026;0.0
+Quantum Computing USD;Etf;QNTM.MI;trade;10.0;0.0;0.467617;02/01/2026;0.0
+Euro Govt Bond 3-5y;Etf;IBGX.MI;scalable;30.25;0.0;0.188;05/01/2026;0.0
+Amundi Btp Italy 10y;Etf;BTP10.MI;scalable;30.0;0.0;0.195;05/01/2026;0.0
+Enel;Azioni;ENEL.MI;trade;10.0;0.0;1.073537;16/01/2026;0.0
+Intesa San Paolo;Azioni;ISP.MI;trade;8.0;0.0;1.339584;16/01/2026;0.0
+MSCI World;Etf;SWDA.MI;trade;0.5;0.0;0.004433;23/01/2026;0.0
+Physical Gold ETC;Commodities;PPFB.DE;scalable;10.08;0.0;0.131;16/01/2026;0.0
+Amundi Btp Italy 10y;Obbligazioni;BTP10.MI;scalable;30.0;0.0;0.193;02/02/2026;0.0
+Euro Govt Bond 3-5y;Obbligazioni;IBGX.MI;scalable;30.3;0.0;0.187;02/02/2026;0.0
+Physical Gold ETC;Commodities;PPFB.DE;scalable;10.09;0.0;0.123;16/02/2026;0.0
+Euro Govt Bond 3-5y;Obbligazioni;IBGX.MI;scalable;30.35;0.0;0.187;04/03/2026;0.0
+Amundi Btp Italy 10y;Obbligazioni;BTP10.MI;scalable;30.0;0.0;0.192;04/03/2026;0.0
+Physical Gold ETC;Commodities;PPFB.DE;scalable;10.1;0.0;0.12;16/03/2026;0.0
+Amundi Btp Italy 10y;Obbligazioni;BTP10.MI;scalable;30.0;0.0;0.197;07/04/2026;0.0
+Amundi Btp Italy 10y;Obbligazioni;IBGX.MI;scalable;30.4;0.0;0.19;07/04/2026;0.0

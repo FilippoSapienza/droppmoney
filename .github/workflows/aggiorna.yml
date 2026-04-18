@@ -1,0 +1,37 @@
+name: Aggiorna Dati Portafoglio
+
+on:
+  schedule:
+    # Ogni giorno alle 18:00 ora italiana (16:00 UTC)
+    - cron: '0 16 * * 1-5'
+  workflow_dispatch: # Permette esecuzione manuale dal sito GitHub
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Installa Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installa dipendenze
+        run: |
+          pip install pandas yfinance numpy
+
+      - name: Esegui calcolo giornaliero
+        run: python calcolo_giornaliero.py
+
+      - name: Commit e push dati aggiornati
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "📊 Aggiornamento dati $(date +'%Y-%m-%d %H:%M')"
+          git push
