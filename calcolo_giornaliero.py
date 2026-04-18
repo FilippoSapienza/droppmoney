@@ -147,6 +147,8 @@ def aggiorna_dati():
             dati_storici[ticker] = dati_storici[ticker] * usd_to_eur_storico
 
     dati_storici['OBBL2030'] = prezzo_obbligazione
+    # Salva dati storici aggiornati per genera_json.py
+    dati_storici.to_csv(os.path.join(BASE, 'dati_storici.csv'), sep=';', index=True)
 
     # === NAV GIORNALIERO ===
     print(">>> Calcolo NAV giornaliero...")
@@ -176,7 +178,8 @@ def aggiorna_dati():
         cap > 0, ((val - cap) / cap) * 100, 0.0)
     portafoglio_giornaliero["rendimento_netto_percentuale"] = np.where(
         costo > 0, ((val - costo) / costo) * 100, 0.0)
-
+    # Salva NAV per genera_json.py
+    portafoglio_giornaliero.to_csv(os.path.join(BASE, 'portafoglio_giornaliero.csv'), sep=',', decimal='.')
     # =====================================================================
     # SALVATAGGIO JSON (invece di CSV, per GitHub Pages + React)
     # =====================================================================
