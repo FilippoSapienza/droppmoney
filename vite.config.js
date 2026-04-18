@@ -4,7 +4,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
   // Cambia 'droppmoney' con il nome esatto del tuo repo GitHub
-  base: '/droppmoney/',
+  base: '/',
   plugins: [
     react(),
     VitePWA({
