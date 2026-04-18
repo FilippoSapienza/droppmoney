@@ -26,7 +26,7 @@ jobs:
           pip install pandas yfinance numpy
 
       - name: Esegui calcolo giornaliero
-        run: python calcolo_giornaliero.py
+        run: python calcolo_giornaliero.py && python genera_json.py
 
       - name: Commit e push dati aggiornati
         run: |
