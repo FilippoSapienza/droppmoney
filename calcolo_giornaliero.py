@@ -153,6 +153,14 @@ def aggiorna_dati():
         valori_per_categoria[col] = valori_per_categoria[col].round(2)
     valori_per_categoria.to_json(os.path.join(out, "categorie.json"), orient='records', indent=2)
 
+    # 3b. ticker_pie.json — breakdown per ticker (per donut chart)
+    ticker_pie = df_categorie.groupby(['ticker', 'categoria'])['valore_attuale'].sum().reset_index()
+    ticker_pie['peso_percentuale'] = (ticker_pie['valore_attuale'] / ticker_pie['valore_attuale'].sum() * 100).round(2)
+    ticker_pie['valore_attuale'] = ticker_pie['valore_attuale'].round(2)
+    # aggiungi titolo
+    ticker_pie = ticker_pie.merge(df_categorie[['ticker','titolo']].drop_duplicates(), on='ticker', how='left')
+    ticker_pie.to_json(os.path.join(out, "ticker_pie.json"), orient='records', indent=2)
+
     # 4. summary.json — KPI principali per la homepage
     valore_totale = float(val.iloc[-1]) if len(val) > 0 else 0
     capitale = float(cap.iloc[-1]) if len(cap) > 0 else 0
