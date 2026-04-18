@@ -2,19 +2,21 @@ name: Aggiorna Dati Portafoglio
 
 on:
   schedule:
-    # Ogni giorno alle 18:00 ora italiana (16:00 UTC)
     - cron: '0 7-19/2 * * 1-5'
-  workflow_dispatch: # Permette esecuzione manuale dal sito GitHub
+  workflow_dispatch:
 
 jobs:
   aggiorna:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Installa Python
         uses: actions/setup-python@v5
@@ -22,8 +24,7 @@ jobs:
           python-version: '3.11'
 
       - name: Installa dipendenze
-        run: |
-          pip install pandas yfinance numpy
+        run: pip install pandas yfinance numpy
 
       - name: Esegui calcolo giornaliero
         run: python calcolo_giornaliero.py && python genera_json.py
