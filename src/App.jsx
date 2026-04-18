@@ -4,10 +4,13 @@ import "./App.css";
 // === CONFIG: cambia con il tuo repo GitHub ===
 const GITHUB_USER = "FilippoSapienza";
 const GITHUB_REPO = "droppmoney";
+const GITHUB_TOKEN = "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";
 const DATA_BASE = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/data/output`;
 
 function fetchJSON(file) {
-  return fetch(`${DATA_BASE}/${file}`).then(r => {
+  return fetch(`${DATA_BASE}/${file}`, {
+    headers: { Authorization: `token ${GITHUB_TOKEN}` }
+  }).then(r => {
     if (!r.ok) throw new Error(`${file} non trovato`);
     return r.json();
   });
