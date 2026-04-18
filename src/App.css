@@ -223,3 +223,37 @@ select.form-input { cursor: pointer; }
 .submit-btn:hover { background: var(--navy-light); }
 .submit-btn:disabled { opacity: 0.6; cursor: not-allowed; }
 .form-note { font-size: 11px; color: var(--mu); line-height: 1.5; padding: 8px 0 0; border-top: 0.5px solid var(--border); }
+
+/* ── POSIZIONE CARD ESPANDIBILE ── */
+.holdings { display: flex; flex-direction: column; gap: 1px; border-radius: var(--rmd); overflow: hidden; border: 0.5px solid var(--border); background: var(--border); }
+.pos-card { background: var(--surf); }
+.pos-row {
+  display: flex; align-items: center; padding: 10px 13px;
+  gap: 8px; cursor: pointer; transition: background 0.12s;
+}
+.pos-row:hover { background: var(--surf2); }
+.pos-left { display: flex; flex-direction: column; min-width: 46px; }
+.pos-ticker { font-size: 12px; font-weight: 500; color: var(--tx); }
+.pos-name { font-size: 11px; color: var(--mu); }
+.pos-right { margin-left: auto; text-align: right; }
+.pos-val { font-size: 12px; font-weight: 500; color: var(--tx); }
+.pos-var { font-size: 11px; margin-top: 1px; }
+.pos-chevron { margin-left: 6px; color: var(--mu); transition: transform 0.2s; display: flex; align-items: center; }
+.pos-chevron.open { transform: rotate(180deg); }
+
+.pos-detail {
+  padding: 0 13px 12px;
+  border-top: 0.5px solid var(--border);
+  background: var(--surf2);
+  animation: slideDown 0.18s ease;
+}
+@keyframes slideDown { from { opacity: 0; transform: translateY(-4px); } to { opacity: 1; transform: translateY(0); } }
+
+.pos-detail-grid {
+  display: grid; grid-template-columns: 1fr 1fr;
+  gap: 10px 16px; padding: 10px 0 8px;
+}
+.pos-detail-item { display: flex; flex-direction: column; gap: 2px; }
+.pos-detail-lbl { font-size: 10px; color: var(--mu); text-transform: uppercase; letter-spacing: 0.4px; }
+.pos-detail-val { font-size: 13px; font-weight: 500; color: var(--tx); }
+.pos-categoria { display: flex; align-items: center; gap: 6px; font-size: 11px; color: var(--mu); padding-top: 6px; border-top: 0.5px solid var(--border); }

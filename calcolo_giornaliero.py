@@ -85,6 +85,53 @@ def aggiorna_dati():
         cat_map = dict(zip(df_categorie['ticker'], df_categorie['categoria']))
         valori_per_ticker['categoria'] = valori_per_ticker['ticker'].map(cat_map)
 
+    # === VARIAZIONE GIORNALIERA PER TICKER ===
+    # Prezzo di ieri (penultima riga disponibile nei dati storici)
+    if len(dati_storici) >= 2:
+        prezzi_ieri = dati_storici.iloc[-2].to_dict()
+    else:
+        prezzi_ieri = {}
+
+    def var_giornaliera(row):
+        ticker = row['ticker']
+        p_oggi = row['prezzo_attuale']
+        p_ieri_raw = prezzi_ieri.get(ticker, None)
+        if ticker in tickers_usd and 'EURUSD=X' in dati_yf.columns:
+            eur_usd_ieri = float(dati_yf['EURUSD=X'].iloc[-2]) if len(dati_yf) >= 2 else eur_usd_attuale
+            p_ieri = float(p_ieri_raw) * (1 / eur_usd_ieri) if p_ieri_raw else None
+        else:
+            p_ieri = float(p_ieri_raw) if p_ieri_raw else None
+        if p_ieri and p_ieri > 0 and p_oggi:
+            return round((p_oggi - p_ieri) / p_ieri * 100, 2)
+        return 0.0
+
+    valori_per_ticker['var_oggi_pct'] = valori_per_ticker.apply(var_giornaliera, axis=1)
+    valori_per_ticker['var_oggi_eur'] = (
+        valori_per_ticker['valore_attuale'] * valori_per_ticker['var_oggi_pct'] / 100
+    ).round(2)
+
+    # === PREZZO MEDIO DI CARICO (PMC) PER TICKER ===
+    pmc_data = df_categorie.groupby('ticker').apply(
+        lambda g: round(g['importo'].sum() / g['quantità'].sum(), 4) if g['quantità'].sum() > 0 else 0
+    ).reset_index()
+    pmc_data.columns = ['ticker', 'pmc']
+    qty_data = df_categorie.groupby('ticker')['quantità'].sum().reset_index()
+    qty_data.columns = ['ticker', 'quantità_totale']
+
+    valori_per_ticker = valori_per_ticker.merge(pmc_data, on='ticker', how='left')
+    valori_per_ticker = valori_per_ticker.merge(qty_data, on='ticker', how='left')
+
+    # P&L totale per posizione
+    valori_per_ticker['pl_eur'] = (
+        valori_per_ticker['valore_attuale'] -
+        valori_per_ticker['pmc'] * valori_per_ticker['quantità_totale']
+    ).round(2)
+    valori_per_ticker['pl_pct'] = np.where(
+        valori_per_ticker['pmc'] > 0,
+        ((valori_per_ticker['prezzo_attuale'] - valori_per_ticker['pmc']) / valori_per_ticker['pmc'] * 100).round(2),
+        0.0
+    )
+
     valori_per_ticker = valori_per_ticker.sort_values(
         by=['categoria', 'peso_percentuale'], ascending=[True, False])
 

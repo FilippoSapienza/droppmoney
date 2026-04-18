@@ -99,6 +99,45 @@ function DonutChart({ data, labelKey, valueKey, colorMap }) {
 function LoadingCard() { return <div className="kpi full" style={{ textAlign:'center', padding:'2rem', color:'var(--mu)', fontSize:13 }}>Caricamento...</div>; }
 function ErrorCard({ msg }) { return <div className="kpi full" style={{ textAlign:'center', padding:'1.5rem', color:'var(--dn)', fontSize:13 }}>⚠ {msg}</div>; }
 
+function PosizioneCard({ p, sparkData }) {
+  const [open, setOpen] = useState(false);
+  const varOggi = p.var_oggi_pct ?? 0;
+  const varOggiEur = p.var_oggi_eur ?? 0;
+  const isUp = varOggi >= 0;
+  const plPct = p.pl_pct ?? 0;
+  const plEur = p.pl_eur ?? 0;
+  const plUp = plPct >= 0;
+  return (
+    <div className="pos-card">
+      <div className="pos-row" onClick={() => setOpen(o => !o)}>
+        <div className="pos-left">
+          <div className="pos-ticker">{p.ticker}</div>
+          <div className="pos-name">{p.titolo || p.ticker}</div>
+        </div>
+        <Sparkline data={sparkData[p.ticker]} up={isUp} width={56} height={32} />
+        <div className="pos-right">
+          <div className="pos-val">€ {p.valore_attuale?.toLocaleString("it-IT",{minimumFractionDigits:0})}</div>
+          <div className={`pos-var ${isUp?"up":"dn"}`}>{isUp?"▲":"▼"} {isUp?"+":""}{varOggi.toFixed(2)}%</div>
+        </div>
+        <div className={`pos-chevron ${open?"open":""}`}><svg width={12} height={12} viewBox="0 0 12 12" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"><polyline points="2 4 6 8 10 4"/></svg></div>
+      </div>
+      {open && (
+        <div className="pos-detail">
+          <div className="pos-detail-grid">
+            <div className="pos-detail-item"><div className="pos-detail-lbl">Var. oggi €</div><div className={`pos-detail-val ${isUp?"up":"dn"}`}>{isUp?"+":""}€ {Math.abs(varOggiEur).toLocaleString("it-IT",{minimumFractionDigits:2})}</div></div>
+            <div className="pos-detail-item"><div className="pos-detail-lbl">Peso portafoglio</div><div className="pos-detail-val">{p.peso_percentuale?.toFixed(1)}%</div></div>
+            <div className="pos-detail-item"><div className="pos-detail-lbl">Prezzo attuale</div><div className="pos-detail-val">€ {p.prezzo_attuale?.toLocaleString("it-IT",{minimumFractionDigits:2})}</div></div>
+            <div className="pos-detail-item"><div className="pos-detail-lbl">Quantità</div><div className="pos-detail-val">{p.quantità_totale?.toLocaleString("it-IT",{maximumFractionDigits:4})}</div></div>
+            <div className="pos-detail-item"><div className="pos-detail-lbl">PMC</div><div className="pos-detail-val">€ {p.pmc?.toLocaleString("it-IT",{minimumFractionDigits:2})}</div></div>
+            <div className="pos-detail-item"><div className="pos-detail-lbl">P&L totale</div><div className={`pos-detail-val ${plUp?"up":"dn"}`}>{plUp?"+":""}€ {Math.abs(plEur).toLocaleString("it-IT",{minimumFractionDigits:2})} ({plUp?"+":""}{plPct.toFixed(2)}%)</div></div>
+          </div>
+          <div className="pos-categoria"><span className="cat-dot" style={{background: PALETTE_CATEGORIA[p.categoria] || "#4a6fc4"}} />{p.categoria}</div>
+        </div>
+      )}
+    </div>
+  );
+}
+
 function PagePortfolio({ summary, nav, posizioni, loading, error, onRefresh }) {
   const [tf, setTf] = useState('3M');
   const tfs = ['1M','3M','6M','1A','MAX'];
@@ -150,14 +189,7 @@ function PagePortfolio({ summary, nav, posizioni, loading, error, onRefresh }) {
               <div className="sec-label">Posizioni aperte</div>
               <div className="holdings">
                 {posizioni.filter(p=>p.valore_attuale>0).map(p=>(
-                  <div className="h-row" key={p.ticker}>
-                    <div><div className="h-tick">{p.ticker}</div><div className="h-name">{p.titolo||p.ticker}</div></div>
-                    <Sparkline data={sparkData[p.ticker]} up={true} />
-                    <div>
-                      <div className="h-val">€ {p.valore_attuale.toLocaleString('it-IT',{minimumFractionDigits:0})}</div>
-                      <div className="h-chg" style={{color:'var(--mu)',textAlign:'right',fontSize:11}}>{p.peso_percentuale?.toFixed(1)}%</div>
-                    </div>
-                  </div>
+                  <PosizioneCard key={p.ticker} p={p} sparkData={sparkData} />
                 ))}
               </div>
             </>
