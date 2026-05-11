@@ -31,7 +31,7 @@
     "ticker":"CSSPX.MI",
     "categoria":"Etf",
     "valore_attuale":338.23,
-    "peso_percentuale":12.94,
+    "peso_percentuale":12.95,
     "titolo":"Core S&P 500"
   },
   {
@@ -44,15 +44,15 @@
   {
     "ticker":"CVS",
     "categoria":"Azioni",
-    "valore_attuale":62.28,
+    "valore_attuale":62.08,
     "peso_percentuale":2.38,
     "titolo":"CSV heath"
   },
   {
     "ticker":"CVX",
     "categoria":"Azioni",
-    "valore_attuale":73.34,
-    "peso_percentuale":2.81,
+    "valore_attuale":73.1,
+    "peso_percentuale":2.8,
     "titolo":"Chevron"
   },
   {
@@ -101,7 +101,7 @@
     "ticker":"ISP.MI",
     "categoria":"Azioni",
     "valore_attuale":233.93,
-    "peso_percentuale":8.95,
+    "peso_percentuale":8.96,
     "titolo":"Intesa San Paolo"
   },
   {
@@ -114,15 +114,15 @@
   {
     "ticker":"NVDA",
     "categoria":"Azioni",
-    "valore_attuale":147.18,
-    "peso_percentuale":5.63,
+    "valore_attuale":146.71,
+    "peso_percentuale":5.62,
     "titolo":"Nvidia"
   },
   {
     "ticker":"OBBL2030",
     "categoria":"Obbligazioni",
     "valore_attuale":19.99,
-    "peso_percentuale":0.76,
+    "peso_percentuale":0.77,
     "titolo":"obbligazioni dic 2030"
   },
   {
@@ -150,13 +150,13 @@
     "ticker":"SWDA.MI",
     "categoria":"Etf",
     "valore_attuale":488.64,
-    "peso_percentuale":18.7,
+    "peso_percentuale":18.71,
     "titolo":"MSCI World"
   },
   {
     "ticker":"TSLA",
     "categoria":"Azioni",
-    "valore_attuale":57.85,
+    "valore_attuale":57.67,
     "peso_percentuale":2.21,
     "titolo":"tesla"
   },
