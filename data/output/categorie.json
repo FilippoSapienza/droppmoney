@@ -2,12 +2,12 @@
   {
     "categoria":"Azioni",
     "valore_attuale":673.32,
-    "peso_percentuale":25.67
+    "peso_percentuale":25.65
   },
   {
     "categoria":"Commodities",
-    "valore_attuale":131.1,
-    "peso_percentuale":5.0
+    "valore_attuale":131.54,
+    "peso_percentuale":5.01
   },
   {
     "categoria":"Crypto",
@@ -16,12 +16,12 @@
   },
   {
     "categoria":"Etf",
-    "valore_attuale":1273.58,
-    "peso_percentuale":48.56
+    "valore_attuale":1277.09,
+    "peso_percentuale":48.65
   },
   {
     "categoria":"Obbligazioni",
-    "valore_attuale":501.06,
-    "peso_percentuale":19.11
+    "valore_attuale":499.72,
+    "peso_percentuale":19.04
   }
 ]
