@@ -24,7 +24,7 @@
     "ticker":"BTP10.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":266.95,
-    "peso_percentuale":10.23,
+    "peso_percentuale":10.22,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
@@ -44,15 +44,15 @@
   {
     "ticker":"CVS",
     "categoria":"Azioni",
-    "valore_attuale":66.35,
-    "peso_percentuale":2.54,
+    "valore_attuale":66.62,
+    "peso_percentuale":2.55,
     "titolo":"CSV heath"
   },
   {
     "ticker":"CVX",
     "categoria":"Azioni",
-    "valore_attuale":77.63,
-    "peso_percentuale":2.97,
+    "valore_attuale":77.94,
+    "peso_percentuale":2.99,
     "titolo":"Chevron"
   },
   {
@@ -114,8 +114,8 @@
   {
     "ticker":"NVDA",
     "categoria":"Azioni",
-    "valore_attuale":155.02,
-    "peso_percentuale":5.94,
+    "valore_attuale":155.66,
+    "peso_percentuale":5.96,
     "titolo":"Nvidia"
   },
   {
@@ -150,14 +150,14 @@
     "ticker":"SWDA.MI",
     "categoria":"Etf",
     "valore_attuale":494.86,
-    "peso_percentuale":18.96,
+    "peso_percentuale":18.95,
     "titolo":"MSCI World"
   },
   {
     "ticker":"TSLA",
     "categoria":"Azioni",
-    "valore_attuale":57.36,
-    "peso_percentuale":2.2,
+    "valore_attuale":57.6,
+    "peso_percentuale":2.21,
     "titolo":"tesla"
   },
   {
