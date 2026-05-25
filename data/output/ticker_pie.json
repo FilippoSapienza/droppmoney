@@ -10,7 +10,7 @@
     "ticker":"BTC-EUR",
     "categoria":"Crypto",
     "valore_attuale":23.02,
-    "peso_percentuale":0.87,
+    "peso_percentuale":0.88,
     "titolo":"Bitcoin"
   },
   {
@@ -31,7 +31,7 @@
     "ticker":"CSSPX.MI",
     "categoria":"Etf",
     "valore_attuale":348.23,
-    "peso_percentuale":13.23,
+    "peso_percentuale":13.24,
     "titolo":"Core S&P 500"
   },
   {
@@ -44,15 +44,15 @@
   {
     "ticker":"CVS",
     "categoria":"Azioni",
-    "valore_attuale":64.76,
+    "valore_attuale":64.64,
     "peso_percentuale":2.46,
     "titolo":"CSV heath"
   },
   {
     "ticker":"CVX",
     "categoria":"Azioni",
-    "valore_attuale":78.03,
-    "peso_percentuale":2.97,
+    "valore_attuale":77.89,
+    "peso_percentuale":2.96,
     "titolo":"Chevron"
   },
   {
@@ -108,14 +108,14 @@
     "ticker":"LDO.MI",
     "categoria":"Azioni",
     "valore_attuale":43.54,
-    "peso_percentuale":1.65,
+    "peso_percentuale":1.66,
     "titolo":"Leonardo-Finmeccanica"
   },
   {
     "ticker":"NVDA",
     "categoria":"Azioni",
-    "valore_attuale":148.67,
-    "peso_percentuale":5.65,
+    "valore_attuale":148.4,
+    "peso_percentuale":5.64,
     "titolo":"Nvidia"
   },
   {
@@ -150,14 +150,14 @@
     "ticker":"SWDA.MI",
     "categoria":"Etf",
     "valore_attuale":502.17,
-    "peso_percentuale":19.08,
+    "peso_percentuale":19.09,
     "titolo":"MSCI World"
   },
   {
     "ticker":"TSLA",
     "categoria":"Azioni",
-    "valore_attuale":58.08,
-    "peso_percentuale":2.21,
+    "valore_attuale":57.98,
+    "peso_percentuale":2.2,
     "titolo":"tesla"
   },
   {
