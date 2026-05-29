@@ -24,7 +24,7 @@
     "ticker":"BTP10.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":272.43,
-    "peso_percentuale":10.29,
+    "peso_percentuale":10.3,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
@@ -44,15 +44,15 @@
   {
     "ticker":"CVS",
     "categoria":"Azioni",
-    "valore_attuale":64.57,
-    "peso_percentuale":2.44,
+    "valore_attuale":64.38,
+    "peso_percentuale":2.43,
     "titolo":"CSV heath"
   },
   {
     "ticker":"CVX",
     "categoria":"Azioni",
-    "valore_attuale":74.63,
-    "peso_percentuale":2.82,
+    "valore_attuale":74.41,
+    "peso_percentuale":2.81,
     "titolo":"Chevron"
   },
   {
@@ -87,14 +87,14 @@
     "ticker":"IBGX.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":208.12,
-    "peso_percentuale":7.86,
+    "peso_percentuale":7.87,
     "titolo":"Euro Govt Bond 3-5y"
   },
   {
     "ticker":"IBGX.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":208.12,
-    "peso_percentuale":7.86,
+    "peso_percentuale":7.87,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
@@ -114,8 +114,8 @@
   {
     "ticker":"NVDA",
     "categoria":"Azioni",
-    "valore_attuale":147.96,
-    "peso_percentuale":5.59,
+    "valore_attuale":147.52,
+    "peso_percentuale":5.57,
     "titolo":"Nvidia"
   },
   {
@@ -136,7 +136,7 @@
     "ticker":"QNTM.MI",
     "categoria":"Etf",
     "valore_attuale":38.51,
-    "peso_percentuale":1.45,
+    "peso_percentuale":1.46,
     "titolo":"Quantum Computing USD"
   },
   {
@@ -150,14 +150,14 @@
     "ticker":"SWDA.MI",
     "categoria":"Etf",
     "valore_attuale":503.57,
-    "peso_percentuale":19.02,
+    "peso_percentuale":19.03,
     "titolo":"MSCI World"
   },
   {
     "ticker":"TSLA",
     "categoria":"Azioni",
-    "valore_attuale":60.29,
-    "peso_percentuale":2.28,
+    "valore_attuale":60.11,
+    "peso_percentuale":2.27,
     "titolo":"tesla"
   },
   {
