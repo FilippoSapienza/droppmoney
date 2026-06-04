@@ -44,14 +44,14 @@
   {
     "ticker":"CVS",
     "categoria":"Azioni",
-    "valore_attuale":63.44,
+    "valore_attuale":63.51,
     "peso_percentuale":2.4,
     "titolo":"CSV heath"
   },
   {
     "ticker":"CVX",
     "categoria":"Azioni",
-    "valore_attuale":77.33,
+    "valore_attuale":77.41,
     "peso_percentuale":2.93,
     "titolo":"Chevron"
   },
@@ -101,7 +101,7 @@
     "ticker":"ISP.MI",
     "categoria":"Azioni",
     "valore_attuale":227.09,
-    "peso_percentuale":8.6,
+    "peso_percentuale":8.59,
     "titolo":"Intesa San Paolo"
   },
   {
@@ -114,8 +114,8 @@
   {
     "ticker":"NVDA",
     "categoria":"Azioni",
-    "valore_attuale":148.26,
-    "peso_percentuale":5.61,
+    "valore_attuale":148.42,
+    "peso_percentuale":5.62,
     "titolo":"Nvidia"
   },
   {
@@ -156,7 +156,7 @@
   {
     "ticker":"TSLA",
     "categoria":"Azioni",
-    "valore_attuale":57.76,
+    "valore_attuale":57.82,
     "peso_percentuale":2.19,
     "titolo":"tesla"
   },
