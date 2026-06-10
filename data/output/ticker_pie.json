@@ -24,14 +24,14 @@
     "ticker":"BTP10.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":269.73,
-    "peso_percentuale":10.39,
+    "peso_percentuale":10.4,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
     "ticker":"CSSPX.MI",
     "categoria":"Etf",
     "valore_attuale":341.82,
-    "peso_percentuale":13.17,
+    "peso_percentuale":13.18,
     "titolo":"Core S&P 500"
   },
   {
@@ -44,15 +44,15 @@
   {
     "ticker":"CVS",
     "categoria":"Azioni",
-    "valore_attuale":67.95,
+    "valore_attuale":67.94,
     "peso_percentuale":2.62,
     "titolo":"CSV heath"
   },
   {
     "ticker":"CVX",
     "categoria":"Azioni",
-    "valore_attuale":77.76,
-    "peso_percentuale":2.99,
+    "valore_attuale":76.74,
+    "peso_percentuale":2.96,
     "titolo":"Chevron"
   },
   {
@@ -66,7 +66,7 @@
     "ticker":"HEMA.MI",
     "categoria":"Etf",
     "valore_attuale":226.55,
-    "peso_percentuale":8.73,
+    "peso_percentuale":8.74,
     "titolo":"MSCI Emerging Markt"
   },
   {
@@ -87,21 +87,21 @@
     "ticker":"IBGX.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":207.27,
-    "peso_percentuale":7.98,
+    "peso_percentuale":7.99,
     "titolo":"Euro Govt Bond 3-5y"
   },
   {
     "ticker":"IBGX.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":207.27,
-    "peso_percentuale":7.98,
+    "peso_percentuale":7.99,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
     "ticker":"ISP.MI",
     "categoria":"Azioni",
     "valore_attuale":227.21,
-    "peso_percentuale":8.75,
+    "peso_percentuale":8.76,
     "titolo":"Intesa San Paolo"
   },
   {
@@ -114,7 +114,7 @@
   {
     "ticker":"NVDA",
     "categoria":"Azioni",
-    "valore_attuale":145.21,
+    "valore_attuale":144.9,
     "peso_percentuale":5.59,
     "titolo":"Nvidia"
   },
@@ -150,14 +150,14 @@
     "ticker":"SWDA.MI",
     "categoria":"Etf",
     "valore_attuale":494.24,
-    "peso_percentuale":19.04,
+    "peso_percentuale":19.06,
     "titolo":"MSCI World"
   },
   {
     "ticker":"TSLA",
     "categoria":"Azioni",
-    "valore_attuale":56.2,
-    "peso_percentuale":2.16,
+    "valore_attuale":54.52,
+    "peso_percentuale":2.1,
     "titolo":"tesla"
   },
   {
