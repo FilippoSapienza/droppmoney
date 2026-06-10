@@ -44,14 +44,14 @@
   {
     "ticker":"CVS",
     "categoria":"Azioni",
-    "valore_attuale":67.94,
+    "valore_attuale":67.9,
     "peso_percentuale":2.62,
     "titolo":"CSV heath"
   },
   {
     "ticker":"CVX",
     "categoria":"Azioni",
-    "valore_attuale":76.74,
+    "valore_attuale":76.7,
     "peso_percentuale":2.96,
     "titolo":"Chevron"
   },
@@ -114,8 +114,8 @@
   {
     "ticker":"NVDA",
     "categoria":"Azioni",
-    "valore_attuale":144.9,
-    "peso_percentuale":5.59,
+    "valore_attuale":144.81,
+    "peso_percentuale":5.58,
     "titolo":"Nvidia"
   },
   {
@@ -156,7 +156,7 @@
   {
     "ticker":"TSLA",
     "categoria":"Azioni",
-    "valore_attuale":54.52,
+    "valore_attuale":54.48,
     "peso_percentuale":2.1,
     "titolo":"tesla"
   },
