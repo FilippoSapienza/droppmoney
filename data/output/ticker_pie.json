@@ -31,7 +31,7 @@
     "ticker":"CSSPX.MI",
     "categoria":"Etf",
     "valore_attuale":351.65,
-    "peso_percentuale":13.23,
+    "peso_percentuale":13.22,
     "titolo":"Core S&P 500"
   },
   {
@@ -44,14 +44,14 @@
   {
     "ticker":"CVS",
     "categoria":"Azioni",
-    "valore_attuale":70.02,
+    "valore_attuale":70.07,
     "peso_percentuale":2.63,
     "titolo":"CSV heath"
   },
   {
     "ticker":"CVX",
     "categoria":"Azioni",
-    "valore_attuale":73.65,
+    "valore_attuale":73.71,
     "peso_percentuale":2.77,
     "titolo":"Chevron"
   },
@@ -87,21 +87,21 @@
     "ticker":"IBGX.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":208.37,
-    "peso_percentuale":7.84,
+    "peso_percentuale":7.83,
     "titolo":"Euro Govt Bond 3-5y"
   },
   {
     "ticker":"IBGX.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":208.37,
-    "peso_percentuale":7.84,
+    "peso_percentuale":7.83,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
     "ticker":"ISP.MI",
     "categoria":"Azioni",
     "valore_attuale":236.83,
-    "peso_percentuale":8.91,
+    "peso_percentuale":8.9,
     "titolo":"Intesa San Paolo"
   },
   {
@@ -114,7 +114,7 @@
   {
     "ticker":"NVDA",
     "categoria":"Azioni",
-    "valore_attuale":146.91,
+    "valore_attuale":147.02,
     "peso_percentuale":5.53,
     "titolo":"Nvidia"
   },
@@ -150,14 +150,14 @@
     "ticker":"SWDA.MI",
     "categoria":"Etf",
     "valore_attuale":508.06,
-    "peso_percentuale":19.11,
+    "peso_percentuale":19.1,
     "titolo":"MSCI World"
   },
   {
     "ticker":"TSLA",
     "categoria":"Azioni",
-    "valore_attuale":55.5,
-    "peso_percentuale":2.09,
+    "valore_attuale":56.19,
+    "peso_percentuale":2.11,
     "titolo":"tesla"
   },
   {
