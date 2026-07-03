@@ -1,17 +1,17 @@
 [
   {
     "ticker":"ISP.MI",
-    "valore_attuale":241.34,
+    "valore_attuale":241.06,
     "peso_percentuale":9.13,
-    "prezzo_attuale":6.0,
+    "prezzo_attuale":5.99,
     "titolo":"Intesa San Paolo",
     "categoria":"Azioni",
     "var_oggi_pct":0.0,
     "var_oggi_eur":0.0,
     "pmc":4.74,
     "quantit\u00e0_totale":40.24,
-    "pl_eur":50.47,
-    "pl_pct":26.44
+    "pl_eur":50.19,
+    "pl_pct":26.29
   },
   {
     "ticker":"NVDA",
@@ -71,31 +71,31 @@
   },
   {
     "ticker":"ENEL.MI",
-    "valore_attuale":48.16,
-    "peso_percentuale":1.82,
-    "prezzo_attuale":9.96,
+    "valore_attuale":48.6,
+    "peso_percentuale":1.84,
+    "prezzo_attuale":10.05,
     "titolo":"Enel",
     "categoria":"Azioni",
     "var_oggi_pct":0.0,
     "var_oggi_eur":0.0,
     "pmc":8.27,
     "quantit\u00e0_totale":4.83,
-    "pl_eur":8.16,
-    "pl_pct":20.39
+    "pl_eur":8.6,
+    "pl_pct":21.5
   },
   {
     "ticker":"LDO.MI",
-    "valore_attuale":40.58,
-    "peso_percentuale":1.54,
-    "prezzo_attuale":48.76,
+    "valore_attuale":39.05,
+    "peso_percentuale":1.48,
+    "prezzo_attuale":46.92,
     "titolo":"Leonardo-Finmeccanica",
     "categoria":"Azioni",
     "var_oggi_pct":0.0,
     "var_oggi_eur":0.0,
     "pmc":48.06,
     "quantit\u00e0_totale":0.83,
-    "pl_eur":0.58,
-    "pl_pct":1.45
+    "pl_eur":-0.95,
+    "pl_pct":-2.37
   },
   {
     "ticker":"AMD",
@@ -170,7 +170,7 @@
   {
     "ticker":"SWDA.MI",
     "valore_attuale":512.03,
-    "peso_percentuale":19.38,
+    "peso_percentuale":19.39,
     "prezzo_attuale":125.23,
     "titolo":"MSCI World",
     "categoria":"Etf",
@@ -184,7 +184,7 @@
   {
     "ticker":"CSSPX.MI",
     "valore_attuale":353.1,
-    "peso_percentuale":13.36,
+    "peso_percentuale":13.37,
     "prezzo_attuale":704.45,
     "titolo":"Core S&P 500",
     "categoria":"Etf",
@@ -240,7 +240,7 @@
   {
     "ticker":"BTP10.MI",
     "valore_attuale":335.07,
-    "peso_percentuale":12.68,
+    "peso_percentuale":12.69,
     "prezzo_attuale":155.65,
     "titolo":"Amundi Btp Italy 10y",
     "categoria":"Obbligazioni",
@@ -254,7 +254,7 @@
   {
     "ticker":"IBGX.MI",
     "valore_attuale":268.85,
-    "peso_percentuale":10.17,
+    "peso_percentuale":10.18,
     "prezzo_attuale":160.22,
     "titolo":"Euro Govt Bond 3-5y",
     "categoria":"Obbligazioni",
@@ -268,7 +268,7 @@
   {
     "ticker":"IBGX.MI",
     "valore_attuale":268.85,
-    "peso_percentuale":10.17,
+    "peso_percentuale":10.18,
     "prezzo_attuale":160.22,
     "titolo":"Amundi Btp Italy 10y",
     "categoria":"Obbligazioni",

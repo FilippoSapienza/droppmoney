@@ -31,7 +31,7 @@
     "ticker":"CSSPX.MI",
     "categoria":"Etf",
     "valore_attuale":353.1,
-    "peso_percentuale":13.36,
+    "peso_percentuale":13.37,
     "titolo":"Core S&P 500"
   },
   {
@@ -58,8 +58,8 @@
   {
     "ticker":"ENEL.MI",
     "categoria":"Azioni",
-    "valore_attuale":48.16,
-    "peso_percentuale":1.82,
+    "valore_attuale":48.6,
+    "peso_percentuale":1.84,
     "titolo":"Enel"
   },
   {
@@ -87,28 +87,28 @@
     "ticker":"IBGX.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":209.09,
-    "peso_percentuale":7.91,
+    "peso_percentuale":7.92,
     "titolo":"Euro Govt Bond 3-5y"
   },
   {
     "ticker":"IBGX.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":209.09,
-    "peso_percentuale":7.91,
+    "peso_percentuale":7.92,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
     "ticker":"ISP.MI",
     "categoria":"Azioni",
-    "valore_attuale":241.34,
+    "valore_attuale":241.06,
     "peso_percentuale":9.13,
     "titolo":"Intesa San Paolo"
   },
   {
     "ticker":"LDO.MI",
     "categoria":"Azioni",
-    "valore_attuale":40.58,
-    "peso_percentuale":1.54,
+    "valore_attuale":39.05,
+    "peso_percentuale":1.48,
     "titolo":"Leonardo-Finmeccanica"
   },
   {
@@ -150,7 +150,7 @@
     "ticker":"SWDA.MI",
     "categoria":"Etf",
     "valore_attuale":512.03,
-    "peso_percentuale":19.38,
+    "peso_percentuale":19.39,
     "titolo":"MSCI World"
   },
   {
