@@ -44,15 +44,15 @@
   {
     "ticker":"CVS",
     "categoria":"Azioni",
-    "valore_attuale":75.82,
-    "peso_percentuale":2.87,
+    "valore_attuale":75.99,
+    "peso_percentuale":2.88,
     "titolo":"CSV heath"
   },
   {
     "ticker":"CVX",
     "categoria":"Azioni",
-    "valore_attuale":78.99,
-    "peso_percentuale":2.99,
+    "valore_attuale":79.16,
+    "peso_percentuale":3.0,
     "titolo":"Chevron"
   },
   {
@@ -66,7 +66,7 @@
     "ticker":"HEMA.MI",
     "categoria":"Etf",
     "valore_attuale":222.95,
-    "peso_percentuale":8.45,
+    "peso_percentuale":8.44,
     "titolo":"MSCI Emerging Markt"
   },
   {
@@ -114,8 +114,8 @@
   {
     "ticker":"NVDA",
     "categoria":"Azioni",
-    "valore_attuale":138.37,
-    "peso_percentuale":5.24,
+    "valore_attuale":138.68,
+    "peso_percentuale":5.25,
     "titolo":"Nvidia"
   },
   {
@@ -150,13 +150,13 @@
     "ticker":"SWDA.MI",
     "categoria":"Etf",
     "valore_attuale":510.19,
-    "peso_percentuale":19.33,
+    "peso_percentuale":19.32,
     "titolo":"MSCI World"
   },
   {
     "ticker":"TSLA",
     "categoria":"Azioni",
-    "valore_attuale":42.99,
+    "valore_attuale":43.09,
     "peso_percentuale":1.63,
     "titolo":"tesla"
   },
