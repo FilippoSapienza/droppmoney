@@ -44,22 +44,22 @@
   {
     "ticker":"CVS",
     "categoria":"Azioni",
-    "valore_attuale":73.13,
-    "peso_percentuale":2.78,
+    "valore_attuale":73.0,
+    "peso_percentuale":2.77,
     "titolo":"CSV heath"
   },
   {
     "ticker":"CVX",
     "categoria":"Azioni",
-    "valore_attuale":80.91,
+    "valore_attuale":80.77,
     "peso_percentuale":3.07,
     "titolo":"Chevron"
   },
   {
     "ticker":"ENEL.MI",
     "categoria":"Azioni",
-    "valore_attuale":47.58,
-    "peso_percentuale":1.81,
+    "valore_attuale":47.37,
+    "peso_percentuale":1.8,
     "titolo":"Enel"
   },
   {
@@ -100,22 +100,22 @@
   {
     "ticker":"ISP.MI",
     "categoria":"Azioni",
-    "valore_attuale":262.15,
-    "peso_percentuale":9.95,
+    "valore_attuale":263.15,
+    "peso_percentuale":9.99,
     "titolo":"Intesa San Paolo"
   },
   {
     "ticker":"LDO.MI",
     "categoria":"Azioni",
-    "valore_attuale":44.71,
-    "peso_percentuale":1.7,
+    "valore_attuale":45.87,
+    "peso_percentuale":1.74,
     "titolo":"Leonardo-Finmeccanica"
   },
   {
     "ticker":"NVDA",
     "categoria":"Azioni",
-    "valore_attuale":139.78,
-    "peso_percentuale":5.31,
+    "valore_attuale":139.53,
+    "peso_percentuale":5.3,
     "titolo":"Nvidia"
   },
   {
@@ -150,13 +150,13 @@
     "ticker":"SWDA.MI",
     "categoria":"Etf",
     "valore_attuale":507.94,
-    "peso_percentuale":19.29,
+    "peso_percentuale":19.28,
     "titolo":"MSCI World"
   },
   {
     "ticker":"TSLA",
     "categoria":"Azioni",
-    "valore_attuale":42.79,
+    "valore_attuale":42.71,
     "peso_percentuale":1.62,
     "titolo":"tesla"
   },
