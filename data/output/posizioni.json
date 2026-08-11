@@ -1,17 +1,17 @@
 [
   {
     "ticker":"ISP.MI",
-    "valore_attuale":274.62,
-    "peso_percentuale":10.14,
-    "prezzo_attuale":6.82,
+    "valore_attuale":275.99,
+    "peso_percentuale":10.19,
+    "prezzo_attuale":6.86,
     "titolo":"Intesa San Paolo",
     "categoria":"Azioni",
-    "var_oggi_pct":0.0,
-    "var_oggi_eur":0.0,
+    "var_oggi_pct":0.5,
+    "var_oggi_eur":1.38,
     "pmc":4.74,
     "quantit\u00e0_totale":40.24,
-    "pl_eur":83.75,
-    "pl_pct":43.88
+    "pl_eur":85.12,
+    "pl_pct":44.6
   },
   {
     "ticker":"NVDA",
@@ -56,37 +56,37 @@
     "pl_pct":39.17
   },
   {
-    "ticker":"ENEL.MI",
-    "valore_attuale":48.55,
-    "peso_percentuale":1.79,
-    "prezzo_attuale":10.04,
-    "titolo":"Enel",
-    "categoria":"Azioni",
-    "var_oggi_pct":0.0,
-    "var_oggi_eur":0.0,
-    "pmc":8.27,
-    "quantit\u00e0_totale":4.83,
-    "pl_eur":8.55,
-    "pl_pct":21.38
-  },
-  {
     "ticker":"LDO.MI",
-    "valore_attuale":48.3,
-    "peso_percentuale":1.78,
-    "prezzo_attuale":58.04,
+    "valore_attuale":48.69,
+    "peso_percentuale":1.8,
+    "prezzo_attuale":58.51,
     "titolo":"Leonardo-Finmeccanica",
     "categoria":"Azioni",
-    "var_oggi_pct":0.0,
-    "var_oggi_eur":0.0,
+    "var_oggi_pct":0.81,
+    "var_oggi_eur":0.39,
     "pmc":48.06,
     "quantit\u00e0_totale":0.83,
-    "pl_eur":8.3,
-    "pl_pct":20.75
+    "pl_eur":8.69,
+    "pl_pct":21.73
+  },
+  {
+    "ticker":"ENEL.MI",
+    "valore_attuale":48.04,
+    "peso_percentuale":1.77,
+    "prezzo_attuale":9.94,
+    "titolo":"Enel",
+    "categoria":"Azioni",
+    "var_oggi_pct":-1.07,
+    "var_oggi_eur":-0.51,
+    "pmc":8.27,
+    "quantit\u00e0_totale":4.83,
+    "pl_eur":8.04,
+    "pl_pct":20.09
   },
   {
     "ticker":"TSLA",
     "valore_attuale":45.36,
-    "peso_percentuale":1.68,
+    "peso_percentuale":1.67,
     "prezzo_attuale":286.32,
     "titolo":"tesla",
     "categoria":"Azioni",
@@ -114,7 +114,7 @@
   {
     "ticker":"PPFB.DE",
     "valore_attuale":123.39,
-    "peso_percentuale":4.56,
+    "peso_percentuale":4.55,
     "prezzo_attuale":73.1,
     "titolo":"Physical Gold ETC",
     "categoria":"Commodities",
@@ -170,7 +170,7 @@
   {
     "ticker":"SWDA.MI",
     "valore_attuale":526.42,
-    "peso_percentuale":19.44,
+    "peso_percentuale":19.43,
     "prezzo_attuale":128.75,
     "titolo":"MSCI World",
     "categoria":"Etf",
@@ -184,7 +184,7 @@
   {
     "ticker":"CSSPX.MI",
     "valore_attuale":362.75,
-    "peso_percentuale":13.4,
+    "peso_percentuale":13.39,
     "prezzo_attuale":723.72,
     "titolo":"Core S&P 500",
     "categoria":"Etf",
@@ -198,7 +198,7 @@
   {
     "ticker":"HEMA.MI",
     "valore_attuale":227.9,
-    "peso_percentuale":8.42,
+    "peso_percentuale":8.41,
     "prezzo_attuale":15.84,
     "titolo":"MSCI Emerging Markt",
     "categoria":"Etf",
@@ -240,7 +240,7 @@
   {
     "ticker":"BTP10.MI",
     "valore_attuale":328.93,
-    "peso_percentuale":12.15,
+    "peso_percentuale":12.14,
     "prezzo_attuale":152.8,
     "titolo":"Amundi Btp Italy 10y",
     "categoria":"Obbligazioni",
