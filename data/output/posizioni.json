@@ -1,17 +1,17 @@
 [
   {
     "ticker":"ISP.MI",
-    "valore_attuale":275.99,
-    "peso_percentuale":10.19,
-    "prezzo_attuale":6.86,
+    "valore_attuale":275.14,
+    "peso_percentuale":10.16,
+    "prezzo_attuale":6.84,
     "titolo":"Intesa San Paolo",
     "categoria":"Azioni",
-    "var_oggi_pct":0.0,
-    "var_oggi_eur":0.0,
+    "var_oggi_pct":-0.31,
+    "var_oggi_eur":-0.85,
     "pmc":4.74,
     "quantit\u00e0_totale":40.24,
-    "pl_eur":85.12,
-    "pl_pct":44.6
+    "pl_eur":84.27,
+    "pl_pct":44.15
   },
   {
     "ticker":"NVDA",
@@ -57,31 +57,31 @@
   },
   {
     "ticker":"LDO.MI",
-    "valore_attuale":48.69,
-    "peso_percentuale":1.8,
-    "prezzo_attuale":58.51,
+    "valore_attuale":49.02,
+    "peso_percentuale":1.81,
+    "prezzo_attuale":58.9,
     "titolo":"Leonardo-Finmeccanica",
     "categoria":"Azioni",
-    "var_oggi_pct":0.0,
-    "var_oggi_eur":0.0,
+    "var_oggi_pct":0.67,
+    "var_oggi_eur":0.33,
     "pmc":48.06,
     "quantit\u00e0_totale":0.83,
-    "pl_eur":8.69,
-    "pl_pct":21.73
+    "pl_eur":9.02,
+    "pl_pct":22.54
   },
   {
     "ticker":"ENEL.MI",
-    "valore_attuale":48.04,
-    "peso_percentuale":1.77,
-    "prezzo_attuale":9.94,
+    "valore_attuale":47.6,
+    "peso_percentuale":1.76,
+    "prezzo_attuale":9.85,
     "titolo":"Enel",
     "categoria":"Azioni",
-    "var_oggi_pct":0.0,
-    "var_oggi_eur":0.0,
+    "var_oggi_pct":-0.91,
+    "var_oggi_eur":-0.43,
     "pmc":8.27,
     "quantit\u00e0_totale":4.83,
-    "pl_eur":8.04,
-    "pl_pct":20.09
+    "pl_eur":7.6,
+    "pl_pct":19.0
   },
   {
     "ticker":"TSLA",
@@ -170,7 +170,7 @@
   {
     "ticker":"SWDA.MI",
     "valore_attuale":526.42,
-    "peso_percentuale":19.43,
+    "peso_percentuale":19.44,
     "prezzo_attuale":128.75,
     "titolo":"MSCI World",
     "categoria":"Etf",
@@ -184,7 +184,7 @@
   {
     "ticker":"CSSPX.MI",
     "valore_attuale":362.75,
-    "peso_percentuale":13.39,
+    "peso_percentuale":13.4,
     "prezzo_attuale":723.72,
     "titolo":"Core S&P 500",
     "categoria":"Etf",
@@ -198,7 +198,7 @@
   {
     "ticker":"HEMA.MI",
     "valore_attuale":227.9,
-    "peso_percentuale":8.41,
+    "peso_percentuale":8.42,
     "prezzo_attuale":15.84,
     "titolo":"MSCI Emerging Markt",
     "categoria":"Etf",
@@ -240,7 +240,7 @@
   {
     "ticker":"BTP10.MI",
     "valore_attuale":328.93,
-    "peso_percentuale":12.14,
+    "peso_percentuale":12.15,
     "prezzo_attuale":152.8,
     "titolo":"Amundi Btp Italy 10y",
     "categoria":"Obbligazioni",
