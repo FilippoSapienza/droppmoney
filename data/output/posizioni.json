@@ -1,17 +1,17 @@
 [
   {
     "ticker":"ISP.MI",
-    "valore_attuale":275.14,
-    "peso_percentuale":10.14,
-    "prezzo_attuale":6.84,
+    "valore_attuale":275.87,
+    "peso_percentuale":10.16,
+    "prezzo_attuale":6.86,
     "titolo":"Intesa San Paolo",
     "categoria":"Azioni",
-    "var_oggi_pct":0.0,
-    "var_oggi_eur":0.0,
+    "var_oggi_pct":0.26,
+    "var_oggi_eur":0.72,
     "pmc":4.74,
     "quantit\u00e0_totale":40.24,
-    "pl_eur":84.27,
-    "pl_pct":44.15
+    "pl_eur":85.0,
+    "pl_pct":44.53
   },
   {
     "ticker":"NVDA",
@@ -57,31 +57,31 @@
   },
   {
     "ticker":"LDO.MI",
-    "valore_attuale":49.02,
-    "peso_percentuale":1.81,
-    "prezzo_attuale":58.9,
+    "valore_attuale":49.72,
+    "peso_percentuale":1.83,
+    "prezzo_attuale":59.74,
     "titolo":"Leonardo-Finmeccanica",
     "categoria":"Azioni",
-    "var_oggi_pct":0.0,
-    "var_oggi_eur":0.0,
+    "var_oggi_pct":1.43,
+    "var_oggi_eur":0.71,
     "pmc":48.06,
     "quantit\u00e0_totale":0.83,
-    "pl_eur":9.02,
-    "pl_pct":22.54
+    "pl_eur":9.72,
+    "pl_pct":24.29
   },
   {
     "ticker":"ENEL.MI",
-    "valore_attuale":47.6,
-    "peso_percentuale":1.75,
-    "prezzo_attuale":9.85,
+    "valore_attuale":46.99,
+    "peso_percentuale":1.73,
+    "prezzo_attuale":9.72,
     "titolo":"Enel",
     "categoria":"Azioni",
-    "var_oggi_pct":0.0,
-    "var_oggi_eur":0.0,
+    "var_oggi_pct":-1.28,
+    "var_oggi_eur":-0.6,
     "pmc":8.27,
     "quantit\u00e0_totale":4.83,
-    "pl_eur":7.6,
-    "pl_pct":19.0
+    "pl_eur":6.99,
+    "pl_pct":17.48
   },
   {
     "ticker":"TSLA",

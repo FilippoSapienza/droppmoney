@@ -24,7 +24,7 @@
     "ticker":"BTP10.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":269.17,
-    "peso_percentuale":9.92,
+    "peso_percentuale":9.91,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
@@ -58,8 +58,8 @@
   {
     "ticker":"ENEL.MI",
     "categoria":"Azioni",
-    "valore_attuale":47.6,
-    "peso_percentuale":1.75,
+    "valore_attuale":46.99,
+    "peso_percentuale":1.73,
     "titolo":"Enel"
   },
   {
@@ -73,14 +73,14 @@
     "ticker":"IBGX.MI",
     "categoria":"Etf",
     "valore_attuale":59.3,
-    "peso_percentuale":2.19,
+    "peso_percentuale":2.18,
     "titolo":"Euro Govt Bond 3-5y"
   },
   {
     "ticker":"IBGX.MI",
     "categoria":"Etf",
     "valore_attuale":59.3,
-    "peso_percentuale":2.19,
+    "peso_percentuale":2.18,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
@@ -100,15 +100,15 @@
   {
     "ticker":"ISP.MI",
     "categoria":"Azioni",
-    "valore_attuale":275.14,
-    "peso_percentuale":10.14,
+    "valore_attuale":275.87,
+    "peso_percentuale":10.16,
     "titolo":"Intesa San Paolo"
   },
   {
     "ticker":"LDO.MI",
     "categoria":"Azioni",
-    "valore_attuale":49.02,
-    "peso_percentuale":1.81,
+    "valore_attuale":49.72,
+    "peso_percentuale":1.83,
     "titolo":"Leonardo-Finmeccanica"
   },
   {
