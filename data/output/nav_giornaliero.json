@@ -1051,25 +1051,25 @@
     "Date":"2025-03-24",
     "capitale_versato":415.43,
     "costo_totale":423.43,
-    "valore_totale":397.2325512964,
-    "rendimento_percentuale":-4.3803886825,
-    "rendimento_netto_percentuale":-6.1869609389
+    "valore_totale":397.232543667,
+    "rendimento_percentuale":-4.380390519,
+    "rendimento_netto_percentuale":-6.1869627407
   },
   {
     "Date":"2025-03-25",
     "capitale_versato":415.43,
     "costo_totale":423.43,
-    "valore_totale":401.5051281419,
-    "rendimento_percentuale":-3.3519177378,
-    "rendimento_netto_percentuale":-5.1779212286
+    "valore_totale":401.5051205125,
+    "rendimento_percentuale":-3.3519195743,
+    "rendimento_netto_percentuale":-5.1779230304
   },
   {
     "Date":"2025-03-26",
     "capitale_versato":425.46,
     "costo_totale":433.46,
-    "valore_totale":403.0379936666,
-    "rendimento_percentuale":-5.2700621288,
-    "rendimento_netto_percentuale":-7.0184114644
+    "valore_totale":403.0379860372,
+    "rendimento_percentuale":-5.2700639221,
+    "rendimento_netto_percentuale":-7.0184132245
   },
   {
     "Date":"2025-03-27",
@@ -1083,25 +1083,25 @@
     "Date":"2025-03-28",
     "capitale_versato":425.46,
     "costo_totale":433.46,
-    "valore_totale":387.8686824982,
-    "rendimento_percentuale":-8.8354528045,
-    "rendimento_netto_percentuale":-10.5179987777
+    "valore_totale":387.8686748688,
+    "rendimento_percentuale":-8.8354545977,
+    "rendimento_netto_percentuale":-10.5180005378
   },
   {
     "Date":"2025-03-29",
     "capitale_versato":425.46,
     "costo_totale":433.46,
-    "valore_totale":386.571612469,
-    "rendimento_percentuale":-9.1403157832,
-    "rendimento_netto_percentuale":-10.8172351615
+    "valore_totale":386.5716048396,
+    "rendimento_percentuale":-9.1403175764,
+    "rendimento_netto_percentuale":-10.8172369216
   },
   {
     "Date":"2025-03-30",
     "capitale_versato":425.46,
     "costo_totale":433.46,
-    "valore_totale":386.7053968985,
-    "rendimento_percentuale":-9.1088711281,
-    "rendimento_netto_percentuale":-10.7863708535
+    "valore_totale":386.7053892691,
+    "rendimento_percentuale":-9.1088729213,
+    "rendimento_netto_percentuale":-10.7863726136
   },
   {
     "Date":"2025-03-31",
@@ -1115,9 +1115,9 @@
     "Date":"2025-04-01",
     "capitale_versato":425.46,
     "costo_totale":433.46,
-    "valore_totale":388.0685195676,
-    "rendimento_percentuale":-8.7884831553,
-    "rendimento_netto_percentuale":-10.4718960071
+    "valore_totale":388.0685119382,
+    "rendimento_percentuale":-8.7884849485,
+    "rendimento_netto_percentuale":-10.4718977672
   },
   {
     "Date":"2025-04-02",
@@ -1139,25 +1139,25 @@
     "Date":"2025-04-04",
     "capitale_versato":563.97,
     "costo_totale":572.97,
-    "valore_totale":467.8696696564,
-    "rendimento_percentuale":-17.0399720452,
-    "rendimento_netto_percentuale":-18.343077359
+    "valore_totale":467.8696770474,
+    "rendimento_percentuale":-17.0399707347,
+    "rendimento_netto_percentuale":-18.343076069
   },
   {
     "Date":"2025-04-05",
     "capitale_versato":563.97,
     "costo_totale":572.97,
-    "valore_totale":467.7481291582,
-    "rendimento_percentuale":-17.0615229253,
-    "rendimento_netto_percentuale":-18.3642897258
+    "valore_totale":467.7481365491,
+    "rendimento_percentuale":-17.0615216148,
+    "rendimento_netto_percentuale":-18.3642884358
   },
   {
     "Date":"2025-04-06",
     "capitale_versato":563.97,
     "costo_totale":572.97,
-    "valore_totale":463.4944418464,
-    "rendimento_percentuale":-17.8157629224,
-    "rendimento_netto_percentuale":-19.1066824011
+    "valore_totale":463.4944492374,
+    "rendimento_percentuale":-17.8157616119,
+    "rendimento_netto_percentuale":-19.1066811112
   },
   {
     "Date":"2025-04-07",
@@ -1179,17 +1179,17 @@
     "Date":"2025-04-09",
     "capitale_versato":653.97,
     "costo_totale":664.97,
-    "valore_totale":561.4037978946,
-    "rendimento_percentuale":-14.1545028221,
-    "rendimento_netto_percentuale":-15.5745675903
+    "valore_totale":561.4037949458,
+    "rendimento_percentuale":-14.154503273,
+    "rendimento_netto_percentuale":-15.5745680338
   },
   {
     "Date":"2025-04-10",
     "capitale_versato":653.97,
     "costo_totale":664.97,
-    "valore_totale":559.7713253883,
-    "rendimento_percentuale":-14.4041278058,
-    "rendimento_netto_percentuale":-15.8200632527
+    "valore_totale":559.7713179973,
+    "rendimento_percentuale":-14.404128936,
+    "rendimento_netto_percentuale":-15.8200643642
   },
   {
     "Date":"2025-04-11",
@@ -1219,9 +1219,9 @@
     "Date":"2025-04-14",
     "capitale_versato":653.97,
     "costo_totale":664.97,
-    "valore_totale":571.0181098818,
-    "rendimento_percentuale":-12.6843570987,
-    "rendimento_netto_percentuale":-14.128741164
+    "valore_totale":571.0181070272,
+    "rendimento_percentuale":-12.6843575352,
+    "rendimento_netto_percentuale":-14.1287415933
   },
   {
     "Date":"2025-04-15",
@@ -1235,745 +1235,745 @@
     "Date":"2025-04-16",
     "capitale_versato":710.97,
     "costo_totale":721.97,
-    "valore_totale":619.7013254707,
-    "rendimento_percentuale":-12.8372047385,
-    "rendimento_netto_percentuale":-14.1652249442
+    "valore_totale":619.7013201996,
+    "rendimento_percentuale":-12.8372054799,
+    "rendimento_netto_percentuale":-14.1652256743
   },
   {
     "Date":"2025-04-17",
     "capitale_versato":710.97,
     "costo_totale":721.97,
-    "valore_totale":613.2637733883,
-    "rendimento_percentuale":-13.7426651774,
-    "rendimento_netto_percentuale":-15.0568897062
+    "valore_totale":613.2637653266,
+    "rendimento_percentuale":-13.7426663113,
+    "rendimento_netto_percentuale":-15.0568908228
   },
   {
     "Date":"2025-04-18",
     "capitale_versato":710.97,
     "costo_totale":721.97,
-    "valore_totale":613.0564779002,
-    "rendimento_percentuale":-13.7718218912,
-    "rendimento_netto_percentuale":-15.0856021857
+    "valore_totale":613.0564698385,
+    "rendimento_percentuale":-13.7718230251,
+    "rendimento_netto_percentuale":-15.0856033023
   },
   {
     "Date":"2025-04-19",
     "capitale_versato":710.97,
     "costo_totale":721.97,
-    "valore_totale":613.8680441102,
-    "rendimento_percentuale":-13.6576727414,
-    "rendimento_netto_percentuale":-14.9731922226
+    "valore_totale":613.8680360485,
+    "rendimento_percentuale":-13.6576738753,
+    "rendimento_netto_percentuale":-14.9731933393
   },
   {
     "Date":"2025-04-20",
     "capitale_versato":710.97,
     "costo_totale":721.97,
-    "valore_totale":613.3072253838,
-    "rendimento_percentuale":-13.7365535277,
-    "rendimento_netto_percentuale":-15.0508711742
+    "valore_totale":613.3072173221,
+    "rendimento_percentuale":-13.7365546616,
+    "rendimento_netto_percentuale":-15.0508722908
   },
   {
     "Date":"2025-04-21",
     "capitale_versato":710.97,
     "costo_totale":721.97,
-    "valore_totale":607.3945071899,
-    "rendimento_percentuale":-14.5681945525,
-    "rendimento_netto_percentuale":-15.8698412413
+    "valore_totale":607.39449936,
+    "rendimento_percentuale":-14.5681956538,
+    "rendimento_netto_percentuale":-15.8698423259
   },
   {
     "Date":"2025-04-22",
     "capitale_versato":710.97,
     "costo_totale":721.97,
-    "valore_totale":613.6102785739,
-    "rendimento_percentuale":-13.6939282144,
-    "rendimento_netto_percentuale":-15.008895304
+    "valore_totale":613.6102709634,
+    "rendimento_percentuale":-13.6939292849,
+    "rendimento_netto_percentuale":-15.0088963581
   },
   {
     "Date":"2025-04-23",
     "capitale_versato":710.97,
     "costo_totale":721.97,
-    "valore_totale":634.0159386234,
-    "rendimento_percentuale":-10.8238127314,
-    "rendimento_netto_percentuale":-12.1825091592
+    "valore_totale":634.0159263961,
+    "rendimento_percentuale":-10.8238144512,
+    "rendimento_netto_percentuale":-12.1825108528
   },
   {
     "Date":"2025-04-24",
     "capitale_versato":710.97,
     "costo_totale":721.97,
-    "valore_totale":643.3582986834,
-    "rendimento_percentuale":-9.5097825951,
-    "rendimento_netto_percentuale":-10.8884997045
+    "valore_totale":643.3582971171,
+    "rendimento_percentuale":-9.5097828154,
+    "rendimento_netto_percentuale":-10.8884999215
   },
   {
     "Date":"2025-04-25",
     "capitale_versato":710.97,
     "costo_totale":721.97,
-    "valore_totale":654.1601958379,
-    "rendimento_percentuale":-7.9904643181,
-    "rendimento_netto_percentuale":-9.3923298977
+    "valore_totale":654.1602155988,
+    "rendimento_percentuale":-7.9904615386,
+    "rendimento_netto_percentuale":-9.3923271606
   },
   {
     "Date":"2025-04-26",
     "capitale_versato":710.97,
     "costo_totale":721.97,
-    "valore_totale":654.1687144024,
-    "rendimento_percentuale":-7.9892661572,
-    "rendimento_netto_percentuale":-9.3911499921
+    "valore_totale":654.1687341632,
+    "rendimento_percentuale":-7.9892633777,
+    "rendimento_netto_percentuale":-9.391147255
   },
   {
     "Date":"2025-04-27",
     "capitale_versato":710.97,
     "costo_totale":721.97,
-    "valore_totale":654.6290867665,
-    "rendimento_percentuale":-7.9245134441,
-    "rendimento_netto_percentuale":-9.3273838572
+    "valore_totale":654.6291065274,
+    "rendimento_percentuale":-7.9245106647,
+    "rendimento_netto_percentuale":-9.3273811201
   },
   {
     "Date":"2025-04-28",
     "capitale_versato":710.97,
     "costo_totale":721.97,
-    "valore_totale":655.4108771884,
-    "rendimento_percentuale":-7.8145523456,
-    "rendimento_netto_percentuale":-9.2190981359
+    "valore_totale":655.4108622054,
+    "rendimento_percentuale":-7.814554453,
+    "rendimento_netto_percentuale":-9.2191002112
   },
   {
     "Date":"2025-04-29",
     "capitale_versato":710.97,
     "costo_totale":721.97,
-    "valore_totale":657.6240552711,
-    "rendimento_percentuale":-7.5032624061,
-    "rendimento_netto_percentuale":-8.912551038
+    "valore_totale":657.6240436992,
+    "rendimento_percentuale":-7.5032640338,
+    "rendimento_netto_percentuale":-8.9125526408
   },
   {
     "Date":"2025-04-30",
     "capitale_versato":710.97,
     "costo_totale":721.97,
-    "valore_totale":656.2666642492,
-    "rendimento_percentuale":-7.6941834045,
-    "rendimento_netto_percentuale":-9.1005631468
+    "valore_totale":656.2666770253,
+    "rendimento_percentuale":-7.6941816075,
+    "rendimento_netto_percentuale":-9.1005613772
   },
   {
     "Date":"2025-05-01",
     "capitale_versato":710.97,
     "costo_totale":721.97,
-    "valore_totale":659.2865955576,
-    "rendimento_percentuale":-7.2694212755,
-    "rendimento_netto_percentuale":-8.6822727319
+    "valore_totale":659.2866103284,
+    "rendimento_percentuale":-7.2694191979,
+    "rendimento_netto_percentuale":-8.682270686
   },
   {
     "Date":"2025-05-02",
     "capitale_versato":798.97,
     "costo_totale":809.97,
-    "valore_totale":760.6402863127,
-    "rendimento_percentuale":-4.7973908516,
-    "rendimento_netto_percentuale":-6.0903136767
+    "valore_totale":760.6402908868,
+    "rendimento_percentuale":-4.7973902791,
+    "rendimento_netto_percentuale":-6.090313112
   },
   {
     "Date":"2025-05-03",
     "capitale_versato":798.97,
     "costo_totale":809.97,
-    "valore_totale":760.0445282719,
-    "rendimento_percentuale":-4.8719566102,
-    "rendimento_netto_percentuale":-6.1638667763
+    "valore_totale":760.044532846,
+    "rendimento_percentuale":-4.8719560377,
+    "rendimento_netto_percentuale":-6.1638662116
   },
   {
     "Date":"2025-05-04",
     "capitale_versato":798.97,
     "costo_totale":809.97,
-    "valore_totale":758.9842330312,
-    "rendimento_percentuale":-5.0046643765,
-    "rendimento_netto_percentuale":-6.2947722717
+    "valore_totale":758.9842376053,
+    "rendimento_percentuale":-5.004663804,
+    "rendimento_netto_percentuale":-6.2947717069
   },
   {
     "Date":"2025-05-05",
     "capitale_versato":798.97,
     "costo_totale":809.97,
-    "valore_totale":761.2177580939,
-    "rendimento_percentuale":-4.7251138223,
-    "rendimento_netto_percentuale":-6.0190182237
+    "valore_totale":761.2177615348,
+    "rendimento_percentuale":-4.7251133916,
+    "rendimento_netto_percentuale":-6.0190177988
   },
   {
     "Date":"2025-05-06",
     "capitale_versato":798.97,
     "costo_totale":809.97,
-    "valore_totale":756.2899036551,
-    "rendimento_percentuale":-5.3418897261,
-    "rendimento_netto_percentuale":-6.6274178482
+    "valore_totale":756.289925546,
+    "rendimento_percentuale":-5.3418869862,
+    "rendimento_netto_percentuale":-6.6274151455
   },
   {
     "Date":"2025-05-07",
     "capitale_versato":798.97,
     "costo_totale":809.97,
-    "valore_totale":754.4694850868,
-    "rendimento_percentuale":-5.5697353985,
-    "rendimento_netto_percentuale":-6.8521692054
+    "valore_totale":754.4695054947,
+    "rendimento_percentuale":-5.5697328442,
+    "rendimento_netto_percentuale":-6.8521666858
   },
   {
     "Date":"2025-05-08",
     "capitale_versato":798.97,
     "costo_totale":809.97,
-    "valore_totale":772.5915228499,
-    "rendimento_percentuale":-3.3015604028,
-    "rendimento_netto_percentuale":-4.6147977271
+    "valore_totale":772.591537853,
+    "rendimento_percentuale":-3.301558525,
+    "rendimento_netto_percentuale":-4.6147958748
   },
   {
     "Date":"2025-05-09",
     "capitale_versato":798.97,
     "costo_totale":809.97,
-    "valore_totale":778.5178515893,
-    "rendimento_percentuale":-2.5598143123,
-    "rendimento_netto_percentuale":-3.8831251047
+    "valore_totale":778.5178485937,
+    "rendimento_percentuale":-2.5598146872,
+    "rendimento_netto_percentuale":-3.8831254746
   },
   {
     "Date":"2025-05-10",
     "capitale_versato":798.97,
     "costo_totale":809.97,
-    "valore_totale":780.5379158561,
-    "rendimento_percentuale":-2.3069807557,
-    "rendimento_netto_percentuale":-3.6337252175
+    "valore_totale":780.5379128606,
+    "rendimento_percentuale":-2.3069811306,
+    "rendimento_netto_percentuale":-3.6337255873
   },
   {
     "Date":"2025-05-11",
     "capitale_versato":798.97,
     "costo_totale":809.97,
-    "valore_totale":779.2085903261,
-    "rendimento_percentuale":-2.4733606611,
-    "rendimento_netto_percentuale":-3.797845559
+    "valore_totale":779.2085873305,
+    "rendimento_percentuale":-2.473361036,
+    "rendimento_netto_percentuale":-3.7978459288
   },
   {
     "Date":"2025-05-12",
     "capitale_versato":798.97,
     "costo_totale":809.97,
-    "valore_totale":803.4569672528,
-    "rendimento_percentuale":0.5615939588,
-    "rendimento_netto_percentuale":-0.8041078987
+    "valore_totale":803.4569527248,
+    "rendimento_percentuale":0.5615921405,
+    "rendimento_netto_percentuale":-0.8041096924
   },
   {
     "Date":"2025-05-13",
     "capitale_versato":798.97,
     "costo_totale":809.97,
-    "valore_totale":818.422422949,
-    "rendimento_percentuale":2.4346875288,
-    "rendimento_netto_percentuale":1.043547656
+    "valore_totale":818.4224288265,
+    "rendimento_percentuale":2.4346882645,
+    "rendimento_netto_percentuale":1.0435483816
   },
   {
     "Date":"2025-05-14",
     "capitale_versato":798.97,
     "costo_totale":809.97,
-    "valore_totale":826.5222080437,
-    "rendimento_percentuale":3.4484659053,
-    "rendimento_netto_percentuale":2.0435581619
+    "valore_totale":826.5222004206,
+    "rendimento_percentuale":3.4484649512,
+    "rendimento_netto_percentuale":2.0435572207
   },
   {
     "Date":"2025-05-15",
     "capitale_versato":798.97,
     "costo_totale":809.97,
-    "valore_totale":822.8870911312,
-    "rendimento_percentuale":2.9934905104,
-    "rendimento_netto_percentuale":1.594761674
+    "valore_totale":822.8871058906,
+    "rendimento_percentuale":2.9934923577,
+    "rendimento_netto_percentuale":1.5947634963
   },
   {
     "Date":"2025-05-16",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":893.5181604912,
-    "rendimento_percentuale":3.1811910911,
-    "rendimento_netto_percentuale":1.8869699638
+    "valore_totale":893.5181617582,
+    "rendimento_percentuale":3.1811912374,
+    "rendimento_netto_percentuale":1.8869701082
   },
   {
     "Date":"2025-05-17",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":893.082194996,
-    "rendimento_percentuale":3.1308469111,
-    "rendimento_netto_percentuale":1.8372572603
+    "valore_totale":893.082196263,
+    "rendimento_percentuale":3.1308470574,
+    "rendimento_netto_percentuale":1.8372574048
   },
   {
     "Date":"2025-05-18",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":895.242090299,
-    "rendimento_percentuale":3.3802660946,
-    "rendimento_netto_percentuale":2.083547932
+    "valore_totale":895.2420915661,
+    "rendimento_percentuale":3.3802662409,
+    "rendimento_netto_percentuale":2.0835480765
   },
   {
     "Date":"2025-05-19",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":890.3592536589,
-    "rendimento_percentuale":2.8164086122,
-    "rendimento_netto_percentuale":1.5267630203
+    "valore_totale":890.3592435792,
+    "rendimento_percentuale":2.8164074482,
+    "rendimento_netto_percentuale":1.5267618709
   },
   {
     "Date":"2025-05-20",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":890.8484110836,
-    "rendimento_percentuale":2.8728952601,
-    "rendimento_netto_percentuale":1.5825411455
+    "valore_totale":890.8483968629,
+    "rendimento_percentuale":2.8728936179,
+    "rendimento_netto_percentuale":1.5825395239
   },
   {
     "Date":"2025-05-21",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":885.0412231453,
-    "rendimento_percentuale":2.2022960548,
-    "rendimento_netto_percentuale":0.9203533924
+    "valore_totale":885.0412084959,
+    "rendimento_percentuale":2.2022943631,
+    "rendimento_netto_percentuale":0.9203517219
   },
   {
     "Date":"2025-05-22",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":881.6891320164,
-    "rendimento_percentuale":1.8152051476,
-    "rendimento_netto_percentuale":0.5381178394
+    "valore_totale":881.6891332723,
+    "rendimento_percentuale":1.8152052926,
+    "rendimento_netto_percentuale":0.5381179826
   },
   {
     "Date":"2025-05-23",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":869.3310715558,
-    "rendimento_percentuale":0.3881279439,
-    "rendimento_netto_percentuale":-0.8710592659
+    "valore_totale":869.3310790394,
+    "rendimento_percentuale":0.3881288081,
+    "rendimento_netto_percentuale":-0.8710584126
   },
   {
     "Date":"2025-05-24",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":869.986291027,
-    "rendimento_percentuale":0.463791012,
-    "rendimento_netto_percentuale":-0.7963452539
+    "valore_totale":869.9862985105,
+    "rendimento_percentuale":0.4637918762,
+    "rendimento_netto_percentuale":-0.7963444005
   },
   {
     "Date":"2025-05-25",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":870.4038953116,
-    "rendimento_percentuale":0.5120148864,
-    "rendimento_netto_percentuale":-0.7487262607
+    "valore_totale":870.4039027951,
+    "rendimento_percentuale":0.5120157506,
+    "rendimento_netto_percentuale":-0.7487254074
   },
   {
     "Date":"2025-05-26",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":873.8142102408,
-    "rendimento_percentuale":0.9058293291,
-    "rendimento_netto_percentuale":-0.3598515068
+    "valore_totale":873.8142201563,
+    "rendimento_percentuale":0.9058304741,
+    "rendimento_netto_percentuale":-0.3598503761
   },
   {
     "Date":"2025-05-27",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":886.4858171965,
-    "rendimento_percentuale":2.3691140798,
-    "rendimento_netto_percentuale":1.0850789875
+    "valore_totale":886.4858150203,
+    "rendimento_percentuale":2.3691138285,
+    "rendimento_netto_percentuale":1.0850787393
   },
   {
     "Date":"2025-05-28",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":885.1681849201,
-    "rendimento_percentuale":2.2169572757,
-    "rendimento_netto_percentuale":0.9348307149
+    "valore_totale":885.1681904894,
+    "rendimento_percentuale":2.2169579188,
+    "rendimento_netto_percentuale":0.9348313499
   },
   {
     "Date":"2025-05-29",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":886.69581124,
-    "rendimento_percentuale":2.3933636546,
-    "rendimento_netto_percentuale":1.1090243954
+    "valore_totale":886.695820328,
+    "rendimento_percentuale":2.3933647041,
+    "rendimento_netto_percentuale":1.1090254317
   },
   {
     "Date":"2025-05-30",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":876.7077507559,
-    "rendimento_percentuale":1.2399679846,
-    "rendimento_netto_percentuale":-0.0299040154
+    "valore_totale":876.7077607065,
+    "rendimento_percentuale":1.2399691336,
+    "rendimento_netto_percentuale":-0.0299028808
   },
   {
     "Date":"2025-05-31",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":877.2545658717,
-    "rendimento_percentuale":1.3031127951,
-    "rendimento_netto_percentuale":0.0324487578
+    "valore_totale":877.2545758222,
+    "rendimento_percentuale":1.3031139442,
+    "rendimento_netto_percentuale":0.0324498925
   },
   {
     "Date":"2025-06-01",
     "capitale_versato":865.97,
     "costo_totale":876.97,
-    "valore_totale":877.6551531184,
-    "rendimento_percentuale":1.3493715854,
-    "rendimento_netto_percentuale":0.0781273155
+    "valore_totale":877.655163069,
+    "rendimento_percentuale":1.3493727345,
+    "rendimento_netto_percentuale":0.0781284501
   },
   {
     "Date":"2025-06-02",
     "capitale_versato":953.97,
     "costo_totale":964.97,
-    "valore_totale":968.3563563945,
-    "rendimento_percentuale":1.5080512379,
-    "rendimento_netto_percentuale":0.3509286708
+    "valore_totale":968.3563598266,
+    "rendimento_percentuale":1.5080515977,
+    "rendimento_netto_percentuale":0.3509290265
   },
   {
     "Date":"2025-06-03",
     "capitale_versato":953.97,
     "costo_totale":964.97,
-    "valore_totale":976.9736695859,
-    "rendimento_percentuale":2.4113619491,
-    "rendimento_netto_percentuale":1.2439422558
+    "valore_totale":976.9736717499,
+    "rendimento_percentuale":2.4113621759,
+    "rendimento_netto_percentuale":1.2439424801
   },
   {
     "Date":"2025-06-04",
     "capitale_versato":983.97,
     "costo_totale":994.97,
-    "valore_totale":1006.7015863691,
-    "rendimento_percentuale":2.3101909986,
-    "rendimento_netto_percentuale":1.1790894569
+    "valore_totale":1006.7015742867,
+    "rendimento_percentuale":2.3101897707,
+    "rendimento_netto_percentuale":1.1790882425
   },
   {
     "Date":"2025-06-05",
     "capitale_versato":983.97,
     "costo_totale":994.97,
-    "valore_totale":996.1070147641,
-    "rendimento_percentuale":1.2334740657,
-    "rendimento_netto_percentuale":0.1142762861
+    "valore_totale":996.1070104099,
+    "rendimento_percentuale":1.2334736232,
+    "rendimento_netto_percentuale":0.1142758485
   },
   {
     "Date":"2025-06-06",
     "capitale_versato":983.97,
     "costo_totale":994.97,
-    "valore_totale":1003.9602554545,
-    "rendimento_percentuale":2.0315919646,
-    "rendimento_netto_percentuale":0.9035705051
+    "valore_totale":1003.9602629441,
+    "rendimento_percentuale":2.0315927258,
+    "rendimento_netto_percentuale":0.9035712578
   },
   {
     "Date":"2025-06-07",
     "capitale_versato":983.97,
     "costo_totale":994.97,
-    "valore_totale":1004.6379012164,
-    "rendimento_percentuale":2.1004605035,
-    "rendimento_netto_percentuale":0.9716776603
+    "valore_totale":1004.6379087059,
+    "rendimento_percentuale":2.1004612647,
+    "rendimento_netto_percentuale":0.971678413
   },
   {
     "Date":"2025-06-08",
     "capitale_versato":983.97,
     "costo_totale":994.97,
-    "valore_totale":1005.5880968591,
-    "rendimento_percentuale":2.1970280455,
-    "rendimento_netto_percentuale":1.0671775892
+    "valore_totale":1005.5881043486,
+    "rendimento_percentuale":2.1970288066,
+    "rendimento_netto_percentuale":1.0671783419
   },
   {
     "Date":"2025-06-09",
     "capitale_versato":983.97,
     "costo_totale":994.97,
-    "valore_totale":1016.5916538752,
-    "rendimento_percentuale":3.3153098037,
-    "rendimento_netto_percentuale":2.1730960607
+    "valore_totale":1016.591650786,
+    "rendimento_percentuale":3.3153094897,
+    "rendimento_netto_percentuale":2.1730957502
   },
   {
     "Date":"2025-06-10",
     "capitale_versato":983.97,
     "costo_totale":994.97,
-    "valore_totale":1016.5660019011,
-    "rendimento_percentuale":3.3127028163,
-    "rendimento_netto_percentuale":2.1705178951
+    "valore_totale":1016.5660009883,
+    "rendimento_percentuale":3.3127027235,
+    "rendimento_netto_percentuale":2.1705178034
   },
   {
     "Date":"2025-06-11",
     "capitale_versato":983.97,
     "costo_totale":994.97,
-    "valore_totale":1013.0639367387,
-    "rendimento_percentuale":2.9567910341,
-    "rendimento_netto_percentuale":1.8185409348
+    "valore_totale":1013.0639268632,
+    "rendimento_percentuale":2.9567900305,
+    "rendimento_netto_percentuale":1.8185399422
   },
   {
     "Date":"2025-06-12",
     "capitale_versato":983.97,
     "costo_totale":994.97,
-    "valore_totale":1001.9413269072,
-    "rendimento_percentuale":1.8264100437,
-    "rendimento_netto_percentuale":0.7006569954
+    "valore_totale":1001.9413192628,
+    "rendimento_percentuale":1.8264092668,
+    "rendimento_netto_percentuale":0.7006562271
   },
   {
     "Date":"2025-06-13",
     "capitale_versato":983.97,
     "costo_totale":994.97,
-    "valore_totale":993.5234060953,
-    "rendimento_percentuale":0.9709042039,
-    "rendimento_netto_percentuale":-0.1453907057
+    "valore_totale":993.5234128012,
+    "rendimento_percentuale":0.9709048854,
+    "rendimento_netto_percentuale":-0.1453900317
   },
   {
     "Date":"2025-06-14",
     "capitale_versato":983.97,
     "costo_totale":994.97,
-    "valore_totale":992.9928552927,
-    "rendimento_percentuale":0.9169847955,
-    "rendimento_netto_percentuale":-0.1987140022
+    "valore_totale":992.9928619986,
+    "rendimento_percentuale":0.9169854771,
+    "rendimento_netto_percentuale":-0.1987133282
   },
   {
     "Date":"2025-06-15",
     "capitale_versato":983.97,
     "costo_totale":994.97,
-    "valore_totale":993.8192501148,
-    "rendimento_percentuale":1.0009705697,
-    "rendimento_netto_percentuale":-0.1156567419
+    "valore_totale":993.8192568207,
+    "rendimento_percentuale":1.0009712512,
+    "rendimento_netto_percentuale":-0.115656068
   },
   {
     "Date":"2025-06-16",
     "capitale_versato":1040.97,
     "costo_totale":1051.97,
-    "valore_totale":1069.2761573016,
-    "rendimento_percentuale":2.7192097084,
-    "rendimento_netto_percentuale":1.6451189009
+    "valore_totale":1069.2761493038,
+    "rendimento_percentuale":2.7192089401,
+    "rendimento_netto_percentuale":1.6451181406
   },
   {
     "Date":"2025-06-17",
     "capitale_versato":1040.97,
     "costo_totale":1051.97,
-    "valore_totale":1061.1681475931,
-    "rendimento_percentuale":1.9403198549,
-    "rendimento_netto_percentuale":0.8743735651
+    "valore_totale":1061.1681563376,
+    "rendimento_percentuale":1.9403206949,
+    "rendimento_netto_percentuale":0.8743743964
   },
   {
     "Date":"2025-06-18",
     "capitale_versato":1040.97,
     "costo_totale":1051.97,
-    "valore_totale":1064.2722780856,
-    "rendimento_percentuale":2.2385158156,
-    "rendimento_netto_percentuale":1.1694514183
+    "valore_totale":1064.2722735826,
+    "rendimento_percentuale":2.238515383,
+    "rendimento_netto_percentuale":1.1694509903
   },
   {
     "Date":"2025-06-19",
     "capitale_versato":1040.97,
     "costo_totale":1051.97,
-    "valore_totale":1057.4333459367,
-    "rendimento_percentuale":1.5815389432,
-    "rendimento_netto_percentuale":0.5193442719
+    "valore_totale":1057.4333229655,
+    "rendimento_percentuale":1.5815367365,
+    "rendimento_netto_percentuale":0.5193420882
   },
   {
     "Date":"2025-06-20",
     "capitale_versato":1040.97,
     "costo_totale":1051.97,
-    "valore_totale":1059.6215163207,
-    "rendimento_percentuale":1.7917438851,
-    "rendimento_netto_percentuale":0.7273511907
+    "valore_totale":1059.6215038215,
+    "rendimento_percentuale":1.7917426844,
+    "rendimento_netto_percentuale":0.7273500025
   },
   {
     "Date":"2025-06-21",
     "capitale_versato":1040.97,
     "costo_totale":1051.97,
-    "valore_totale":1058.4005626124,
-    "rendimento_percentuale":1.6744538855,
-    "rendimento_netto_percentuale":0.6112876425
+    "valore_totale":1058.4005501132,
+    "rendimento_percentuale":1.6744526848,
+    "rendimento_netto_percentuale":0.6112864543
   },
   {
     "Date":"2025-06-22",
     "capitale_versato":1040.97,
     "costo_totale":1051.97,
-    "valore_totale":1057.50605227,
-    "rendimento_percentuale":1.5885234224,
-    "rendimento_netto_percentuale":0.5262557174
+    "valore_totale":1057.5060397708,
+    "rendimento_percentuale":1.5885222217,
+    "rendimento_netto_percentuale":0.5262545292
   },
   {
     "Date":"2025-06-23",
     "capitale_versato":1040.97,
     "costo_totale":1051.97,
-    "valore_totale":1062.9909849488,
-    "rendimento_percentuale":2.1154293542,
-    "rendimento_netto_percentuale":1.0476520194
+    "valore_totale":1062.9909828827,
+    "rendimento_percentuale":2.1154291558,
+    "rendimento_netto_percentuale":1.047651823
   },
   {
     "Date":"2025-06-24",
     "capitale_versato":1040.97,
     "costo_totale":1051.97,
-    "valore_totale":1078.0594436026,
-    "rendimento_percentuale":3.5629694998,
-    "rendimento_netto_percentuale":2.4800558573
+    "valore_totale":1078.0594608122,
+    "rendimento_percentuale":3.5629711531,
+    "rendimento_netto_percentuale":2.4800574933
   },
   {
     "Date":"2025-06-25",
     "capitale_versato":1040.97,
     "costo_totale":1051.97,
-    "valore_totale":1082.9071465134,
-    "rendimento_percentuale":4.0286604334,
-    "rendimento_netto_percentuale":2.9408772601
+    "valore_totale":1082.9071536783,
+    "rendimento_percentuale":4.0286611217,
+    "rendimento_netto_percentuale":2.9408779412
   },
   {
     "Date":"2025-06-26",
     "capitale_versato":1040.97,
     "costo_totale":1051.97,
-    "valore_totale":1081.2358712561,
-    "rendimento_percentuale":3.868110633,
-    "rendimento_netto_percentuale":2.7820062603
+    "valore_totale":1081.2358616309,
+    "rendimento_percentuale":3.8681097083,
+    "rendimento_netto_percentuale":2.7820053453
   },
   {
     "Date":"2025-06-27",
     "capitale_versato":1040.97,
     "costo_totale":1051.97,
-    "valore_totale":1086.7570196784,
-    "rendimento_percentuale":4.398495603,
-    "rendimento_netto_percentuale":3.3068452217
+    "valore_totale":1086.7570144806,
+    "rendimento_percentuale":4.3984951037,
+    "rendimento_netto_percentuale":3.3068447276
   },
   {
     "Date":"2025-06-28",
     "capitale_versato":1040.97,
     "costo_totale":1051.97,
-    "valore_totale":1087.8109031998,
-    "rendimento_percentuale":4.4997361307,
-    "rendimento_netto_percentuale":3.4070271205
+    "valore_totale":1087.810898002,
+    "rendimento_percentuale":4.4997356314,
+    "rendimento_netto_percentuale":3.4070266264
   },
   {
     "Date":"2025-06-29",
     "capitale_versato":1040.97,
     "costo_totale":1051.97,
-    "valore_totale":1088.4502417392,
-    "rendimento_percentuale":4.5611537066,
-    "rendimento_netto_percentuale":3.4678024791
+    "valore_totale":1088.4502365415,
+    "rendimento_percentuale":4.5611532072,
+    "rendimento_netto_percentuale":3.467801985
   },
   {
     "Date":"2025-06-30",
     "capitale_versato":1040.97,
     "costo_totale":1051.97,
-    "valore_totale":1084.6748837997,
-    "rendimento_percentuale":4.198476786,
-    "rendimento_netto_percentuale":3.1089179159
+    "valore_totale":1084.6748921377,
+    "rendimento_percentuale":4.198477587,
+    "rendimento_netto_percentuale":3.1089187085
   },
   {
     "Date":"2025-07-01",
     "capitale_versato":1040.97,
     "costo_totale":1051.97,
-    "valore_totale":1069.0983106485,
-    "rendimento_percentuale":2.7021250035,
-    "rendimento_netto_percentuale":1.6282128434
+    "valore_totale":1069.0983259842,
+    "rendimento_percentuale":2.7021264767,
+    "rendimento_netto_percentuale":1.6282143012
   },
   {
     "Date":"2025-07-02",
     "capitale_versato":1168.99,
     "costo_totale":1179.99,
-    "valore_totale":1215.5058919885,
-    "rendimento_percentuale":3.9791522587,
-    "rendimento_netto_percentuale":3.0098468621
+    "valore_totale":1215.5058669495,
+    "rendimento_percentuale":3.9791501167,
+    "rendimento_netto_percentuale":3.0098447402
   },
   {
     "Date":"2025-07-03",
     "capitale_versato":1168.99,
     "costo_totale":1179.99,
-    "valore_totale":1223.6244970108,
-    "rendimento_percentuale":4.6736496472,
-    "rendimento_netto_percentuale":3.6978700676
+    "valore_totale":1223.6245052975,
+    "rendimento_percentuale":4.6736503561,
+    "rendimento_netto_percentuale":3.6978707699
   },
   {
     "Date":"2025-07-04",
     "capitale_versato":1168.99,
     "costo_totale":1179.99,
-    "valore_totale":1217.6030325011,
-    "rendimento_percentuale":4.1585499021,
-    "rendimento_netto_percentuale":3.1875721405
+    "valore_totale":1217.6030605295,
+    "rendimento_percentuale":4.1585522998,
+    "rendimento_netto_percentuale":3.1875745158
   },
   {
     "Date":"2025-07-05",
     "capitale_versato":1168.99,
     "costo_totale":1179.99,
-    "valore_totale":1217.6303760671,
-    "rendimento_percentuale":4.1608889783,
-    "rendimento_netto_percentuale":3.1898894115
+    "valore_totale":1217.6304040955,
+    "rendimento_percentuale":4.1608913759,
+    "rendimento_netto_percentuale":3.1898917868
   },
   {
     "Date":"2025-07-06",
     "capitale_versato":1168.99,
     "costo_totale":1179.99,
-    "valore_totale":1218.6742091122,
-    "rendimento_percentuale":4.2501825604,
-    "rendimento_netto_percentuale":3.2783505888
+    "valore_totale":1218.6742371407,
+    "rendimento_percentuale":4.250184958,
+    "rendimento_netto_percentuale":3.2783529641
   },
   {
     "Date":"2025-07-07",
     "capitale_versato":1168.99,
     "costo_totale":1179.99,
-    "valore_totale":1215.431747779,
-    "rendimento_percentuale":3.9728096715,
-    "rendimento_netto_percentuale":3.0035634013
+    "valore_totale":1215.4317573353,
+    "rendimento_percentuale":3.972810489,
+    "rendimento_netto_percentuale":3.0035642112
   },
   {
     "Date":"2025-07-08",
     "capitale_versato":1168.99,
     "costo_totale":1179.99,
-    "valore_totale":1223.2319229698,
-    "rendimento_percentuale":4.6400673205,
-    "rendimento_netto_percentuale":3.6646007991
+    "valore_totale":1223.2318999094,
+    "rendimento_percentuale":4.6400653478,
+    "rendimento_netto_percentuale":3.6645988449
   },
   {
     "Date":"2025-07-09",
     "capitale_versato":1168.99,
     "costo_totale":1179.99,
-    "valore_totale":1233.265865191,
-    "rendimento_percentuale":5.4984101824,
-    "rendimento_netto_percentuale":4.514942092
+    "valore_totale":1233.2658703744,
+    "rendimento_percentuale":5.4984106258,
+    "rendimento_netto_percentuale":4.5149425312
   },
   {
     "Date":"2025-07-10",
     "capitale_versato":1168.99,
     "costo_totale":1179.99,
-    "valore_totale":1244.9698184591,
-    "rendimento_percentuale":6.4996123542,
-    "rendimento_netto_percentuale":5.5068109441
+    "valore_totale":1244.9698236395,
+    "rendimento_percentuale":6.4996127973,
+    "rendimento_netto_percentuale":5.5068113831
   },
   {
     "Date":"2025-07-11",
     "capitale_versato":1168.99,
     "costo_totale":1179.99,
-    "valore_totale":1246.2747350847,
-    "rendimento_percentuale":6.6112400521,
-    "rendimento_netto_percentuale":5.617398036
+    "valore_totale":1246.2747491317,
+    "rendimento_percentuale":6.6112412537,
+    "rendimento_netto_percentuale":5.6173992264
   },
   {
     "Date":"2025-07-12",
     "capitale_versato":1168.99,
     "costo_totale":1179.99,
-    "valore_totale":1246.1177915183,
-    "rendimento_percentuale":6.5978144824,
-    "rendimento_netto_percentuale":5.604097621
+    "valore_totale":1246.1178055654,
+    "rendimento_percentuale":6.5978156841,
+    "rendimento_netto_percentuale":5.6040988115
   },
   {
     "Date":"2025-07-13",
     "capitale_versato":1168.99,
     "costo_totale":1179.99,
-    "valore_totale":1247.5220387591,
-    "rendimento_percentuale":6.7179393116,
-    "rendimento_netto_percentuale":5.723102633
+    "valore_totale":1247.5220528062,
+    "rendimento_percentuale":6.7179405133,
+    "rendimento_netto_percentuale":5.7231038234
   },
   {
     "Date":"2025-07-14",
     "capitale_versato":1168.99,
     "costo_totale":1179.99,
-    "valore_totale":1249.8529614447,
-    "rendimento_percentuale":6.9173356012,
-    "rendimento_netto_percentuale":5.9206401279
+    "valore_totale":1249.8529581776,
+    "rendimento_percentuale":6.9173353217,
+    "rendimento_netto_percentuale":5.920639851
   },
   {
     "Date":"2025-07-15",
     "capitale_versato":1168.99,
     "costo_totale":1179.99,
-    "valore_totale":1263.443736934,
-    "rendimento_percentuale":8.0799439631,
-    "rendimento_netto_percentuale":7.0724105233
+    "valore_totale":1263.443725279,
+    "rendimento_percentuale":8.0799429661,
+    "rendimento_netto_percentuale":7.0724095356
   },
   {
     "Date":"2025-07-16",
     "capitale_versato":1199.99,
     "costo_totale":1210.99,
-    "valore_totale":1296.2637148668,
-    "rendimento_percentuale":8.0228764295,
-    "rendimento_netto_percentuale":7.0416530993
+    "valore_totale":1296.2637320765,
+    "rendimento_percentuale":8.0228778637,
+    "rendimento_netto_percentuale":7.0416545204
   },
   {
     "Date":"2025-07-17",
     "capitale_versato":1199.99,
     "costo_totale":1210.99,
-    "valore_totale":1312.8533109037,
-    "rendimento_percentuale":9.4053542866,
-    "rendimento_netto_percentuale":8.4115732503
+    "valore_totale":1312.8533212768,
+    "rendimento_percentuale":9.405355151,
+    "rendimento_netto_percentuale":8.4115741069
   },
   {
     "Date":"2025-07-18",
@@ -2003,185 +2003,185 @@
     "Date":"2025-07-21",
     "capitale_versato":1199.99,
     "costo_totale":1210.99,
-    "valore_totale":1309.5647697707,
-    "rendimento_percentuale":9.1313069085,
-    "rendimento_netto_percentuale":8.1400151752
+    "valore_totale":1309.5647556628,
+    "rendimento_percentuale":9.1313057328,
+    "rendimento_netto_percentuale":8.1400140103
   },
   {
     "Date":"2025-07-22",
     "capitale_versato":1199.99,
     "costo_totale":1210.99,
-    "valore_totale":1300.8105047453,
-    "rendimento_percentuale":8.4017787436,
-    "rendimento_netto_percentuale":7.4171136628
+    "valore_totale":1300.8105016679,
+    "rendimento_percentuale":8.4017784871,
+    "rendimento_netto_percentuale":7.4171134087
   },
   {
     "Date":"2025-07-23",
     "capitale_versato":1199.99,
     "costo_totale":1210.99,
-    "valore_totale":1309.2536985084,
-    "rendimento_percentuale":9.1053840872,
-    "rendimento_netto_percentuale":8.1143278234
+    "valore_totale":1309.2536847638,
+    "rendimento_percentuale":9.1053829418,
+    "rendimento_netto_percentuale":8.1143266884
   },
   {
     "Date":"2025-07-24",
     "capitale_versato":1199.99,
     "costo_totale":1210.99,
-    "valore_totale":1308.9611337979,
-    "rendimento_percentuale":9.0810034915,
-    "rendimento_netto_percentuale":8.0901686883
+    "valore_totale":1308.9611289249,
+    "rendimento_percentuale":9.0810030854,
+    "rendimento_netto_percentuale":8.0901682859
   },
   {
     "Date":"2025-07-25",
     "capitale_versato":1199.99,
     "costo_totale":1210.99,
-    "valore_totale":1316.2147459052,
-    "rendimento_percentuale":9.6854762044,
-    "rendimento_netto_percentuale":8.6891506871
+    "valore_totale":1316.2147453493,
+    "rendimento_percentuale":9.6854761581,
+    "rendimento_netto_percentuale":8.6891506412
   },
   {
     "Date":"2025-07-26",
     "capitale_versato":1199.99,
     "costo_totale":1210.99,
-    "valore_totale":1316.3948401714,
-    "rendimento_percentuale":9.700484185,
-    "rendimento_netto_percentuale":8.704022343
+    "valore_totale":1316.3948396155,
+    "rendimento_percentuale":9.7004841387,
+    "rendimento_netto_percentuale":8.7040222971
   },
   {
     "Date":"2025-07-27",
     "capitale_versato":1199.99,
     "costo_totale":1210.99,
-    "valore_totale":1317.6787924225,
-    "rendimento_percentuale":9.8074810976,
-    "rendimento_netto_percentuale":8.8100473515
+    "valore_totale":1317.6787918667,
+    "rendimento_percentuale":9.8074810512,
+    "rendimento_netto_percentuale":8.8100473056
   },
   {
     "Date":"2025-07-28",
     "capitale_versato":1199.99,
     "costo_totale":1210.99,
-    "valore_totale":1332.3860453605,
-    "rendimento_percentuale":11.0330957225,
-    "rendimento_netto_percentuale":10.0245291341
+    "valore_totale":1332.3860500593,
+    "rendimento_percentuale":11.0330961141,
+    "rendimento_netto_percentuale":10.0245295221
   },
   {
     "Date":"2025-07-29",
     "capitale_versato":1199.99,
     "costo_totale":1210.99,
-    "valore_totale":1348.6976633879,
-    "rendimento_percentuale":12.3924085524,
-    "rendimento_netto_percentuale":11.3714946769
+    "valore_totale":1348.6976652246,
+    "rendimento_percentuale":12.3924087055,
+    "rendimento_netto_percentuale":11.3714948286
   },
   {
     "Date":"2025-07-30",
     "capitale_versato":1199.99,
     "costo_totale":1210.99,
-    "valore_totale":1364.5230954282,
-    "rendimento_percentuale":13.7112055457,
-    "rendimento_netto_percentuale":12.6783124079
+    "valore_totale":1364.5230906233,
+    "rendimento_percentuale":13.7112051453,
+    "rendimento_netto_percentuale":12.6783120111
   },
   {
     "Date":"2025-07-31",
     "capitale_versato":1199.99,
     "costo_totale":1210.99,
-    "valore_totale":1357.3674969788,
-    "rendimento_percentuale":13.1149007057,
-    "rendimento_netto_percentuale":12.0874240893
+    "valore_totale":1357.367487697,
+    "rendimento_percentuale":13.1148999323,
+    "rendimento_netto_percentuale":12.0874233228
   },
   {
     "Date":"2025-08-01",
     "capitale_versato":1199.99,
     "costo_totale":1210.99,
-    "valore_totale":1320.0010688123,
-    "rendimento_percentuale":10.0010057427,
-    "rendimento_netto_percentuale":9.00181412
+    "valore_totale":1320.0010645485,
+    "rendimento_percentuale":10.0010053874,
+    "rendimento_netto_percentuale":9.0018137679
   },
   {
     "Date":"2025-08-02",
     "capitale_versato":1199.99,
     "costo_totale":1210.99,
-    "valore_totale":1317.7463379596,
-    "rendimento_percentuale":9.8131099392,
-    "rendimento_netto_percentuale":8.8156250638
+    "valore_totale":1317.7463336958,
+    "rendimento_percentuale":9.8131095839,
+    "rendimento_netto_percentuale":8.8156247117
   },
   {
     "Date":"2025-08-03",
     "capitale_versato":1199.99,
     "costo_totale":1210.99,
-    "valore_totale":1320.1104173519,
-    "rendimento_percentuale":10.010118197,
-    "rendimento_netto_percentuale":9.0108438015
+    "valore_totale":1320.110413088,
+    "rendimento_percentuale":10.0101178416,
+    "rendimento_netto_percentuale":9.0108434494
   },
   {
     "Date":"2025-08-04",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1483.9230762949,
-    "rendimento_percentuale":10.3272127028,
-    "rendimento_netto_percentuale":9.4322411391
+    "valore_totale":1483.9230804988,
+    "rendimento_percentuale":10.3272130153,
+    "rendimento_netto_percentuale":9.4322414491
   },
   {
     "Date":"2025-08-05",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1478.6988652365,
-    "rendimento_percentuale":9.9388012994,
-    "rendimento_netto_percentuale":9.0469805192
+    "valore_totale":1478.6988743943,
+    "rendimento_percentuale":9.9388019802,
+    "rendimento_netto_percentuale":9.0469811945
   },
   {
     "Date":"2025-08-06",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1472.5774786656,
-    "rendimento_percentuale":9.4836863887,
-    "rendimento_netto_percentuale":8.5955574892
+    "valore_totale":1472.5774665532,
+    "rendimento_percentuale":9.4836854882,
+    "rendimento_netto_percentuale":8.595556596
   },
   {
     "Date":"2025-08-07",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1488.2597526918,
-    "rendimento_percentuale":10.6496373802,
-    "rendimento_netto_percentuale":9.7520503158
+    "valore_totale":1488.2597381638,
+    "rendimento_percentuale":10.6496363001,
+    "rendimento_netto_percentuale":9.7520492444
   },
   {
     "Date":"2025-08-08",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1494.2730513322,
-    "rendimento_percentuale":11.096716133,
-    "rendimento_netto_percentuale":10.195502377
+    "valore_totale":1494.2730495081,
+    "rendimento_percentuale":11.0967159974,
+    "rendimento_netto_percentuale":10.1955022424
   },
   {
     "Date":"2025-08-09",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1493.9350512473,
-    "rendimento_percentuale":11.0715863889,
-    "rendimento_netto_percentuale":10.1705764847
+    "valore_totale":1493.9350494232,
+    "rendimento_percentuale":11.0715862532,
+    "rendimento_netto_percentuale":10.1705763501
   },
   {
     "Date":"2025-08-10",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1494.6362256905,
-    "rendimento_percentuale":11.1237175425,
-    "rendimento_netto_percentuale":10.2222847517
+    "valore_totale":1494.6362238664,
+    "rendimento_percentuale":11.1237174069,
+    "rendimento_netto_percentuale":10.2222846172
   },
   {
     "Date":"2025-08-11",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1497.0039277584,
-    "rendimento_percentuale":11.2997522534,
-    "rendimento_netto_percentuale":10.3968914735
+    "valore_totale":1497.0039235766,
+    "rendimento_percentuale":11.2997519425,
+    "rendimento_netto_percentuale":10.3968911651
   },
   {
     "Date":"2025-08-12",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1505.266727757,
-    "rendimento_percentuale":11.9140776908,
-    "rendimento_netto_percentuale":11.0062335185
+    "valore_totale":1505.2667147397,
+    "rendimento_percentuale":11.914076723,
+    "rendimento_netto_percentuale":11.0062325585
   },
   {
     "Date":"2025-08-13",
@@ -2195,201 +2195,201 @@
     "Date":"2025-08-14",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1517.0000057902,
-    "rendimento_percentuale":12.7864273981,
-    "rendimento_netto_percentuale":11.871506747
+    "valore_totale":1517.0000021532,
+    "rendimento_percentuale":12.7864271277,
+    "rendimento_netto_percentuale":11.8715064788
   },
   {
     "Date":"2025-08-15",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1513.879227374,
-    "rendimento_percentuale":12.5544027133,
-    "rendimento_netto_percentuale":11.6413642405
+    "valore_totale":1513.8792231934,
+    "rendimento_percentuale":12.5544024025,
+    "rendimento_netto_percentuale":11.6413639322
   },
   {
     "Date":"2025-08-16",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1514.4445018864,
-    "rendimento_percentuale":12.5964299331,
-    "rendimento_netto_percentuale":11.6830505366
+    "valore_totale":1514.4444977059,
+    "rendimento_percentuale":12.5964296223,
+    "rendimento_netto_percentuale":11.6830502283
   },
   {
     "Date":"2025-08-17",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1514.3584881217,
-    "rendimento_percentuale":12.5900349528,
-    "rendimento_netto_percentuale":11.6767074322
+    "valore_totale":1514.3584839411,
+    "rendimento_percentuale":12.5900346419,
+    "rendimento_netto_percentuale":11.6767071239
   },
   {
     "Date":"2025-08-18",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1511.0307676459,
-    "rendimento_percentuale":12.34262447,
-    "rendimento_netto_percentuale":11.431303937
+    "valore_totale":1511.030758584,
+    "rendimento_percentuale":12.3426237962,
+    "rendimento_netto_percentuale":11.4313032687
   },
   {
     "Date":"2025-08-19",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1496.0743540747,
-    "rendimento_percentuale":11.230639996,
-    "rendimento_netto_percentuale":10.328339853
+    "valore_totale":1496.0743277733,
+    "rendimento_percentuale":11.2306380406,
+    "rendimento_netto_percentuale":10.3283379134
   },
   {
     "Date":"2025-08-20",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1493.1029405488,
-    "rendimento_percentuale":11.0097203424,
-    "rendimento_netto_percentuale":10.109212294
+    "valore_totale":1493.1029233391,
+    "rendimento_percentuale":11.0097190628,
+    "rendimento_netto_percentuale":10.1092110248
   },
   {
     "Date":"2025-08-21",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1494.4150630605,
-    "rendimento_percentuale":11.1072744688,
-    "rendimento_netto_percentuale":10.2059750638
+    "valore_totale":1494.4150721651,
+    "rendimento_percentuale":11.1072751457,
+    "rendimento_netto_percentuale":10.2059757352
   },
   {
     "Date":"2025-08-22",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1514.0378916515,
-    "rendimento_percentuale":12.5661991384,
-    "rendimento_netto_percentuale":11.6530649733
+    "valore_totale":1514.0378958458,
+    "rendimento_percentuale":12.5661994503,
+    "rendimento_netto_percentuale":11.6530652827
   },
   {
     "Date":"2025-08-23",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1513.5894969458,
-    "rendimento_percentuale":12.5328617378,
-    "rendimento_netto_percentuale":11.6199980049
+    "valore_totale":1513.5895011401,
+    "rendimento_percentuale":12.5328620496,
+    "rendimento_netto_percentuale":11.6199983142
   },
   {
     "Date":"2025-08-24",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1513.0688674233,
-    "rendimento_percentuale":12.4941537987,
-    "rendimento_netto_percentuale":11.5816040636
+    "valore_totale":1513.0688716177,
+    "rendimento_percentuale":12.4941541105,
+    "rendimento_netto_percentuale":11.5816043729
   },
   {
     "Date":"2025-08-25",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1504.1154352663,
-    "rendimento_percentuale":11.8284810089,
-    "rendimento_netto_percentuale":10.9213311947
+    "valore_totale":1504.1154483163,
+    "rendimento_percentuale":11.8284819792,
+    "rendimento_netto_percentuale":10.9213321571
   },
   {
     "Date":"2025-08-26",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1509.6480546705,
-    "rendimento_percentuale":12.2398220599,
-    "rendimento_netto_percentuale":11.3293354575
+    "valore_totale":1509.648051004,
+    "rendimento_percentuale":12.2398217873,
+    "rendimento_netto_percentuale":11.3293351871
   },
   {
     "Date":"2025-08-27",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1508.6621430735,
-    "rendimento_percentuale":12.1665211724,
-    "rendimento_netto_percentuale":11.2566291849
+    "valore_totale":1508.6621216789,
+    "rendimento_percentuale":12.1665195818,
+    "rendimento_netto_percentuale":11.2566276072
   },
   {
     "Date":"2025-08-28",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1509.0360714654,
-    "rendimento_percentuale":12.1943221265,
-    "rendimento_netto_percentuale":11.2842046183
+    "valore_totale":1509.0360842303,
+    "rendimento_percentuale":12.1943230755,
+    "rendimento_netto_percentuale":11.2842055597
   },
   {
     "Date":"2025-08-29",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1488.499968294,
-    "rendimento_percentuale":10.6674970107,
-    "rendimento_netto_percentuale":9.7697650694
+    "valore_totale":1488.4999768524,
+    "rendimento_percentuale":10.6674976471,
+    "rendimento_netto_percentuale":9.7697657005
   },
   {
     "Date":"2025-08-30",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1488.4091863366,
-    "rendimento_percentuale":10.6607475232,
-    "rendimento_netto_percentuale":9.7630703335
+    "valore_totale":1488.4091948951,
+    "rendimento_percentuale":10.6607481595,
+    "rendimento_netto_percentuale":9.7630709647
   },
   {
     "Date":"2025-08-31",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1487.7219873829,
-    "rendimento_percentuale":10.6096554239,
-    "rendimento_netto_percentuale":9.7123926921
+    "valore_totale":1487.7219959413,
+    "rendimento_percentuale":10.6096560602,
+    "rendimento_netto_percentuale":9.7123933232
   },
   {
     "Date":"2025-09-01",
     "capitale_versato":1345.02,
     "costo_totale":1356.02,
-    "valore_totale":1490.7850669783,
-    "rendimento_percentuale":10.8373902974,
-    "rendimento_netto_percentuale":9.938280186
+    "valore_totale":1490.7850742733,
+    "rendimento_percentuale":10.8373908398,
+    "rendimento_netto_percentuale":9.938280724
   },
   {
     "Date":"2025-09-02",
     "capitale_versato":1465.02,
     "costo_totale":1476.02,
-    "valore_totale":1599.4929167231,
-    "rendimento_percentuale":9.1789133748,
-    "rendimento_netto_percentuale":8.3652604113
+    "valore_totale":1599.4929142059,
+    "rendimento_percentuale":9.178913203,
+    "rendimento_netto_percentuale":8.3652602408
   },
   {
     "Date":"2025-09-03",
     "capitale_versato":1465.02,
     "costo_totale":1476.02,
-    "valore_totale":1607.4403358841,
-    "rendimento_percentuale":9.7213919185,
-    "rendimento_netto_percentuale":8.903696148
+    "valore_totale":1607.4403474061,
+    "rendimento_percentuale":9.721392705,
+    "rendimento_netto_percentuale":8.9036969286
   },
   {
     "Date":"2025-09-04",
     "capitale_versato":1465.02,
     "costo_totale":1476.02,
-    "valore_totale":1611.792367099,
-    "rendimento_percentuale":10.0184548401,
-    "rendimento_netto_percentuale":9.1985452161
+    "valore_totale":1611.7923732755,
+    "rendimento_percentuale":10.0184552617,
+    "rendimento_netto_percentuale":9.1985456346
   },
   {
     "Date":"2025-09-05",
     "capitale_versato":1465.02,
     "costo_totale":1476.02,
-    "valore_totale":1592.9600843786,
-    "rendimento_percentuale":8.7329923399,
-    "rendimento_netto_percentuale":7.9226625912
+    "valore_totale":1592.9600922116,
+    "rendimento_percentuale":8.7329928746,
+    "rendimento_netto_percentuale":7.9226631219
   },
   {
     "Date":"2025-09-06",
     "capitale_versato":1465.02,
     "costo_totale":1476.02,
-    "valore_totale":1592.5884867242,
-    "rendimento_percentuale":8.7076276586,
-    "rendimento_netto_percentuale":7.8974869395
+    "valore_totale":1592.5884945573,
+    "rendimento_percentuale":8.7076281933,
+    "rendimento_netto_percentuale":7.8974874702
   },
   {
     "Date":"2025-09-07",
     "capitale_versato":1465.02,
     "costo_totale":1476.02,
-    "valore_totale":1593.9134875544,
-    "rendimento_percentuale":8.7980701666,
-    "rendimento_netto_percentuale":7.9872554271
+    "valore_totale":1593.9134953874,
+    "rendimento_percentuale":8.7980707012,
+    "rendimento_netto_percentuale":7.9872559577
   },
   {
     "Date":"2025-09-08",
@@ -2403,49 +2403,49 @@
     "Date":"2025-09-09",
     "capitale_versato":1465.02,
     "costo_totale":1476.02,
-    "valore_totale":1608.3788792906,
-    "rendimento_percentuale":9.7854554402,
-    "rendimento_netto_percentuale":8.9672822381
+    "valore_totale":1608.3788798096,
+    "rendimento_percentuale":9.7854554757,
+    "rendimento_netto_percentuale":8.9672822733
   },
   {
     "Date":"2025-09-10",
     "capitale_versato":1465.02,
     "costo_totale":1476.02,
-    "valore_totale":1627.3118513811,
-    "rendimento_percentuale":11.0777908412,
-    "rendimento_netto_percentuale":10.2499865436
+    "valore_totale":1627.3118238505,
+    "rendimento_percentuale":11.077788962,
+    "rendimento_netto_percentuale":10.2499846784
   },
   {
     "Date":"2025-09-11",
     "capitale_versato":1465.02,
     "costo_totale":1476.02,
-    "valore_totale":1633.9417729155,
-    "rendimento_percentuale":11.530339034,
-    "rendimento_netto_percentuale":10.699162133
+    "valore_totale":1633.941780724,
+    "rendimento_percentuale":11.530339567,
+    "rendimento_netto_percentuale":10.699162662
   },
   {
     "Date":"2025-09-12",
     "capitale_versato":1465.02,
     "costo_totale":1476.02,
-    "valore_totale":1642.2236129202,
-    "rendimento_percentuale":12.0956446274,
-    "rendimento_netto_percentuale":11.2602548014
+    "valore_totale":1642.223602624,
+    "rendimento_percentuale":12.0956439246,
+    "rendimento_netto_percentuale":11.2602541039
   },
   {
     "Date":"2025-09-13",
     "capitale_versato":1465.02,
     "costo_totale":1476.02,
-    "valore_totale":1642.3286910319,
-    "rendimento_percentuale":12.1028170968,
-    "rendimento_netto_percentuale":11.2673738182
+    "valore_totale":1642.3286807357,
+    "rendimento_percentuale":12.102816394,
+    "rendimento_netto_percentuale":11.2673731207
   },
   {
     "Date":"2025-09-14",
     "capitale_versato":1465.02,
     "costo_totale":1476.02,
-    "valore_totale":1641.3206806399,
-    "rendimento_percentuale":12.034011866,
-    "rendimento_netto_percentuale":11.1990813566
+    "valore_totale":1641.3206703437,
+    "rendimento_percentuale":12.0340111632,
+    "rendimento_netto_percentuale":11.1990806591
   },
   {
     "Date":"2025-09-15",
@@ -2459,65 +2459,65 @@
     "Date":"2025-09-16",
     "capitale_versato":1522.06,
     "costo_totale":1533.06,
-    "valore_totale":1695.6647322075,
-    "rendimento_percentuale":11.4059059569,
-    "rendimento_netto_percentuale":10.6065471806
+    "valore_totale":1695.6647552066,
+    "rendimento_percentuale":11.4059074679,
+    "rendimento_netto_percentuale":10.6065486808
   },
   {
     "Date":"2025-09-17",
     "capitale_versato":1522.06,
     "costo_totale":1533.06,
-    "valore_totale":1686.6896555844,
-    "rendimento_percentuale":10.8162395428,
-    "rendimento_netto_percentuale":10.0211117363
+    "valore_totale":1686.6896652102,
+    "rendimento_percentuale":10.8162401752,
+    "rendimento_netto_percentuale":10.0211123642
   },
   {
     "Date":"2025-09-18",
     "capitale_versato":1522.06,
     "costo_totale":1533.06,
-    "valore_totale":1697.4083989215,
-    "rendimento_percentuale":11.5204656138,
-    "rendimento_netto_percentuale":10.72028485
+    "valore_totale":1697.408398284,
+    "rendimento_percentuale":11.5204655719,
+    "rendimento_netto_percentuale":10.7202848084
   },
   {
     "Date":"2025-09-19",
     "capitale_versato":1522.06,
     "costo_totale":1533.06,
-    "valore_totale":1699.5895218975,
-    "rendimento_percentuale":11.6637663362,
-    "rendimento_netto_percentuale":10.8625573622
+    "valore_totale":1699.5895231534,
+    "rendimento_percentuale":11.6637664188,
+    "rendimento_netto_percentuale":10.8625574442
   },
   {
     "Date":"2025-09-20",
     "capitale_versato":1522.06,
     "costo_totale":1533.06,
-    "valore_totale":1699.5469365285,
-    "rendimento_percentuale":11.6609684591,
-    "rendimento_netto_percentuale":10.8597795604
+    "valore_totale":1699.5469377845,
+    "rendimento_percentuale":11.6609685416,
+    "rendimento_netto_percentuale":10.8597796423
   },
   {
     "Date":"2025-09-21",
     "capitale_versato":1522.06,
     "costo_totale":1533.06,
-    "valore_totale":1699.2397679259,
-    "rendimento_percentuale":11.6407873491,
-    "rendimento_netto_percentuale":10.8397432537
+    "valore_totale":1699.2397691819,
+    "rendimento_percentuale":11.6407874316,
+    "rendimento_netto_percentuale":10.8397433357
   },
   {
     "Date":"2025-09-22",
     "capitale_versato":1522.06,
     "costo_totale":1533.06,
-    "valore_totale":1708.9078643796,
-    "rendimento_percentuale":12.2759854657,
-    "rendimento_netto_percentuale":11.4703837019
+    "valore_totale":1708.9078694958,
+    "rendimento_percentuale":12.2759858019,
+    "rendimento_netto_percentuale":11.4703840356
   },
   {
     "Date":"2025-09-23",
     "capitale_versato":1522.06,
     "costo_totale":1533.06,
-    "valore_totale":1704.640221348,
-    "rendimento_percentuale":11.9955994736,
-    "rendimento_netto_percentuale":11.1920095331
+    "valore_totale":1704.6402487806,
+    "rendimento_percentuale":11.9956012759,
+    "rendimento_netto_percentuale":11.1920113225
   },
   {
     "Date":"2025-09-24",
@@ -2539,41 +2539,41 @@
     "Date":"2025-09-26",
     "capitale_versato":1522.06,
     "costo_totale":1533.06,
-    "valore_totale":1713.4579032215,
-    "rendimento_percentuale":12.5749249847,
-    "rendimento_netto_percentuale":11.7671782723
+    "valore_totale":1713.4579198601,
+    "rendimento_percentuale":12.5749260778,
+    "rendimento_netto_percentuale":11.7671793576
   },
   {
     "Date":"2025-09-27",
     "capitale_versato":1522.06,
     "costo_totale":1533.06,
-    "valore_totale":1713.5256276187,
-    "rendimento_percentuale":12.5793745068,
-    "rendimento_netto_percentuale":11.7715958683
+    "valore_totale":1713.5256442572,
+    "rendimento_percentuale":12.5793756,
+    "rendimento_netto_percentuale":11.7715969536
   },
   {
     "Date":"2025-09-28",
     "capitale_versato":1522.06,
     "costo_totale":1533.06,
-    "valore_totale":1715.2446132975,
-    "rendimento_percentuale":12.6923126091,
-    "rendimento_netto_percentuale":11.883723618
+    "valore_totale":1715.2446299361,
+    "rendimento_percentuale":12.6923137022,
+    "rendimento_netto_percentuale":11.8837247033
   },
   {
     "Date":"2025-09-29",
     "capitale_versato":1522.06,
     "costo_totale":1533.06,
-    "valore_totale":1722.1636589254,
-    "rendimento_percentuale":13.146896898,
-    "rendimento_netto_percentuale":12.3350461773
+    "valore_totale":1722.1636507908,
+    "rendimento_percentuale":13.1468963635,
+    "rendimento_netto_percentuale":12.3350456467
   },
   {
     "Date":"2025-09-30",
     "capitale_versato":1522.06,
     "costo_totale":1533.06,
-    "valore_totale":1725.4880162744,
-    "rendimento_percentuale":13.365308613,
-    "rendimento_netto_percentuale":12.5518907462
+    "valore_totale":1725.4880117984,
+    "rendimento_percentuale":13.3653083189,
+    "rendimento_netto_percentuale":12.5518904543
   },
   {
     "Date":"2025-10-01",
@@ -2587,9 +2587,9 @@
     "Date":"2025-10-02",
     "capitale_versato":1670.16,
     "costo_totale":1681.16,
-    "valore_totale":1896.3530901697,
-    "rendimento_percentuale":13.5431988654,
-    "rendimento_netto_percentuale":12.8002742255
+    "valore_totale":1896.3530946447,
+    "rendimento_percentuale":13.5431991333,
+    "rendimento_netto_percentuale":12.8002744917
   },
   {
     "Date":"2025-10-03",
@@ -2619,129 +2619,129 @@
     "Date":"2025-10-06",
     "capitale_versato":1670.16,
     "costo_totale":1681.16,
-    "valore_totale":1938.0178515745,
-    "rendimento_percentuale":16.0378557488,
-    "rendimento_netto_percentuale":15.2786083165
+    "valore_totale":1938.017841818,
+    "rendimento_percentuale":16.0378551647,
+    "rendimento_netto_percentuale":15.2786077362
   },
   {
     "Date":"2025-10-07",
     "capitale_versato":1670.16,
     "costo_totale":1681.16,
-    "valore_totale":1940.2726001724,
-    "rendimento_percentuale":16.1728577006,
-    "rendimento_netto_percentuale":15.4127269369
+    "valore_totale":1940.2726046565,
+    "rendimento_percentuale":16.1728579691,
+    "rendimento_netto_percentuale":15.4127272036
   },
   {
     "Date":"2025-10-08",
     "capitale_versato":1670.16,
     "costo_totale":1681.16,
-    "valore_totale":1983.6187917499,
-    "rendimento_percentuale":18.7681893801,
-    "rendimento_netto_percentuale":17.9910770985
+    "valore_totale":1983.6187962554,
+    "rendimento_percentuale":18.7681896498,
+    "rendimento_netto_percentuale":17.9910773665
   },
   {
     "Date":"2025-10-09",
     "capitale_versato":1670.16,
     "costo_totale":1681.16,
-    "valore_totale":1979.4633779521,
-    "rendimento_percentuale":18.519386044,
-    "rendimento_netto_percentuale":17.7439017079
+    "valore_totale":1979.4633806025,
+    "rendimento_percentuale":18.5193862027,
+    "rendimento_netto_percentuale":17.7439018655
   },
   {
     "Date":"2025-10-10",
     "capitale_versato":1670.16,
     "costo_totale":1681.16,
-    "valore_totale":1924.0663836493,
-    "rendimento_percentuale":15.2025185401,
-    "rendimento_netto_percentuale":14.4487368037
+    "valore_totale":1924.0663830451,
+    "rendimento_percentuale":15.2025185039,
+    "rendimento_netto_percentuale":14.4487367678
   },
   {
     "Date":"2025-10-11",
     "capitale_versato":1670.16,
     "costo_totale":1681.16,
-    "valore_totale":1922.8163998224,
-    "rendimento_percentuale":15.1276763797,
-    "rendimento_netto_percentuale":14.3743843431
+    "valore_totale":1922.8163992183,
+    "rendimento_percentuale":15.1276763435,
+    "rendimento_netto_percentuale":14.3743843072
   },
   {
     "Date":"2025-10-12",
     "capitale_versato":1670.16,
     "costo_totale":1681.16,
-    "valore_totale":1926.9159810105,
-    "rendimento_percentuale":15.373136766,
-    "rendimento_netto_percentuale":14.6182386573
+    "valore_totale":1926.9159804064,
+    "rendimento_percentuale":15.3731367298,
+    "rendimento_netto_percentuale":14.6182386213
   },
   {
     "Date":"2025-10-13",
     "capitale_versato":1670.16,
     "costo_totale":1681.16,
-    "valore_totale":1947.908142742,
-    "rendimento_percentuale":16.6300320174,
-    "rendimento_netto_percentuale":15.8669099159
+    "valore_totale":1947.9081354049,
+    "rendimento_percentuale":16.6300315781,
+    "rendimento_netto_percentuale":15.8669094795
   },
   {
     "Date":"2025-10-14",
     "capitale_versato":1670.16,
     "costo_totale":1681.16,
-    "valore_totale":1939.1347278176,
-    "rendimento_percentuale":16.1047281588,
-    "rendimento_netto_percentuale":15.3450431736
+    "valore_totale":1939.134709923,
+    "rendimento_percentuale":16.1047270874,
+    "rendimento_netto_percentuale":15.3450421092
   },
   {
     "Date":"2025-10-15",
     "capitale_versato":1670.16,
     "costo_totale":1681.16,
-    "valore_totale":1961.2628915921,
-    "rendimento_percentuale":17.4296409681,
-    "rendimento_netto_percentuale":16.6612869443
+    "valore_totale":1961.2629094866,
+    "rendimento_percentuale":17.4296420395,
+    "rendimento_netto_percentuale":16.6612880087
   },
   {
     "Date":"2025-10-16",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":1968.4431915692,
-    "rendimento_percentuale":17.1545932692,
-    "rendimento_netto_percentuale":16.3925941527
+    "valore_totale":1968.4432192756,
+    "rendimento_percentuale":17.1545949182,
+    "rendimento_netto_percentuale":16.3925957909
   },
   {
     "Date":"2025-10-17",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":1952.2120132314,
-    "rendimento_percentuale":16.1885724541,
-    "rendimento_netto_percentuale":15.4328565484
+    "valore_totale":1952.2120004694,
+    "rendimento_percentuale":16.1885716946,
+    "rendimento_netto_percentuale":15.4328557937
   },
   {
     "Date":"2025-10-18",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":1953.4191108818,
-    "rendimento_percentuale":16.2604145245,
-    "rendimento_netto_percentuale":15.5042313422
+    "valore_totale":1953.4190981198,
+    "rendimento_percentuale":16.2604137649,
+    "rendimento_netto_percentuale":15.5042305876
   },
   {
     "Date":"2025-10-19",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":1954.120517153,
-    "rendimento_percentuale":16.3021596796,
-    "rendimento_netto_percentuale":15.5457049777
+    "valore_totale":1954.120504391,
+    "rendimento_percentuale":16.3021589201,
+    "rendimento_netto_percentuale":15.5457042231
   },
   {
     "Date":"2025-10-20",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":1987.7615564369,
-    "rendimento_percentuale":18.3043522201,
-    "rendimento_netto_percentuale":17.5348748196
+    "valore_totale":1987.7615617349,
+    "rendimento_percentuale":18.3043525354,
+    "rendimento_netto_percentuale":17.5348751329
   },
   {
     "Date":"2025-10-21",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":1983.4842725665,
-    "rendimento_percentuale":18.0497838107,
-    "rendimento_netto_percentuale":17.2819621789
+    "valore_totale":1983.4842853042,
+    "rendimento_percentuale":18.0497845688,
+    "rendimento_netto_percentuale":17.2819629321
   },
   {
     "Date":"2025-10-22",
@@ -2755,105 +2755,105 @@
     "Date":"2025-10-23",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":1982.532173397,
-    "rendimento_percentuale":17.9931183243,
-    "rendimento_netto_percentuale":17.2256652572
+    "valore_totale":1982.5321688736,
+    "rendimento_percentuale":17.9931180551,
+    "rendimento_netto_percentuale":17.2256649898
   },
   {
     "Date":"2025-10-24",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":2002.8978218726,
-    "rendimento_percentuale":19.2052077938,
-    "rendimento_netto_percentuale":18.4298710315
+    "valore_totale":2002.897809525,
+    "rendimento_percentuale":19.2052070589,
+    "rendimento_netto_percentuale":18.4298703014
   },
   {
     "Date":"2025-10-25",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":2003.8795127461,
-    "rendimento_percentuale":19.2636344711,
-    "rendimento_netto_percentuale":18.4879176889
+    "valore_totale":2003.8795003984,
+    "rendimento_percentuale":19.2636337362,
+    "rendimento_netto_percentuale":18.4879169588
   },
   {
     "Date":"2025-10-26",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":2005.5372563806,
-    "rendimento_percentuale":19.3622973545,
-    "rendimento_netto_percentuale":18.5859388474
+    "valore_totale":2005.5372440329,
+    "rendimento_percentuale":19.3622966196,
+    "rendimento_netto_percentuale":18.5859381173
   },
   {
     "Date":"2025-10-27",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":2030.8059820047,
-    "rendimento_percentuale":20.8662001776,
-    "rendimento_netto_percentuale":20.0800599573
+    "valore_totale":2030.8059651542,
+    "rendimento_percentuale":20.8661991748,
+    "rendimento_netto_percentuale":20.080058961
   },
   {
     "Date":"2025-10-28",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":2036.1383408477,
-    "rendimento_percentuale":21.1835628194,
-    "rendimento_netto_percentuale":20.395358403
+    "valore_totale":2036.1383660375,
+    "rendimento_percentuale":21.1835643186,
+    "rendimento_netto_percentuale":20.3953598925
   },
   {
     "Date":"2025-10-29",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":2050.7284530632,
-    "rendimento_percentuale":22.051913336,
-    "rendimento_netto_percentuale":21.2580609778
+    "valore_totale":2050.7284505513,
+    "rendimento_percentuale":22.0519131865,
+    "rendimento_netto_percentuale":21.2580608293
   },
   {
     "Date":"2025-10-30",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":2034.946624627,
-    "rendimento_percentuale":21.1126361959,
-    "rendimento_netto_percentuale":20.3248931018
+    "valore_totale":2034.9466373464,
+    "rendimento_percentuale":21.1126369529,
+    "rendimento_netto_percentuale":20.3248938539
   },
   {
     "Date":"2025-10-31",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":2037.532136262,
-    "rendimento_percentuale":21.2665164629,
-    "rendimento_netto_percentuale":20.4777724979
+    "valore_totale":2037.5321439629,
+    "rendimento_percentuale":21.2665169213,
+    "rendimento_netto_percentuale":20.4777729533
   },
   {
     "Date":"2025-11-01",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":2037.6269599427,
-    "rendimento_percentuale":21.2721600242,
-    "rendimento_netto_percentuale":20.4833793522
+    "valore_totale":2037.6269676436,
+    "rendimento_percentuale":21.2721604825,
+    "rendimento_netto_percentuale":20.4833798076
   },
   {
     "Date":"2025-11-02",
     "capitale_versato":1680.21,
     "costo_totale":1691.21,
-    "valore_totale":2038.502127115,
-    "rendimento_percentuale":21.3242467974,
-    "rendimento_netto_percentuale":20.5351273417
+    "valore_totale":2038.5021348159,
+    "rendimento_percentuale":21.3242472558,
+    "rendimento_netto_percentuale":20.535127797
   },
   {
     "Date":"2025-11-03",
     "capitale_versato":1750.21,
     "costo_totale":1761.21,
-    "valore_totale":2114.9299457974,
-    "rendimento_percentuale":20.8386391232,
-    "rendimento_netto_percentuale":20.0839165004
+    "valore_totale":2114.9299358849,
+    "rendimento_percentuale":20.8386385568,
+    "rendimento_netto_percentuale":20.0839159376
   },
   {
     "Date":"2025-11-04",
     "capitale_versato":1820.36,
     "costo_totale":1831.36,
-    "valore_totale":2159.0229155099,
-    "rendimento_percentuale":18.6041725543,
-    "rendimento_netto_percentuale":17.8917807263
+    "valore_totale":2159.0229180218,
+    "rendimento_percentuale":18.6041726923,
+    "rendimento_netto_percentuale":17.8917808635
   },
   {
     "Date":"2025-11-05",
@@ -2875,41 +2875,41 @@
     "Date":"2025-11-07",
     "capitale_versato":1820.36,
     "costo_totale":1831.36,
-    "valore_totale":2108.7038029988,
-    "rendimento_percentuale":15.8399329253,
-    "rendimento_netto_percentuale":15.1441444063
+    "valore_totale":2108.7038155806,
+    "rendimento_percentuale":15.8399336165,
+    "rendimento_netto_percentuale":15.1441450933
   },
   {
     "Date":"2025-11-08",
     "capitale_versato":1820.36,
     "costo_totale":1831.36,
-    "valore_totale":2107.8637447967,
-    "rendimento_percentuale":15.7937850094,
-    "rendimento_netto_percentuale":15.0982736762
+    "valore_totale":2107.8637573785,
+    "rendimento_percentuale":15.7937857005,
+    "rendimento_netto_percentuale":15.0982743632
   },
   {
     "Date":"2025-11-09",
     "capitale_versato":1820.36,
     "costo_totale":1831.36,
-    "valore_totale":2109.9135463373,
-    "rendimento_percentuale":15.9063891943,
-    "rendimento_netto_percentuale":15.210201508
+    "valore_totale":2109.9135589192,
+    "rendimento_percentuale":15.9063898855,
+    "rendimento_netto_percentuale":15.210202195
   },
   {
     "Date":"2025-11-10",
     "capitale_versato":1820.36,
     "costo_totale":1831.36,
-    "valore_totale":2159.3537234164,
-    "rendimento_percentuale":18.6223452183,
-    "rendimento_netto_percentuale":17.9098442369
+    "valore_totale":2159.3537458597,
+    "rendimento_percentuale":18.6223464512,
+    "rendimento_netto_percentuale":17.9098454624
   },
   {
     "Date":"2025-11-11",
     "capitale_versato":1820.36,
     "costo_totale":1831.36,
-    "valore_totale":2151.3570047859,
-    "rendimento_percentuale":18.183051967,
-    "rendimento_netto_percentuale":17.4731895851
+    "valore_totale":2151.3569914348,
+    "rendimento_percentuale":18.1830512335,
+    "rendimento_netto_percentuale":17.4731888561
   },
   {
     "Date":"2025-11-12",
@@ -2923,49 +2923,49 @@
     "Date":"2025-11-13",
     "capitale_versato":1820.36,
     "costo_totale":1831.36,
-    "valore_totale":2147.8663745179,
-    "rendimento_percentuale":17.9912970246,
-    "rendimento_netto_percentuale":17.2825864122
+    "valore_totale":2147.8663738676,
+    "rendimento_percentuale":17.9912969889,
+    "rendimento_netto_percentuale":17.2825863767
   },
   {
     "Date":"2025-11-14",
     "capitale_versato":1820.36,
     "costo_totale":1831.36,
-    "valore_totale":2133.2960117087,
-    "rendimento_percentuale":17.1908859626,
-    "rendimento_netto_percentuale":16.4869829913
+    "valore_totale":2133.2960065463,
+    "rendimento_percentuale":17.190885679,
+    "rendimento_netto_percentuale":16.4869827094
   },
   {
     "Date":"2025-11-15",
     "capitale_versato":1820.36,
     "costo_totale":1831.36,
-    "valore_totale":2133.6345398253,
-    "rendimento_percentuale":17.2094827301,
-    "rendimento_netto_percentuale":16.5054680579
+    "valore_totale":2133.6345346629,
+    "rendimento_percentuale":17.2094824465,
+    "rendimento_netto_percentuale":16.505467776
   },
   {
     "Date":"2025-11-16",
     "capitale_versato":1820.36,
     "costo_totale":1831.36,
-    "valore_totale":2132.9417562531,
-    "rendimento_percentuale":17.1714252265,
-    "rendimento_netto_percentuale":16.4676391454
+    "valore_totale":2132.9417510907,
+    "rendimento_percentuale":17.1714249429,
+    "rendimento_netto_percentuale":16.4676388635
   },
   {
     "Date":"2025-11-17",
     "capitale_versato":1830.42,
     "costo_totale":1841.42,
-    "valore_totale":2127.2959504934,
-    "rendimento_percentuale":16.2190071401,
-    "rendimento_netto_percentuale":15.5247553786
+    "valore_totale":2127.2959632182,
+    "rendimento_percentuale":16.2190078353,
+    "rendimento_netto_percentuale":15.5247560697
   },
   {
     "Date":"2025-11-18",
     "capitale_versato":1830.42,
     "costo_totale":1841.42,
-    "valore_totale":2096.1046522701,
-    "rendimento_percentuale":14.514955708,
-    "rendimento_netto_percentuale":13.8308833547
+    "valore_totale":2096.1046449229,
+    "rendimento_percentuale":14.5149553066,
+    "rendimento_netto_percentuale":13.8308829557
   },
   {
     "Date":"2025-11-19",
@@ -2987,49 +2987,49 @@
     "Date":"2025-11-21",
     "capitale_versato":1703.7,
     "costo_totale":1715.7,
-    "valore_totale":1839.0919485515,
-    "rendimento_percentuale":7.9469359953,
-    "rendimento_netto_percentuale":7.191930323
+    "valore_totale":1839.091943197,
+    "rendimento_percentuale":7.946935681,
+    "rendimento_netto_percentuale":7.1919300109
   },
   {
     "Date":"2025-11-22",
     "capitale_versato":1703.7,
     "costo_totale":1715.7,
-    "valore_totale":1838.8657583077,
-    "rendimento_percentuale":7.9336595825,
-    "rendimento_netto_percentuale":7.1787467685
+    "valore_totale":1838.8657529531,
+    "rendimento_percentuale":7.9336592682,
+    "rendimento_netto_percentuale":7.1787464564
   },
   {
     "Date":"2025-11-23",
     "capitale_versato":1703.7,
     "costo_totale":1715.7,
-    "valore_totale":1840.6394846986,
-    "rendimento_percentuale":8.0377698362,
-    "rendimento_netto_percentuale":7.2821288511
+    "valore_totale":1840.639479344,
+    "rendimento_percentuale":8.0377695219,
+    "rendimento_netto_percentuale":7.282128539
   },
   {
     "Date":"2025-11-24",
     "capitale_versato":1703.7,
     "costo_totale":1715.7,
-    "valore_totale":1862.1228797053,
-    "rendimento_percentuale":9.2987544583,
-    "rendimento_netto_percentuale":8.534293857
+    "valore_totale":1862.1228743383,
+    "rendimento_percentuale":9.2987541432,
+    "rendimento_netto_percentuale":8.5342935442
   },
   {
     "Date":"2025-11-25",
     "capitale_versato":1703.7,
     "costo_totale":1715.7,
-    "valore_totale":1863.2395948655,
-    "rendimento_percentuale":9.3643009254,
-    "rendimento_netto_percentuale":8.5993818771
+    "valore_totale":1863.2395849461,
+    "rendimento_percentuale":9.3643003431,
+    "rendimento_netto_percentuale":8.599381299
   },
   {
     "Date":"2025-11-26",
     "capitale_versato":1703.7,
     "costo_totale":1715.7,
-    "valore_totale":1880.8156019299,
-    "rendimento_percentuale":10.3959383653,
-    "rendimento_netto_percentuale":9.6238038078
+    "valore_totale":1880.815599418,
+    "rendimento_percentuale":10.3959382179,
+    "rendimento_netto_percentuale":9.6238036614
   },
   {
     "Date":"2025-11-27",
@@ -3043,49 +3043,49 @@
     "Date":"2025-11-28",
     "capitale_versato":1703.7,
     "costo_totale":1715.7,
-    "valore_totale":1882.9507671173,
-    "rendimento_percentuale":10.5212635509,
-    "rendimento_netto_percentuale":9.7482524402
+    "valore_totale":1882.9507716441,
+    "rendimento_percentuale":10.5212638166,
+    "rendimento_netto_percentuale":9.7482527041
   },
   {
     "Date":"2025-11-29",
     "capitale_versato":1703.7,
     "costo_totale":1715.7,
-    "valore_totale":1883.0327417245,
-    "rendimento_percentuale":10.5260751144,
-    "rendimento_netto_percentuale":9.7530303506
+    "valore_totale":1883.0327462512,
+    "rendimento_percentuale":10.5260753801,
+    "rendimento_netto_percentuale":9.7530306144
   },
   {
     "Date":"2025-11-30",
     "capitale_versato":1703.7,
     "costo_totale":1715.7,
-    "valore_totale":1882.3276354505,
-    "rendimento_percentuale":10.4846883519,
-    "rendimento_netto_percentuale":9.7119330565
+    "valore_totale":1882.3276399772,
+    "rendimento_percentuale":10.4846886176,
+    "rendimento_netto_percentuale":9.7119333204
   },
   {
     "Date":"2025-12-01",
     "capitale_versato":1703.7,
     "costo_totale":1715.7,
-    "valore_totale":1876.0310190509,
-    "rendimento_percentuale":10.1151035423,
-    "rendimento_netto_percentuale":9.3449332081
+    "valore_totale":1876.0310314126,
+    "rendimento_percentuale":10.1151042679,
+    "rendimento_netto_percentuale":9.3449339286
   },
   {
     "Date":"2025-12-02",
     "capitale_versato":1791.7,
     "costo_totale":1803.7,
-    "valore_totale":1966.794915777,
-    "rendimento_percentuale":9.7725576702,
-    "rendimento_netto_percentuale":9.0422418239
+    "valore_totale":1966.794913265,
+    "rendimento_percentuale":9.77255753,
+    "rendimento_netto_percentuale":9.0422416846
   },
   {
     "Date":"2025-12-03",
     "capitale_versato":1791.7,
     "costo_totale":1803.7,
-    "valore_totale":1967.6173793372,
-    "rendimento_percentuale":9.8184617591,
-    "rendimento_netto_percentuale":9.0878405132
+    "valore_totale":1967.6173695098,
+    "rendimento_percentuale":9.8184612106,
+    "rendimento_netto_percentuale":9.0878399684
   },
   {
     "Date":"2025-12-04",
@@ -3131,9 +3131,9 @@
     "Date":"2025-12-09",
     "capitale_versato":1851.9,
     "costo_totale":1863.9,
-    "valore_totale":2037.7867447019,
-    "rendimento_percentuale":10.0376232357,
-    "rendimento_netto_percentuale":9.3291885134
+    "valore_totale":2037.7867498601,
+    "rendimento_percentuale":10.0376235142,
+    "rendimento_netto_percentuale":9.3291887902
   },
   {
     "Date":"2025-12-10",
@@ -3147,145 +3147,145 @@
     "Date":"2025-12-11",
     "capitale_versato":1851.9,
     "costo_totale":1863.9,
-    "valore_totale":2029.8076817268,
-    "rendimento_percentuale":9.6067650374,
-    "rendimento_netto_percentuale":8.9011042291
+    "valore_totale":2029.8076868586,
+    "rendimento_percentuale":9.6067653145,
+    "rendimento_netto_percentuale":8.9011045045
   },
   {
     "Date":"2025-12-12",
     "capitale_versato":1851.9,
     "costo_totale":1863.9,
-    "valore_totale":2016.9685873326,
-    "rendimento_percentuale":8.9134719657,
-    "rendimento_netto_percentuale":8.212274657
+    "valore_totale":2016.9685822174,
+    "rendimento_percentuale":8.9134716895,
+    "rendimento_netto_percentuale":8.2122743826
   },
   {
     "Date":"2025-12-13",
     "capitale_versato":1851.9,
     "costo_totale":1863.9,
-    "valore_totale":2017.1983048198,
-    "rendimento_percentuale":8.9258763875,
-    "rendimento_netto_percentuale":8.2245992178
+    "valore_totale":2017.1982997047,
+    "rendimento_percentuale":8.9258761113,
+    "rendimento_netto_percentuale":8.2245989433
   },
   {
     "Date":"2025-12-14",
     "capitale_versato":1851.9,
     "costo_totale":1863.9,
-    "valore_totale":2015.9204577164,
-    "rendimento_percentuale":8.856874438,
-    "rendimento_netto_percentuale":8.1560415106
+    "valore_totale":2015.9204526013,
+    "rendimento_percentuale":8.8568741617,
+    "rendimento_netto_percentuale":8.1560412362
   },
   {
     "Date":"2025-12-15",
     "capitale_versato":1851.9,
     "costo_totale":1863.9,
-    "valore_totale":2023.7421783707,
-    "rendimento_percentuale":9.2792363719,
-    "rendimento_netto_percentuale":8.5756842304
+    "valore_totale":2023.7421713851,
+    "rendimento_percentuale":9.2792359947,
+    "rendimento_netto_percentuale":8.5756838556
   },
   {
     "Date":"2025-12-16",
     "capitale_versato":1913.97,
     "costo_totale":1925.97,
-    "valore_totale":2077.0541918304,
-    "rendimento_percentuale":8.5207287382,
-    "rendimento_netto_percentuale":7.8445765942
+    "valore_totale":2077.0541892673,
+    "rendimento_percentuale":8.5207286043,
+    "rendimento_netto_percentuale":7.8445764611
   },
   {
     "Date":"2025-12-17",
     "capitale_versato":1913.97,
     "costo_totale":1925.97,
-    "valore_totale":2066.8941263894,
-    "rendimento_percentuale":7.9898915024,
-    "rendimento_netto_percentuale":7.317046807
+    "valore_totale":2066.8941325415,
+    "rendimento_percentuale":7.9898918239,
+    "rendimento_netto_percentuale":7.3170471265
   },
   {
     "Date":"2025-12-18",
     "capitale_versato":1913.97,
     "costo_totale":1925.97,
-    "valore_totale":2085.7704074191,
-    "rendimento_percentuale":8.9761285401,
-    "rendimento_netto_percentuale":8.2971389699
+    "valore_totale":2085.7704038329,
+    "rendimento_percentuale":8.9761283527,
+    "rendimento_netto_percentuale":8.2971387837
   },
   {
     "Date":"2025-12-19",
     "capitale_versato":1913.97,
     "costo_totale":1925.97,
-    "valore_totale":2099.1463583355,
-    "rendimento_percentuale":9.6749875043,
-    "rendimento_netto_percentuale":8.9916436048
+    "valore_totale":2099.146352171,
+    "rendimento_percentuale":9.6749871822,
+    "rendimento_netto_percentuale":8.9916432847
   },
   {
     "Date":"2025-12-20",
     "capitale_versato":1913.97,
     "costo_totale":1925.97,
-    "valore_totale":2099.4085799467,
-    "rendimento_percentuale":9.6886879077,
-    "rendimento_netto_percentuale":9.0052586461
+    "valore_totale":2099.4085737821,
+    "rendimento_percentuale":9.6886875856,
+    "rendimento_netto_percentuale":9.005258326
   },
   {
     "Date":"2025-12-21",
     "capitale_versato":1913.97,
     "costo_totale":1925.97,
-    "valore_totale":2099.4202610805,
-    "rendimento_percentuale":9.6892982168,
-    "rendimento_netto_percentuale":9.0058651526
+    "valore_totale":2099.420254916,
+    "rendimento_percentuale":9.6892978947,
+    "rendimento_netto_percentuale":9.0058648326
   },
   {
     "Date":"2025-12-22",
     "capitale_versato":1913.97,
     "costo_totale":1925.97,
-    "valore_totale":2105.3643431483,
-    "rendimento_percentuale":9.9998611863,
-    "rendimento_netto_percentuale":9.3144931203
+    "valore_totale":2105.3643395621,
+    "rendimento_percentuale":9.999860999,
+    "rendimento_netto_percentuale":9.3144929341
   },
   {
     "Date":"2025-12-23",
     "capitale_versato":1913.97,
     "costo_totale":1925.97,
-    "valore_totale":2109.3783428677,
-    "rendimento_percentuale":10.2095823272,
-    "rendimento_netto_percentuale":9.522907567
+    "valore_totale":2109.3783525974,
+    "rendimento_percentuale":10.2095828355,
+    "rendimento_netto_percentuale":9.5229080722
   },
   {
     "Date":"2025-12-24",
     "capitale_versato":1913.97,
     "costo_totale":1925.97,
-    "valore_totale":2108.8481447157,
-    "rendimento_percentuale":10.1818808401,
-    "rendimento_netto_percentuale":9.4953786775
+    "valore_totale":2108.8481544299,
+    "rendimento_percentuale":10.1818813477,
+    "rendimento_netto_percentuale":9.4953791819
   },
   {
     "Date":"2025-12-25",
     "capitale_versato":1913.97,
     "costo_totale":1925.97,
-    "valore_totale":2108.2698597494,
-    "rendimento_percentuale":10.1516669409,
-    "rendimento_netto_percentuale":9.4653530299
+    "valore_totale":2108.2698694637,
+    "rendimento_percentuale":10.1516674485,
+    "rendimento_netto_percentuale":9.4653535343
   },
   {
     "Date":"2025-12-26",
     "capitale_versato":1913.97,
     "costo_totale":1925.97,
-    "valore_totale":2108.9219295751,
-    "rendimento_percentuale":10.1857359089,
-    "rendimento_netto_percentuale":9.4992097268
+    "valore_totale":2108.921927028,
+    "rendimento_percentuale":10.1857357758,
+    "rendimento_netto_percentuale":9.4992095945
   },
   {
     "Date":"2025-12-27",
     "capitale_versato":1913.97,
     "costo_totale":1925.97,
-    "valore_totale":2109.4926251129,
-    "rendimento_percentuale":10.21555328,
-    "rendimento_netto_percentuale":9.528841317
+    "valore_totale":2109.4926225658,
+    "rendimento_percentuale":10.2155531469,
+    "rendimento_netto_percentuale":9.5288411847
   },
   {
     "Date":"2025-12-28",
     "capitale_versato":1913.97,
     "costo_totale":1925.97,
-    "valore_totale":2109.4773063493,
-    "rendimento_percentuale":10.2147529141,
-    "rendimento_netto_percentuale":9.5280459379
+    "valore_totale":2109.4773038023,
+    "rendimento_percentuale":10.214752781,
+    "rendimento_netto_percentuale":9.5280458056
   },
   {
     "Date":"2025-12-29",
@@ -3299,9 +3299,9 @@
     "Date":"2025-12-30",
     "capitale_versato":1913.97,
     "costo_totale":1925.97,
-    "valore_totale":2113.5347138384,
-    "rendimento_percentuale":10.426741999,
-    "rendimento_netto_percentuale":9.738714198
+    "valore_totale":2113.5347076986,
+    "rendimento_percentuale":10.4267416782,
+    "rendimento_netto_percentuale":9.7387138792
   },
   {
     "Date":"2025-12-31",
@@ -3347,113 +3347,113 @@
     "Date":"2026-01-05",
     "capitale_versato":2032.22,
     "costo_totale":2044.22,
-    "valore_totale":2269.2024002318,
-    "rendimento_percentuale":11.6612571588,
-    "rendimento_netto_percentuale":11.0057821679
+    "valore_totale":2269.2023949721,
+    "rendimento_percentuale":11.6612568999,
+    "rendimento_netto_percentuale":11.0057819106
   },
   {
     "Date":"2026-01-06",
     "capitale_versato":2032.22,
     "costo_totale":2044.22,
-    "valore_totale":2268.7131051033,
-    "rendimento_percentuale":11.6371802808,
-    "rendimento_netto_percentuale":10.9818466263
+    "valore_totale":2268.713101517,
+    "rendimento_percentuale":11.6371801044,
+    "rendimento_netto_percentuale":10.9818464508
   },
   {
     "Date":"2026-01-07",
     "capitale_versato":2032.22,
     "costo_totale":2044.22,
-    "valore_totale":2269.9968663073,
-    "rendimento_percentuale":11.7003506661,
-    "rendimento_netto_percentuale":11.0446461881
+    "valore_totale":2269.9968627211,
+    "rendimento_percentuale":11.7003504897,
+    "rendimento_netto_percentuale":11.0446460127
   },
   {
     "Date":"2026-01-08",
     "capitale_versato":2032.22,
     "costo_totale":2044.22,
-    "valore_totale":2269.9708437115,
-    "rendimento_percentuale":11.6990701652,
-    "rendimento_netto_percentuale":11.043373204
+    "valore_totale":2269.9708375211,
+    "rendimento_percentuale":11.6990698606,
+    "rendimento_netto_percentuale":11.0433729012
   },
   {
     "Date":"2026-01-09",
     "capitale_versato":2032.22,
     "costo_totale":2044.22,
-    "valore_totale":2281.2514526054,
-    "rendimento_percentuale":12.2541581426,
-    "rendimento_netto_percentuale":11.5952026986
+    "valore_totale":2281.2514490192,
+    "rendimento_percentuale":12.2541579661,
+    "rendimento_netto_percentuale":11.5952025232
   },
   {
     "Date":"2026-01-10",
     "capitale_versato":2032.22,
     "costo_totale":2044.22,
-    "valore_totale":2281.1803762859,
-    "rendimento_percentuale":12.2506606709,
-    "rendimento_netto_percentuale":11.5917257578
+    "valore_totale":2281.1803726997,
+    "rendimento_percentuale":12.2506604944,
+    "rendimento_netto_percentuale":11.5917255824
   },
   {
     "Date":"2026-01-11",
     "capitale_versato":2032.22,
     "costo_totale":2044.22,
-    "valore_totale":2281.4881056101,
-    "rendimento_percentuale":12.2658031911,
-    "rendimento_netto_percentuale":11.6067793882
+    "valore_totale":2281.4881020239,
+    "rendimento_percentuale":12.2658030146,
+    "rendimento_netto_percentuale":11.6067792128
   },
   {
     "Date":"2026-01-12",
     "capitale_versato":2032.22,
     "costo_totale":2044.22,
-    "valore_totale":2289.5037784714,
-    "rendimento_percentuale":12.6602325768,
-    "rendimento_netto_percentuale":11.9988933907
+    "valore_totale":2289.5037739629,
+    "rendimento_percentuale":12.6602323549,
+    "rendimento_netto_percentuale":11.9988931702
   },
   {
     "Date":"2026-01-13",
     "capitale_versato":2032.22,
     "costo_totale":2044.22,
-    "valore_totale":2293.7371366097,
-    "rendimento_percentuale":12.8685445773,
-    "rendimento_netto_percentuale":12.2059825562
+    "valore_totale":2293.7371401959,
+    "rendimento_percentuale":12.8685447538,
+    "rendimento_netto_percentuale":12.2059827316
   },
   {
     "Date":"2026-01-14",
     "capitale_versato":2032.22,
     "costo_totale":2044.22,
-    "valore_totale":2286.248433886,
-    "rendimento_percentuale":12.500045954,
-    "rendimento_netto_percentuale":11.839647097
+    "valore_totale":2286.2484400946,
+    "rendimento_percentuale":12.5000462595,
+    "rendimento_netto_percentuale":11.8396474007
   },
   {
     "Date":"2026-01-15",
     "capitale_versato":2032.22,
     "costo_totale":2044.22,
-    "valore_totale":2303.5118986393,
-    "rendimento_percentuale":13.3495339402,
-    "rendimento_netto_percentuale":12.6841484106
+    "valore_totale":2303.5118924328,
+    "rendimento_percentuale":13.3495336348,
+    "rendimento_netto_percentuale":12.684148107
   },
   {
     "Date":"2026-01-16",
     "capitale_versato":2060.3,
     "costo_totale":2072.3,
-    "valore_totale":2323.895221844,
-    "rendimento_percentuale":12.7940213485,
-    "rendimento_netto_percentuale":12.1408686891
+    "valore_totale":2323.895226454,
+    "rendimento_percentuale":12.7940215723,
+    "rendimento_netto_percentuale":12.1408689115
   },
   {
     "Date":"2026-01-17",
     "capitale_versato":2060.3,
     "costo_totale":2072.3,
-    "valore_totale":2323.6153551697,
-    "rendimento_percentuale":12.7804375659,
-    "rendimento_netto_percentuale":12.1273635656
+    "valore_totale":2323.6153597798,
+    "rendimento_percentuale":12.7804377896,
+    "rendimento_netto_percentuale":12.1273637881
   },
   {
     "Date":"2026-01-18",
     "capitale_versato":2060.3,
     "costo_totale":2072.3,
-    "valore_totale":2322.0797064129,
-    "rendimento_percentuale":12.7059023644,
-    "rendimento_netto_percentuale":12.0532599726
+    "valore_totale":2322.079711023,
+    "rendimento_percentuale":12.7059025881,
+    "rendimento_netto_percentuale":12.0532601951
   },
   {
     "Date":"2026-01-19",
@@ -3475,17 +3475,17 @@
     "Date":"2026-01-21",
     "capitale_versato":2060.3,
     "costo_totale":2072.3,
-    "valore_totale":2292.5183329304,
-    "rendimento_percentuale":11.2710931869,
-    "rendimento_netto_percentuale":10.6267592979
+    "valore_totale":2292.518326767,
+    "rendimento_percentuale":11.2710928878,
+    "rendimento_netto_percentuale":10.6267590005
   },
   {
     "Date":"2026-01-22",
     "capitale_versato":2060.3,
     "costo_totale":2072.3,
-    "valore_totale":2307.9492559781,
-    "rendimento_percentuale":12.0200580487,
-    "rendimento_netto_percentuale":11.3713871533
+    "valore_totale":2307.9492621705,
+    "rendimento_percentuale":12.0200583493,
+    "rendimento_netto_percentuale":11.3713874521
   },
   {
     "Date":"2026-01-23",
@@ -3515,17 +3515,17 @@
     "Date":"2026-01-26",
     "capitale_versato":2060.8,
     "costo_totale":2072.8,
-    "valore_totale":2300.5379346492,
-    "rendimento_percentuale":11.6332460525,
-    "rendimento_netto_percentuale":10.9869709885
+    "valore_totale":2300.5379285537,
+    "rendimento_percentuale":11.6332457567,
+    "rendimento_netto_percentuale":10.9869706944
   },
   {
     "Date":"2026-01-27",
     "capitale_versato":2060.8,
     "costo_totale":2072.8,
-    "valore_totale":2298.148178489,
-    "rendimento_percentuale":11.5172835059,
-    "rendimento_netto_percentuale":10.8716797804
+    "valore_totale":2298.1481724028,
+    "rendimento_percentuale":11.5172832105,
+    "rendimento_netto_percentuale":10.8716794868
   },
   {
     "Date":"2026-01-28",
@@ -3547,33 +3547,33 @@
     "Date":"2026-01-30",
     "capitale_versato":2060.8,
     "costo_totale":2072.8,
-    "valore_totale":2296.5285148591,
-    "rendimento_percentuale":11.4386895797,
-    "rendimento_netto_percentuale":10.7935408558
+    "valore_totale":2296.5285208999,
+    "rendimento_percentuale":11.4386898729,
+    "rendimento_netto_percentuale":10.7935411472
   },
   {
     "Date":"2026-01-31",
     "capitale_versato":2060.8,
     "costo_totale":2072.8,
-    "valore_totale":2293.3415749874,
-    "rendimento_percentuale":11.2840438173,
-    "rendimento_netto_percentuale":10.6397903796
+    "valore_totale":2293.3415810282,
+    "rendimento_percentuale":11.2840441105,
+    "rendimento_netto_percentuale":10.639790671
   },
   {
     "Date":"2026-02-01",
     "capitale_versato":2060.8,
     "costo_totale":2072.8,
-    "valore_totale":2292.1066576414,
-    "rendimento_percentuale":11.2241196449,
-    "rendimento_netto_percentuale":10.5802131243
+    "valore_totale":2292.1066636823,
+    "rendimento_percentuale":11.224119938,
+    "rendimento_netto_percentuale":10.5802134158
   },
   {
     "Date":"2026-02-02",
     "capitale_versato":2121.1,
     "costo_totale":2133.1,
-    "valore_totale":2353.9053861167,
-    "rendimento_percentuale":10.9756912035,
-    "rendimento_netto_percentuale":10.3513846569
+    "valore_totale":2353.9053922169,
+    "rendimento_percentuale":10.9756914911,
+    "rendimento_netto_percentuale":10.3513849429
   },
   {
     "Date":"2026-02-03",
@@ -3587,9 +3587,9 @@
     "Date":"2026-02-04",
     "capitale_versato":2121.1,
     "costo_totale":2133.1,
-    "valore_totale":2347.9511539608,
-    "rendimento_percentuale":10.6949768498,
-    "rendimento_netto_percentuale":10.0722494942
+    "valore_totale":2347.9511478435,
+    "rendimento_percentuale":10.6949765614,
+    "rendimento_netto_percentuale":10.0722492074
   },
   {
     "Date":"2026-02-05",
@@ -3603,25 +3603,25 @@
     "Date":"2026-02-06",
     "capitale_versato":2121.1,
     "costo_totale":2133.1,
-    "valore_totale":2352.515784413,
-    "rendimento_percentuale":10.910177946,
-    "rendimento_netto_percentuale":10.2862399519
+    "valore_totale":2352.5157782758,
+    "rendimento_percentuale":10.9101776567,
+    "rendimento_netto_percentuale":10.2862396641
   },
   {
     "Date":"2026-02-07",
     "capitale_versato":2121.1,
     "costo_totale":2133.1,
-    "valore_totale":2351.7525203507,
-    "rendimento_percentuale":10.8741935953,
-    "rendimento_netto_percentuale":10.2504580353
+    "valore_totale":2351.7525142135,
+    "rendimento_percentuale":10.874193306,
+    "rendimento_netto_percentuale":10.2504577476
   },
   {
     "Date":"2026-02-08",
     "capitale_versato":2121.1,
     "costo_totale":2133.1,
-    "valore_totale":2352.0372686614,
-    "rendimento_percentuale":10.8876181539,
-    "rendimento_netto_percentuale":10.2638070724
+    "valore_totale":2352.0372625242,
+    "rendimento_percentuale":10.8876178645,
+    "rendimento_netto_percentuale":10.2638067847
   },
   {
     "Date":"2026-02-09",
@@ -3643,9 +3643,9 @@
     "Date":"2026-02-11",
     "capitale_versato":2121.1,
     "costo_totale":2133.1,
-    "valore_totale":2364.6944267647,
-    "rendimento_percentuale":11.4843442914,
-    "rendimento_netto_percentuale":10.8571762582
+    "valore_totale":2364.6944206851,
+    "rendimento_percentuale":11.4843440048,
+    "rendimento_netto_percentuale":10.8571759732
   },
   {
     "Date":"2026-02-12",
@@ -4915,9 +4915,9 @@
     "Date":"2026-07-20",
     "capitale_versato":2262.04,
     "costo_totale":2274.04,
-    "valore_totale":2646.56622937,
-    "rendimento_percentuale":16.999090616,
-    "rendimento_netto_percentuale":16.381692027
+    "valore_totale":2646.5275556669,
+    "rendimento_percentuale":16.9973809334,
+    "rendimento_netto_percentuale":16.3799913663
   },
   {
     "Date":"2026-07-21",
@@ -5003,25 +5003,25 @@
     "Date":"2026-07-31",
     "capitale_versato":2262.04,
     "costo_totale":2274.04,
-    "valore_totale":2635.4428629709,
-    "rendimento_percentuale":16.507350134,
-    "rendimento_netto_percentuale":15.8925464359
+    "valore_totale":2635.2350004604,
+    "rendimento_percentuale":16.4981609724,
+    "rendimento_netto_percentuale":15.8834057651
   },
   {
     "Date":"2026-08-01",
     "capitale_versato":2262.04,
     "costo_totale":2274.04,
-    "valore_totale":2635.3542594158,
-    "rendimento_percentuale":16.5034331584,
-    "rendimento_netto_percentuale":15.88865013
+    "valore_totale":2635.1463969053,
+    "rendimento_percentuale":16.4942439968,
+    "rendimento_netto_percentuale":15.8795094592
   },
   {
     "Date":"2026-08-02",
     "capitale_versato":2262.04,
     "costo_totale":2274.04,
-    "valore_totale":2635.8787127308,
-    "rendimento_percentuale":16.5266181292,
-    "rendimento_netto_percentuale":15.9117127549
+    "valore_totale":2635.6708502202,
+    "rendimento_percentuale":16.5174289677,
+    "rendimento_netto_percentuale":15.9025720841
   },
   {
     "Date":"2026-08-03",
