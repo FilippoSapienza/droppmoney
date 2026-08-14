@@ -58,8 +58,8 @@
   {
     "ticker":"ENEL.MI",
     "categoria":"Azioni",
-    "valore_attuale":46.99,
-    "peso_percentuale":1.73,
+    "valore_attuale":46.84,
+    "peso_percentuale":1.72,
     "titolo":"Enel"
   },
   {
@@ -100,15 +100,15 @@
   {
     "ticker":"ISP.MI",
     "categoria":"Azioni",
-    "valore_attuale":275.87,
-    "peso_percentuale":10.13,
+    "valore_attuale":276.71,
+    "peso_percentuale":10.16,
     "titolo":"Intesa San Paolo"
   },
   {
     "ticker":"LDO.MI",
     "categoria":"Azioni",
-    "valore_attuale":49.72,
-    "peso_percentuale":1.83,
+    "valore_attuale":49.35,
+    "peso_percentuale":1.81,
     "titolo":"Leonardo-Finmeccanica"
   },
   {
@@ -157,7 +157,7 @@
     "ticker":"TSLA",
     "categoria":"Azioni",
     "valore_attuale":46.72,
-    "peso_percentuale":1.72,
+    "peso_percentuale":1.71,
     "titolo":"tesla"
   },
   {
