@@ -9,8 +9,8 @@
   {
     "ticker":"BTC-EUR",
     "categoria":"Crypto",
-    "valore_attuale":18.9,
-    "peso_percentuale":0.69,
+    "valore_attuale":19.39,
+    "peso_percentuale":0.71,
     "titolo":"Bitcoin"
   },
   {
@@ -44,15 +44,15 @@
   {
     "ticker":"CVS",
     "categoria":"Azioni",
-    "valore_attuale":67.97,
-    "peso_percentuale":2.49,
+    "valore_attuale":67.74,
+    "peso_percentuale":2.48,
     "titolo":"CSV heath"
   },
   {
     "ticker":"CVX",
     "categoria":"Azioni",
-    "valore_attuale":82.13,
-    "peso_percentuale":3.01,
+    "valore_attuale":81.86,
+    "peso_percentuale":3.0,
     "titolo":"Chevron"
   },
   {
@@ -114,8 +114,8 @@
   {
     "ticker":"NVDA",
     "categoria":"Azioni",
-    "valore_attuale":156.61,
-    "peso_percentuale":5.74,
+    "valore_attuale":156.09,
+    "peso_percentuale":5.73,
     "titolo":"Nvidia"
   },
   {
@@ -142,7 +142,7 @@
   {
     "ticker":"SOL-EUR",
     "categoria":"Crypto",
-    "valore_attuale":5.35,
+    "valore_attuale":5.45,
     "peso_percentuale":0.2,
     "titolo":"Solana"
   },
@@ -150,21 +150,21 @@
     "ticker":"SWDA.MI",
     "categoria":"Etf",
     "valore_attuale":526.87,
-    "peso_percentuale":19.32,
+    "peso_percentuale":19.33,
     "titolo":"MSCI World"
   },
   {
     "ticker":"TSLA",
     "categoria":"Azioni",
-    "valore_attuale":47.01,
+    "valore_attuale":46.85,
     "peso_percentuale":1.72,
     "titolo":"tesla"
   },
   {
     "ticker":"XRP-EUR",
     "categoria":"Crypto",
-    "valore_attuale":8.57,
-    "peso_percentuale":0.31,
+    "valore_attuale":8.66,
+    "peso_percentuale":0.32,
     "titolo":"XRP"
   }
 ]
