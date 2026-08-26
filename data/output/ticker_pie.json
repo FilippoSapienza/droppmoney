@@ -58,7 +58,7 @@
   {
     "ticker":"ENEL.MI",
     "categoria":"Azioni",
-    "valore_attuale":46.02,
+    "valore_attuale":46.17,
     "peso_percentuale":1.71,
     "titolo":"Enel"
   },
@@ -66,7 +66,7 @@
     "ticker":"HEMA.MI",
     "categoria":"Etf",
     "valore_attuale":228.48,
-    "peso_percentuale":8.49,
+    "peso_percentuale":8.48,
     "titolo":"MSCI Emerging Markt"
   },
   {
@@ -100,15 +100,15 @@
   {
     "ticker":"ISP.MI",
     "categoria":"Azioni",
-    "valore_attuale":274.42,
-    "peso_percentuale":10.19,
+    "valore_attuale":275.26,
+    "peso_percentuale":10.22,
     "titolo":"Intesa San Paolo"
   },
   {
     "ticker":"LDO.MI",
     "categoria":"Azioni",
-    "valore_attuale":45.58,
-    "peso_percentuale":1.69,
+    "valore_attuale":45.28,
+    "peso_percentuale":1.68,
     "titolo":"Leonardo-Finmeccanica"
   },
   {
