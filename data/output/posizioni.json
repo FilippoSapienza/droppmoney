@@ -1,17 +1,17 @@
 [
   {
     "ticker":"ISP.MI",
-    "valore_attuale":271.28,
-    "peso_percentuale":10.03,
-    "prezzo_attuale":6.74,
+    "valore_attuale":272.85,
+    "peso_percentuale":10.09,
+    "prezzo_attuale":6.78,
     "titolo":"Intesa San Paolo",
     "categoria":"Azioni",
-    "var_oggi_pct":0.0,
-    "var_oggi_eur":0.0,
+    "var_oggi_pct":0.58,
+    "var_oggi_eur":1.58,
     "pmc":4.74,
     "quantit\u00e0_totale":40.24,
-    "pl_eur":80.41,
-    "pl_pct":42.13
+    "pl_eur":81.98,
+    "pl_pct":42.95
   },
   {
     "ticker":"NVDA",
@@ -70,32 +70,32 @@
     "pl_pct":17.98
   },
   {
-    "ticker":"LDO.MI",
-    "valore_attuale":45.81,
-    "peso_percentuale":1.69,
-    "prezzo_attuale":55.05,
-    "titolo":"Leonardo-Finmeccanica",
-    "categoria":"Azioni",
-    "var_oggi_pct":0.0,
-    "var_oggi_eur":0.0,
-    "pmc":48.06,
-    "quantit\u00e0_totale":0.83,
-    "pl_eur":5.81,
-    "pl_pct":14.53
-  },
-  {
     "ticker":"ENEL.MI",
-    "valore_attuale":45.28,
-    "peso_percentuale":1.67,
-    "prezzo_attuale":9.37,
+    "valore_attuale":45.73,
+    "peso_percentuale":1.69,
+    "prezzo_attuale":9.46,
     "titolo":"Enel",
     "categoria":"Azioni",
-    "var_oggi_pct":0.0,
-    "var_oggi_eur":0.0,
+    "var_oggi_pct":0.98,
+    "var_oggi_eur":0.45,
     "pmc":8.27,
     "quantit\u00e0_totale":4.83,
-    "pl_eur":5.28,
-    "pl_pct":13.21
+    "pl_eur":5.73,
+    "pl_pct":14.32
+  },
+  {
+    "ticker":"LDO.MI",
+    "valore_attuale":44.0,
+    "peso_percentuale":1.63,
+    "prezzo_attuale":52.87,
+    "titolo":"Leonardo-Finmeccanica",
+    "categoria":"Azioni",
+    "var_oggi_pct":-3.96,
+    "var_oggi_eur":-1.74,
+    "pmc":48.06,
+    "quantit\u00e0_totale":0.83,
+    "pl_eur":4.0,
+    "pl_pct":10.0
   },
   {
     "ticker":"AMD",
@@ -170,7 +170,7 @@
   {
     "ticker":"SWDA.MI",
     "valore_attuale":519.88,
-    "peso_percentuale":19.23,
+    "peso_percentuale":19.22,
     "prezzo_attuale":127.15,
     "titolo":"MSCI World",
     "categoria":"Etf",
