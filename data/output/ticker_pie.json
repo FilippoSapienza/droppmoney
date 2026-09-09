@@ -10,161 +10,161 @@
     "ticker":"BTC-EUR",
     "categoria":"Crypto",
     "valore_attuale":23.49,
-    "peso_percentuale":0.89,
+    "peso_percentuale":0.87,
     "titolo":"Bitcoin"
   },
   {
     "ticker":"BTP10.MI",
     "categoria":"Etf",
     "valore_attuale":58.78,
-    "peso_percentuale":2.23,
+    "peso_percentuale":2.17,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
     "ticker":"BTP10.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":264.82,
-    "peso_percentuale":10.03,
+    "peso_percentuale":9.78,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
     "ticker":"CSSPX.MI",
     "categoria":"Etf",
     "valore_attuale":357.86,
-    "peso_percentuale":13.55,
+    "peso_percentuale":13.22,
     "titolo":"Core S&P 500"
   },
   {
     "ticker":"CSSX5E.MI",
     "categoria":"Etf",
     "valore_attuale":67.39,
-    "peso_percentuale":2.55,
+    "peso_percentuale":2.49,
     "titolo":"Core EURO STOXX 50"
   },
   {
     "ticker":"CVS",
     "categoria":"Azioni",
-    "valore_attuale":0.0,
-    "peso_percentuale":0.0,
+    "valore_attuale":66.67,
+    "peso_percentuale":2.46,
     "titolo":"CSV heath"
   },
   {
     "ticker":"CVX",
     "categoria":"Azioni",
     "valore_attuale":85.47,
-    "peso_percentuale":3.24,
+    "peso_percentuale":3.16,
     "titolo":"Chevron"
   },
   {
     "ticker":"ENEL.MI",
     "categoria":"Azioni",
     "valore_attuale":43.26,
-    "peso_percentuale":1.64,
+    "peso_percentuale":1.6,
     "titolo":"Enel"
   },
   {
     "ticker":"HEMA.MI",
     "categoria":"Etf",
     "valore_attuale":238.55,
-    "peso_percentuale":9.04,
+    "peso_percentuale":8.81,
     "titolo":"MSCI Emerging Markt"
   },
   {
     "ticker":"IBGX.MI",
     "categoria":"Etf",
     "valore_attuale":58.92,
-    "peso_percentuale":2.23,
+    "peso_percentuale":2.18,
     "titolo":"Euro Govt Bond 3-5y"
   },
   {
     "ticker":"IBGX.MI",
     "categoria":"Etf",
     "valore_attuale":58.92,
-    "peso_percentuale":2.23,
+    "peso_percentuale":2.18,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
     "ticker":"IBGX.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":206.14,
-    "peso_percentuale":7.81,
+    "peso_percentuale":7.62,
     "titolo":"Euro Govt Bond 3-5y"
   },
   {
     "ticker":"IBGX.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":206.14,
-    "peso_percentuale":7.81,
+    "peso_percentuale":7.62,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
     "ticker":"ISP.MI",
     "categoria":"Azioni",
     "valore_attuale":269.11,
-    "peso_percentuale":10.19,
+    "peso_percentuale":9.94,
     "titolo":"Intesa San Paolo"
   },
   {
     "ticker":"LDO.MI",
     "categoria":"Azioni",
     "valore_attuale":42.17,
-    "peso_percentuale":1.6,
+    "peso_percentuale":1.56,
     "titolo":"Leonardo-Finmeccanica"
   },
   {
     "ticker":"NVDA",
     "categoria":"Azioni",
     "valore_attuale":155.76,
-    "peso_percentuale":5.9,
+    "peso_percentuale":5.75,
     "titolo":"Nvidia"
   },
   {
     "ticker":"OBBL2030",
     "categoria":"Obbligazioni",
     "valore_attuale":19.99,
-    "peso_percentuale":0.76,
+    "peso_percentuale":0.74,
     "titolo":"obbligazioni dic 2030"
   },
   {
     "ticker":"PPFB.DE",
     "categoria":"Commodities",
     "valore_attuale":124.24,
-    "peso_percentuale":4.71,
+    "peso_percentuale":4.59,
     "titolo":"Physical Gold ETC"
   },
   {
     "ticker":"QNTM.MI",
     "categoria":"Etf",
     "valore_attuale":33.92,
-    "peso_percentuale":1.28,
+    "peso_percentuale":1.25,
     "titolo":"Quantum Computing USD"
   },
   {
     "ticker":"SOL-EUR",
     "categoria":"Crypto",
     "valore_attuale":7.38,
-    "peso_percentuale":0.28,
+    "peso_percentuale":0.27,
     "titolo":"Solana"
   },
   {
     "ticker":"SWDA.MI",
     "categoria":"Etf",
     "valore_attuale":520.62,
-    "peso_percentuale":19.72,
+    "peso_percentuale":19.23,
     "titolo":"MSCI World"
   },
   {
     "ticker":"TSLA",
     "categoria":"Azioni",
     "valore_attuale":50.17,
-    "peso_percentuale":1.9,
+    "peso_percentuale":1.85,
     "titolo":"tesla"
   },
   {
     "ticker":"XRP-EUR",
     "categoria":"Crypto",
     "valore_attuale":12.18,
-    "peso_percentuale":0.46,
+    "peso_percentuale":0.45,
     "titolo":"XRP"
   }
 ]
