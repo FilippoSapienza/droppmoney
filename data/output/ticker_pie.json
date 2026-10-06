@@ -24,14 +24,14 @@
     "ticker":"BTP10.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":257.51,
-    "peso_percentuale":9.45,
+    "peso_percentuale":9.44,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
     "ticker":"CSSPX.MI",
     "categoria":"Etf",
     "valore_attuale":370.69,
-    "peso_percentuale":13.6,
+    "peso_percentuale":13.59,
     "titolo":"Core S&P 500"
   },
   {
@@ -44,15 +44,15 @@
   {
     "ticker":"CVS",
     "categoria":"Azioni",
-    "valore_attuale":62.38,
-    "peso_percentuale":2.29,
+    "valore_attuale":62.59,
+    "peso_percentuale":2.3,
     "titolo":"CSV heath"
   },
   {
     "ticker":"CVX",
     "categoria":"Azioni",
-    "valore_attuale":86.91,
-    "peso_percentuale":3.19,
+    "valore_attuale":87.2,
+    "peso_percentuale":3.2,
     "titolo":"Chevron"
   },
   {
@@ -87,21 +87,21 @@
     "ticker":"IBGX.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":203.84,
-    "peso_percentuale":7.48,
+    "peso_percentuale":7.47,
     "titolo":"Euro Govt Bond 3-5y"
   },
   {
     "ticker":"IBGX.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":203.84,
-    "peso_percentuale":7.48,
+    "peso_percentuale":7.47,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
     "ticker":"ISP.MI",
     "categoria":"Azioni",
     "valore_attuale":258.6,
-    "peso_percentuale":9.49,
+    "peso_percentuale":9.48,
     "titolo":"Intesa San Paolo"
   },
   {
@@ -114,8 +114,8 @@
   {
     "ticker":"NVDA",
     "categoria":"Azioni",
-    "valore_attuale":170.32,
-    "peso_percentuale":6.25,
+    "valore_attuale":170.88,
+    "peso_percentuale":6.27,
     "titolo":"Nvidia"
   },
   {
@@ -150,13 +150,13 @@
     "ticker":"SWDA.MI",
     "categoria":"Etf",
     "valore_attuale":531.7,
-    "peso_percentuale":19.51,
+    "peso_percentuale":19.5,
     "titolo":"MSCI World"
   },
   {
     "ticker":"TSLA",
     "categoria":"Azioni",
-    "valore_attuale":53.32,
+    "valore_attuale":53.49,
     "peso_percentuale":1.96,
     "titolo":"tesla"
   },
