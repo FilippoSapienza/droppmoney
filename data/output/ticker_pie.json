@@ -10,7 +10,7 @@
     "ticker":"BTC-EUR",
     "categoria":"Crypto",
     "valore_attuale":26.47,
-    "peso_percentuale":0.96,
+    "peso_percentuale":0.97,
     "titolo":"Bitcoin"
   },
   {
@@ -31,7 +31,7 @@
     "ticker":"CSSPX.MI",
     "categoria":"Etf",
     "valore_attuale":374.3,
-    "peso_percentuale":13.64,
+    "peso_percentuale":13.65,
     "titolo":"Core S&P 500"
   },
   {
@@ -44,15 +44,15 @@
   {
     "ticker":"CVS",
     "categoria":"Azioni",
-    "valore_attuale":62.17,
-    "peso_percentuale":2.27,
+    "valore_attuale":61.97,
+    "peso_percentuale":2.26,
     "titolo":"CSV heath"
   },
   {
     "ticker":"CVX",
     "categoria":"Azioni",
-    "valore_attuale":87.66,
-    "peso_percentuale":3.2,
+    "valore_attuale":87.38,
+    "peso_percentuale":3.19,
     "titolo":"Chevron"
   },
   {
@@ -66,7 +66,7 @@
     "ticker":"HEMA.MI",
     "categoria":"Etf",
     "valore_attuale":247.27,
-    "peso_percentuale":9.01,
+    "peso_percentuale":9.02,
     "titolo":"MSCI Emerging Markt"
   },
   {
@@ -101,7 +101,7 @@
     "ticker":"ISP.MI",
     "categoria":"Azioni",
     "valore_attuale":261.86,
-    "peso_percentuale":9.54,
+    "peso_percentuale":9.55,
     "titolo":"Intesa San Paolo"
   },
   {
@@ -114,8 +114,8 @@
   {
     "ticker":"NVDA",
     "categoria":"Azioni",
-    "valore_attuale":171.13,
-    "peso_percentuale":6.24,
+    "valore_attuale":170.57,
+    "peso_percentuale":6.22,
     "titolo":"Nvidia"
   },
   {
@@ -129,7 +129,7 @@
     "ticker":"PPFB.DE",
     "categoria":"Commodities",
     "valore_attuale":120.85,
-    "peso_percentuale":4.4,
+    "peso_percentuale":4.41,
     "titolo":"Physical Gold ETC"
   },
   {
@@ -150,21 +150,21 @@
     "ticker":"SWDA.MI",
     "categoria":"Etf",
     "valore_attuale":536.36,
-    "peso_percentuale":19.55,
+    "peso_percentuale":19.56,
     "titolo":"MSCI World"
   },
   {
     "ticker":"TSLA",
     "categoria":"Azioni",
-    "valore_attuale":53.77,
-    "peso_percentuale":1.96,
+    "valore_attuale":53.6,
+    "peso_percentuale":1.95,
     "titolo":"tesla"
   },
   {
     "ticker":"XRP-EUR",
     "categoria":"Crypto",
     "valore_attuale":13.31,
-    "peso_percentuale":0.48,
+    "peso_percentuale":0.49,
     "titolo":"XRP"
   }
 ]
