@@ -9,8 +9,8 @@
   {
     "ticker":"BTC-EUR",
     "categoria":"Crypto",
-    "valore_attuale":26.0,
-    "peso_percentuale":0.96,
+    "valore_attuale":25.51,
+    "peso_percentuale":0.94,
     "titolo":"Bitcoin"
   },
   {
@@ -24,14 +24,14 @@
     "ticker":"BTP10.MI",
     "categoria":"Obbligazioni",
     "valore_attuale":258.09,
-    "peso_percentuale":9.49,
+    "peso_percentuale":9.5,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
     "ticker":"CSSPX.MI",
     "categoria":"Etf",
     "valore_attuale":376.6,
-    "peso_percentuale":13.85,
+    "peso_percentuale":13.86,
     "titolo":"Core S&P 500"
   },
   {
@@ -44,15 +44,15 @@
   {
     "ticker":"CVS",
     "categoria":"Azioni",
-    "valore_attuale":62.0,
-    "peso_percentuale":2.28,
+    "valore_attuale":63.14,
+    "peso_percentuale":2.32,
     "titolo":"CSV heath"
   },
   {
     "ticker":"CVX",
     "categoria":"Azioni",
-    "valore_attuale":89.55,
-    "peso_percentuale":3.29,
+    "valore_attuale":90.83,
+    "peso_percentuale":3.34,
     "titolo":"Chevron"
   },
   {
@@ -66,7 +66,7 @@
     "ticker":"HEMA.MI",
     "categoria":"Etf",
     "valore_attuale":240.19,
-    "peso_percentuale":8.83,
+    "peso_percentuale":8.84,
     "titolo":"MSCI Emerging Markt"
   },
   {
@@ -101,7 +101,7 @@
     "ticker":"ISP.MI",
     "categoria":"Azioni",
     "valore_attuale":246.13,
-    "peso_percentuale":9.05,
+    "peso_percentuale":9.06,
     "titolo":"Intesa San Paolo"
   },
   {
@@ -114,8 +114,8 @@
   {
     "ticker":"NVDA",
     "categoria":"Azioni",
-    "valore_attuale":164.06,
-    "peso_percentuale":6.03,
+    "valore_attuale":161.94,
+    "peso_percentuale":5.96,
     "titolo":"Nvidia"
   },
   {
@@ -142,29 +142,29 @@
   {
     "ticker":"SOL-EUR",
     "categoria":"Crypto",
-    "valore_attuale":8.25,
-    "peso_percentuale":0.3,
+    "valore_attuale":7.86,
+    "peso_percentuale":0.29,
     "titolo":"Solana"
   },
   {
     "ticker":"SWDA.MI",
     "categoria":"Etf",
     "valore_attuale":538.36,
-    "peso_percentuale":19.8,
+    "peso_percentuale":19.81,
     "titolo":"MSCI World"
   },
   {
     "ticker":"TSLA",
     "categoria":"Azioni",
-    "valore_attuale":54.08,
-    "peso_percentuale":1.99,
+    "valore_attuale":53.42,
+    "peso_percentuale":1.97,
     "titolo":"tesla"
   },
   {
     "ticker":"XRP-EUR",
     "categoria":"Crypto",
-    "valore_attuale":12.58,
-    "peso_percentuale":0.46,
+    "valore_attuale":12.0,
+    "peso_percentuale":0.44,
     "titolo":"XRP"
   }
 ]
