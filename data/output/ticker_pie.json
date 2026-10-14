@@ -16,43 +16,43 @@
   {
     "ticker":"BTP10.MI",
     "categoria":"Etf",
-    "valore_attuale":57.32,
-    "peso_percentuale":2.1,
+    "valore_attuale":57.53,
+    "peso_percentuale":2.11,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
     "ticker":"BTP10.MI",
     "categoria":"Obbligazioni",
-    "valore_attuale":258.27,
-    "peso_percentuale":9.47,
+    "valore_attuale":259.2,
+    "peso_percentuale":9.53,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
     "ticker":"CSSPX.MI",
     "categoria":"Etf",
-    "valore_attuale":378.22,
-    "peso_percentuale":13.86,
+    "valore_attuale":376.47,
+    "peso_percentuale":13.84,
     "titolo":"Core S&P 500"
   },
   {
     "ticker":"CSSX5E.MI",
     "categoria":"Etf",
-    "valore_attuale":65.35,
-    "peso_percentuale":2.4,
+    "valore_attuale":65.04,
+    "peso_percentuale":2.39,
     "titolo":"Core EURO STOXX 50"
   },
   {
     "ticker":"CVS",
     "categoria":"Azioni",
-    "valore_attuale":63.3,
+    "valore_attuale":63.05,
     "peso_percentuale":2.32,
     "titolo":"CSV heath"
   },
   {
     "ticker":"CVX",
     "categoria":"Azioni",
-    "valore_attuale":92.42,
-    "peso_percentuale":3.39,
+    "valore_attuale":92.05,
+    "peso_percentuale":3.38,
     "titolo":"Chevron"
   },
   {
@@ -65,56 +65,56 @@
   {
     "ticker":"HEMA.MI",
     "categoria":"Etf",
-    "valore_attuale":238.93,
-    "peso_percentuale":8.76,
+    "valore_attuale":236.33,
+    "peso_percentuale":8.69,
     "titolo":"MSCI Emerging Markt"
   },
   {
     "ticker":"IBGX.MI",
     "categoria":"Etf",
-    "valore_attuale":58.34,
-    "peso_percentuale":2.14,
+    "valore_attuale":58.41,
+    "peso_percentuale":2.15,
     "titolo":"Euro Govt Bond 3-5y"
   },
   {
     "ticker":"IBGX.MI",
     "categoria":"Etf",
-    "valore_attuale":58.34,
-    "peso_percentuale":2.14,
+    "valore_attuale":58.41,
+    "peso_percentuale":2.15,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
     "ticker":"IBGX.MI",
     "categoria":"Obbligazioni",
-    "valore_attuale":204.1,
-    "peso_percentuale":7.48,
+    "valore_attuale":204.35,
+    "peso_percentuale":7.51,
     "titolo":"Euro Govt Bond 3-5y"
   },
   {
     "ticker":"IBGX.MI",
     "categoria":"Obbligazioni",
-    "valore_attuale":204.1,
-    "peso_percentuale":7.48,
+    "valore_attuale":204.35,
+    "peso_percentuale":7.51,
     "titolo":"Amundi Btp Italy 10y"
   },
   {
     "ticker":"ISP.MI",
     "categoria":"Azioni",
     "valore_attuale":249.31,
-    "peso_percentuale":9.14,
+    "peso_percentuale":9.16,
     "titolo":"Intesa San Paolo"
   },
   {
     "ticker":"LDO.MI",
     "categoria":"Azioni",
     "valore_attuale":39.09,
-    "peso_percentuale":1.43,
+    "peso_percentuale":1.44,
     "titolo":"Leonardo-Finmeccanica"
   },
   {
     "ticker":"NVDA",
     "categoria":"Azioni",
-    "valore_attuale":164.29,
+    "valore_attuale":163.64,
     "peso_percentuale":6.02,
     "titolo":"Nvidia"
   },
@@ -128,15 +128,15 @@
   {
     "ticker":"PPFB.DE",
     "categoria":"Commodities",
-    "valore_attuale":122.16,
+    "valore_attuale":121.76,
     "peso_percentuale":4.48,
     "titolo":"Physical Gold ETC"
   },
   {
     "ticker":"QNTM.MI",
     "categoria":"Etf",
-    "valore_attuale":33.75,
-    "peso_percentuale":1.24,
+    "valore_attuale":32.9,
+    "peso_percentuale":1.21,
     "titolo":"Quantum Computing USD"
   },
   {
@@ -149,14 +149,14 @@
   {
     "ticker":"SWDA.MI",
     "categoria":"Etf",
-    "valore_attuale":540.81,
-    "peso_percentuale":19.82,
+    "valore_attuale":538.65,
+    "peso_percentuale":19.8,
     "titolo":"MSCI World"
   },
   {
     "ticker":"TSLA",
     "categoria":"Azioni",
-    "valore_attuale":53.27,
+    "valore_attuale":53.06,
     "peso_percentuale":1.95,
     "titolo":"tesla"
   },
