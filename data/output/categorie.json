@@ -1,8 +1,8 @@
 [
   {
     "categoria":"Azioni",
-    "valore_attuale":622.42,
-    "peso_percentuale":24.91
+    "valore_attuale":622.2,
+    "peso_percentuale":24.9
   },
   {
     "categoria":"Commodities",
@@ -17,7 +17,7 @@
   {
     "categoria":"Etf",
     "valore_attuale":1251.38,
-    "peso_percentuale":50.08
+    "peso_percentuale":50.09
   },
   {
     "categoria":"Obbligazioni",
